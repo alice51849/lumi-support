@@ -3,76 +3,199 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Lumi 注音星球 — 支援與隱私 / Support &amp; Privacy</title>
+<title>Lumi 注音星球 · 支援中心 | Support &amp; Privacy</title>
+<meta name="description" content="Lumi 注音星球 / Lumi Bopomofo — 支援、常見問題與隱私政策。Support, FAQ and Privacy Policy.">
+<link rel="icon" href="logo.png">
 <style>
-  :root{--bg:#EFE3FF;--mid:#D9C7F5;--ink:#3a2b5c;--gold:#E8A317;--card:#ffffffcc}
+  :root{
+    --bg1:#F3ECFF; --bg2:#E4D6FA; --bg3:#CBB6F0;
+    --ink:#34265a; --ink2:#5b4d80; --muted:#8579a8;
+    --gold:#E8A317; --gold-soft:#FFE7A8; --violet:#7a4ed0;
+    --card:rgba(255,255,255,.72); --line:rgba(52,38,90,.08);
+  }
   *{box-sizing:border-box}
-  body{margin:0;font-family:-apple-system,"PingFang TC","Helvetica Neue",Arial,sans-serif;
-       color:var(--ink);background:linear-gradient(160deg,var(--bg),var(--mid));min-height:100vh;line-height:1.7}
-  .wrap{max-width:760px;margin:0 auto;padding:32px 20px 64px}
-  header{text-align:center;padding:24px 0 8px}
-  header h1{margin:.2em 0;font-size:1.6rem}
-  .badge{display:inline-block;background:var(--gold);color:#fff;border-radius:999px;
-         padding:3px 12px;font-size:.8rem;font-weight:700;letter-spacing:.5px}
-  .card{background:var(--card);backdrop-filter:blur(6px);border-radius:20px;padding:22px 24px;
-        margin:18px 0;box-shadow:0 8px 30px #6b4ea51f}
-  h2{font-size:1.15rem;margin:.2em 0 .5em;border-left:5px solid var(--gold);padding-left:10px}
-  a{color:#7a4ed0;font-weight:600}
-  .mail{font-size:1.05rem}
-  ul{padding-left:1.2em}
-  .muted{color:#6b5a88;font-size:.85rem;text-align:center;margin-top:28px}
-  .en{color:#5c4b7d}
-  hr{border:none;border-top:1px solid #00000010;margin:14px 0}
+  html{scroll-behavior:smooth}
+  body{
+    margin:0; color:var(--ink); -webkit-font-smoothing:antialiased;
+    font-family:-apple-system,BlinkMacSystemFont,"PingFang TC","Noto Sans TC","Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+    line-height:1.75; font-size:16px;
+    background:
+      radial-gradient(1200px 600px at 15% -10%, #fff6 0, #fff0 60%),
+      radial-gradient(900px 500px at 95% 0%, var(--gold-soft) 0, #fff0 45%),
+      linear-gradient(165deg, var(--bg1) 0%, var(--bg2) 55%, var(--bg3) 100%);
+    background-attachment:fixed; min-height:100vh;
+  }
+  .wrap{max-width:780px; margin:0 auto; padding:40px 22px 72px}
+
+  /* ---- Hero ---- */
+  .hero{
+    text-align:center; padding:40px 28px 34px; margin-bottom:26px;
+    background:var(--card); backdrop-filter:blur(14px); -webkit-backdrop-filter:blur(14px);
+    border:1px solid #ffffff80; border-radius:30px;
+    box-shadow:0 24px 60px -24px #4a318a55, inset 0 1px 0 #fff;
+  }
+  .logo{
+    width:104px; height:104px; border-radius:26px; display:block; margin:0 auto 18px;
+    box-shadow:0 14px 34px -10px #6b4ea5aa, 0 0 0 6px #ffffff66;
+  }
+  .kicker{
+    display:inline-block; font-size:.72rem; font-weight:800; letter-spacing:1.4px;
+    text-transform:uppercase; color:#fff; background:linear-gradient(135deg,#FFCF5C,var(--gold));
+    padding:5px 14px; border-radius:999px; box-shadow:0 6px 16px -6px #E8A31799;
+  }
+  .hero h1{margin:.5em 0 .15em; font-size:1.85rem; letter-spacing:.5px; font-weight:800}
+  .hero .en{color:var(--ink2); font-weight:600; font-size:1.02rem}
+  .hero p.tag{color:var(--muted); margin:.7em auto 0; max-width:30em}
+
+  /* ---- Quick nav ---- */
+  .nav{display:flex; gap:10px; justify-content:center; flex-wrap:wrap; margin:22px 0 2px}
+  .nav a{
+    text-decoration:none; font-weight:700; font-size:.9rem; color:var(--violet);
+    background:#ffffffb0; border:1px solid var(--line); padding:9px 16px; border-radius:999px;
+    transition:.15s; box-shadow:0 4px 12px -8px #4a318a66;
+  }
+  .nav a:hover{transform:translateY(-1px); background:#fff; box-shadow:0 8px 18px -10px #4a318a88}
+
+  /* ---- Cards ---- */
+  .card{
+    background:var(--card); backdrop-filter:blur(12px); -webkit-backdrop-filter:blur(12px);
+    border:1px solid #ffffff70; border-radius:24px; padding:26px 28px; margin:20px 0;
+    box-shadow:0 18px 46px -26px #4a318a55, inset 0 1px 0 #fff;
+  }
+  .card h2{
+    display:flex; align-items:center; gap:10px;
+    font-size:1.18rem; margin:0 0 .6em; font-weight:800; letter-spacing:.3px;
+  }
+  .card h2 .ic{
+    width:34px; height:34px; flex:0 0 34px; border-radius:11px; display:grid; place-items:center;
+    background:linear-gradient(135deg,var(--gold-soft),#FFD98A); font-size:1.05rem;
+    box-shadow:inset 0 0 0 1px #ffffffcc;
+  }
+  .card h2 .en{font-size:.8rem; color:var(--muted); font-weight:600; margin-left:auto}
+
+  .mail-btn{
+    display:inline-flex; align-items:center; gap:10px; text-decoration:none;
+    font-weight:800; font-size:1.04rem; color:#fff; margin-top:6px;
+    background:linear-gradient(135deg,#8e5fe0,var(--violet)); padding:13px 22px; border-radius:14px;
+    box-shadow:0 14px 30px -12px #7a4ed0cc; transition:.15s;
+  }
+  .mail-btn:hover{transform:translateY(-1px); box-shadow:0 18px 34px -12px #7a4ed0}
+  .lead{color:var(--ink2)}
+
+  .qa{padding:16px 0; border-top:1px solid var(--line)}
+  .qa:first-of-type{border-top:none; padding-top:4px}
+  .qa b{display:block; font-size:1.02rem; margin-bottom:3px}
+  .qa .en{display:block; color:var(--muted); font-size:.9rem; margin-top:4px}
+
+  .pill-list{list-style:none; padding:0; margin:6px 0 14px; display:grid; gap:10px}
+  .pill-list li{
+    display:flex; gap:11px; align-items:flex-start;
+    background:#ffffff8c; border:1px solid var(--line); border-radius:14px; padding:12px 15px;
+  }
+  .pill-list .chk{color:#1f9d6b; font-weight:900; flex:0 0 auto; margin-top:1px}
+  .pill-list .en{color:var(--muted); font-size:.88rem}
+  .meta{font-size:.86rem; color:var(--muted); margin:0 0 10px}
+  .prose p{color:var(--ink2)} .prose .en{color:var(--muted); font-size:.9rem}
+  .prose h3{font-size:1rem; margin:18px 0 4px}
+
+  footer{text-align:center; color:var(--muted); font-size:.85rem; margin-top:34px; line-height:1.9}
+  footer .brand{font-weight:800; color:var(--ink2); letter-spacing:.5px}
+  footer a{color:var(--violet); text-decoration:none}
+  @media (max-width:560px){
+    .hero h1{font-size:1.5rem} .card{padding:22px 20px} .wrap{padding:28px 16px 56px}
+    .card h2 .en{display:none}
+  }
 </style>
 </head>
 <body>
 <div class="wrap">
-  <header>
-    <span class="badge">Lumi 注音星球 / Lumi Bopomofo</span>
-    <h1>支援與隱私<br><span class="en" style="font-size:1rem">Support &amp; Privacy</span></h1>
-  </header>
 
-  <div class="card">
-    <h2>聯絡我們 / Contact</h2>
-    <p>有任何問題、建議或需要協助，歡迎來信，我們會盡快回覆。<br>
-    <span class="en">For any questions, feedback, or help, please email us — we reply as soon as we can.</span></p>
-    <p class="mail">✉️ <a href="mailto:alice51849@hotmail.com">alice51849@hotmail.com</a></p>
-  </div>
+  <section class="hero">
+    <img class="logo" src="logo.png" alt="Lumi 注音星球 app icon">
+    <span class="kicker">Support Center</span>
+    <h1>Lumi 注音星球<br><span class="en">Lumi Bopomofo · 支援中心</span></h1>
+    <p class="tag">為孩子打造的注音學習遊戲。這裡有聯絡方式、常見問題與隱私政策。<br>
+      A learning game built for kids — find contact, FAQ and our privacy policy below.</p>
+    <nav class="nav">
+      <a href="#contact">聯絡我們</a>
+      <a href="#faq">常見問題</a>
+      <a href="#privacy">隱私政策</a>
+    </nav>
+  </section>
 
-  <div class="card">
-    <h2>常見問題 / FAQ</h2>
-    <p><b>進度會不見嗎？ Will progress be lost?</b><br>
-    學習進度只存在裝置上，可用 App 內的「匯出 / 匯入」備份。刪除 App 會一併清除進度。<br>
-    <span class="en">Progress is stored only on your device. Use in-app Export / Import to back it up. Deleting the app removes it.</span></p>
-    <hr>
-    <p><b>付費版包含什麼？ What does the paid version include?</b><br>
-    Lumi 注音星球 Pro 一次購買、永久使用，所有關卡與練習內容全部解鎖，無內購、無廣告。<br>
-    <span class="en">Lumi Bopomofo Pro is a one-time purchase with all levels and practice content unlocked — no in-app purchases, no ads.</span></p>
-    <hr>
-    <p><b>支援哪些裝置？ Supported devices?</b><br>
-    支援 iPhone 與 iPad。<span class="en">Works on iPhone and iPad.</span></p>
-  </div>
+  <section class="card" id="contact">
+    <h2><span class="ic">✉️</span> 聯絡我們 <span class="en">Contact</span></h2>
+    <p class="lead">有任何問題、建議或需要協助，歡迎來信。我們通常會在 1–2 個工作天內回覆。<br>
+      <span style="color:var(--muted);font-size:.9rem">Questions, feedback or help? Email us — we usually reply within 1–2 business days.</span></p>
+    <a class="mail-btn" href="mailto:hourstag.app@gmail.com">hourstag.app@gmail.com</a>
+  </section>
 
-  <div class="card" id="privacy">
-    <h2>隱私政策 / Privacy Policy</h2>
-    <p><b>生效日期 Effective date: 2026-05-25</b></p>
-    <ul>
-      <li>我們<b>不蒐集任何個人資料</b>。We do <b>not</b> collect any personal data.</li>
-      <li>無帳號、無註冊、無登入。No accounts, no sign-up, no login.</li>
-      <li>無廣告、無第三方分析或追蹤。No ads, no third-party analytics or tracking.</li>
-      <li>所有資料都<b>不會離開你的裝置</b>。No data ever leaves your device.</li>
+  <section class="card" id="faq">
+    <h2><span class="ic">💡</span> 常見問題 <span class="en">FAQ</span></h2>
+
+    <div class="qa">
+      <b>學習進度會不會不見？</b>
+      進度只儲存在你的裝置上。可用 App 內的「匯出 / 匯入」功能備份；刪除 App 會一併清除進度。
+      <span class="en">Progress is stored only on your device. Use in-app Export / Import to back it up. Deleting the app removes it.</span>
+    </div>
+
+    <div class="qa">
+      <b>付費版包含哪些內容？</b>
+      Lumi 注音星球 Pro 為一次購買、永久使用，所有關卡與練習內容全部解鎖，沒有任何內購、沒有廣告。
+      <span class="en">Lumi Bopomofo Pro is a one-time purchase — all levels and practice unlocked, with no in-app purchases and no ads.</span>
+    </div>
+
+    <div class="qa">
+      <b>適合幾歲的孩子？支援哪些裝置？</b>
+      專為約 4–7 歲的學齡前與低年級兒童設計，支援 iPhone 與 iPad。
+      <span class="en">Designed for children around ages 4–7. Works on both iPhone and iPad.</span>
+    </div>
+
+    <div class="qa">
+      <b>App 會不會蒐集孩子的個人資料？</b>
+      不會。App 不蒐集任何個人資料、無帳號、無廣告、無第三方追蹤，所有資料都留在裝置上。詳見下方隱私政策。
+      <span class="en">No. The app collects no personal data, has no accounts, ads or third-party tracking — everything stays on the device. See the privacy policy below.</span>
+    </div>
+  </section>
+
+  <section class="card prose" id="privacy">
+    <h2><span class="ic">🔒</span> 隱私政策 <span class="en">Privacy Policy</span></h2>
+    <p class="meta">生效日期 Effective date: 2026-05-25</p>
+
+    <ul class="pill-list">
+      <li><span class="chk">✓</span><div>我們<b>不蒐集任何個人資料</b>。<span class="en">We do not collect any personal data.</span></div></li>
+      <li><span class="chk">✓</span><div>無帳號、無註冊、無登入。<span class="en">No accounts, no sign-up, no login.</span></div></li>
+      <li><span class="chk">✓</span><div>無廣告、無第三方分析或追蹤。<span class="en">No ads, no third-party analytics or tracking.</span></div></li>
+      <li><span class="chk">✓</span><div>所有資料都<b>不會離開你的裝置</b>。<span class="en">No data ever leaves your device.</span></div></li>
     </ul>
-    <p>App 僅在<b>裝置本機</b>儲存孩子的學習進度（已解鎖的字、星星、聽過的聲調、設定）。此資料不會傳送給我們或任何人，刪除 App 即清除。<br>
-    <span class="en">The app stores your child's learning progress only on the device. It is never transmitted to us or anyone, and is removed when you delete the app.</span></p>
-    <p>選用的「匯出 / 匯入」功能會將進度檔存到<b>你自己的裝置／檔案 App</b>，由你選擇位置，我們不會收到或保存該檔。<br>
-    <span class="en">The optional Export / Import saves the progress file to your own device/Files app, chosen by you. We never receive or store it.</span></p>
-    <p><b>兒童隱私 Children's privacy：</b>本 App 為兒童（約 4–7 歲）設計，因完全不蒐集個人資訊，符合 COPPA 與 GDPR-K，無行為廣告、無第三方資料分享。<br>
-    <span class="en">Designed for children (~4–7). Because it collects no personal info, it complies with COPPA and GDPR-K; no behavioral ads, no third-party data sharing.</span></p>
-    <p><b>權限 Permissions：</b>不要求相機、麥克風、定位、聯絡人、照片或通知等敏感權限；音訊與語音皆於裝置本機運作。<br>
-    <span class="en">No sensitive permissions (camera, mic, location, contacts, photos, notifications). Audio and text-to-speech run entirely on device.</span></p>
-  </div>
 
-  <p class="muted">© 2026 Lumi 注音星球 / Lumi Bopomofo · alice51849@hotmail.com</p>
+    <h3>我們儲存什麼 What we store</h3>
+    <p>App 僅在<b>裝置本機</b>儲存孩子的學習進度（已解鎖的字、星星、聽過的聲調、設定）。此資料不會傳送給我們或任何人，並在你刪除 App 時一併移除。<br>
+      <span class="en">The app stores your child's learning progress (unlocked characters, stars, tones heard, settings) only on the device. It is never transmitted to us or anyone, and is removed when you delete the app.</span></p>
+
+    <h3>備份／還原 Backup / Restore</h3>
+    <p>選用的「匯出 / 匯入」會把進度檔存到<b>你自己的裝置／檔案 App</b>，位置由你決定，我們不會收到或保存該檔。<br>
+      <span class="en">The optional Export / Import saves the progress file to your own device / Files app, chosen by you. We never receive or store it.</span></p>
+
+    <h3>兒童隱私 Children's privacy</h3>
+    <p>本 App 為兒童（約 4–7 歲）設計。因完全不蒐集個人資訊，符合美國 COPPA 與歐盟 GDPR-K，沒有行為廣告，也沒有任何第三方資料分享。<br>
+      <span class="en">Designed for children (~4–7). As it collects no personal information, it complies with COPPA and GDPR-K — no behavioral advertising and no third-party data sharing.</span></p>
+
+    <h3>權限 Permissions</h3>
+    <p>App 不要求相機、麥克風、定位、聯絡人、照片或通知等任何敏感權限；音訊播放與語音合成皆在裝置本機運作。<br>
+      <span class="en">The app requests no sensitive permissions (camera, microphone, location, contacts, photos, notifications). Audio playback and text-to-speech run entirely on device.</span></p>
+
+    <h3>政策變更 Changes</h3>
+    <p>若本政策有任何變動，我們會更新本頁面與上方的生效日期。<br>
+      <span class="en">If this policy changes, we will update this page and the effective date above.</span></p>
+  </section>
+
+  <footer>
+    <div class="brand">Cait518</div>
+    © 2026 Cait518 · Lumi 注音星球 / Lumi Bopomofo<br>
+    <a href="mailto:hourstag.app@gmail.com">hourstag.app@gmail.com</a>
+  </footer>
+
 </div>
 </body>
 </html>
