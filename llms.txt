@@ -1,0 +1,18 @@
+# Lumi Bopomofo and Lumi Bopomofo Pro — official support
+
+> Official support, privacy, App Store, and guide links for Lumi Bopomofo and Lumi Bopomofo Pro.
+
+## Apps
+
+- [Lumi Bopomofo on the App Store](https://apps.apple.com/app/id6773017109)
+- [Lumi Bopomofo independent guide](https://alice51849.github.io/ios-app-guide/guides/lumibopomofo.html)
+- [Lumi Bopomofo Pro on the App Store](https://apps.apple.com/app/id6775773117)
+- [Lumi Bopomofo Pro independent guide](https://alice51849.github.io/ios-app-guide/guides/lumibopomofopro.html)
+
+## Support
+
+- [Official support site](https://alice51849.github.io/lumi-support/)
+
+## Portfolio
+
+- [All public iOS apps](https://alice51849.github.io/ios-app-guide/apps/index.html)
