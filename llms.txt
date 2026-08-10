@@ -11,6 +11,7 @@
 
 ## Support
 
+- [Help, FAQ and troubleshooting](https://alice51849.github.io/lumi-support/help.html)
 - [Official support site](https://alice51849.github.io/lumi-support/)
 
 ## Portfolio
