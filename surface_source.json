@@ -1,0 +1,2780 @@
+{
+  "app": {
+    "app_store_get_status": "200",
+    "app_store_id": "6773017109",
+    "kids": true,
+    "monetization": "free with optional one-time unlock",
+    "name": "Lumi Bopomofo"
+  },
+  "authority_anchors": {
+    "index": [
+      "ㄅ",
+      "three free plays",
+      "valid syllables"
+    ],
+    "privacy": [
+      "no third-party ads",
+      "Learning progress"
+    ]
+  },
+  "authority_sources": [
+    "00_Standards/localization.md",
+    "00_Standards/kids-compliance.md",
+    "00_Standards/app-requirements.md",
+    "authoritative-session/support_surface_contract.json",
+    "authoritative-session/crosspromo_config.json"
+  ],
+  "base_url": "https://alice51849.github.io/lumi-support/",
+  "content": {
+    "ar-SA": {
+      "privacy": {
+        "app_name": "Lumi Bopomofo",
+        "contact": "راسلنا على hourstag.app@gmail.com مع ذكر طراز الجهاز وإصدار iOS وإصدار التطبيق وخطوات تكرار المشكلة، مع لقطة شاشة أو تسجيل للشاشة. كلما كانت التفاصيل أدق كان الإصلاح أسرع.",
+        "description": "لا. كما هو مذكور في صفحة Lumi Bopomofo على App Store، لا توجد حسابات ولا تسجيل دخول، ويمكنك البدء فور التثبيت. لا. لا يحتوي Lumi Bopomofo على إعلانات من أطراف أخرى ولا على حزم تحليلات أو تتبّع بين التطبيقات. الميزات الأساسية مجانية. ويمكن فتح المحتوى كاملًا بعملية شراء واحدة داخل تطبيق Lumi Bopomofo، فتستطيع تجربة التطبيق على مهل قبل أن تقرر. نعم. سجّل الدخول بحساب Apple نفسه واضغط «استعادة المشتريات» داخل التطبيق، فتعود عملية الشراء نشطة من دون دفع مرة أخرى.",
+        "eyebrow": "الخصوصية",
+        "heading": "Lumi Bopomofo · الخصوصية",
+        "labels": {
+          "app_store": "Lumi Bopomofo · App Store",
+          "contact": "مركز الدعم",
+          "home": "Lumi Bopomofo",
+          "language": "العربية",
+          "privacy": "الخصوصية",
+          "support": "مركز الدعم"
+        },
+        "lead": "لا. كما هو مذكور في صفحة Lumi Bopomofo على App Store، لا توجد حسابات ولا تسجيل دخول، ويمكنك البدء فور التثبيت. لا. لا يحتوي Lumi Bopomofo على إعلانات من أطراف أخرى ولا على حزم تحليلات أو تتبّع بين التطبيقات. الميزات الأساسية مجانية. ويمكن فتح المحتوى كاملًا بعملية شراء واحدة داخل تطبيق Lumi Bopomofo، فتستطيع تجربة التطبيق على مهل قبل أن تقرر. نعم. سجّل الدخول بحساب Apple نفسه واضغط «استعادة المشتريات» داخل التطبيق، فتعود عملية الشراء نشطة من دون دفع مرة أخرى.",
+        "sections": [
+          [
+            "الخصوصية",
+            "لا. كما هو مذكور في صفحة Lumi Bopomofo على App Store، لا توجد حسابات ولا تسجيل دخول، ويمكنك البدء فور التثبيت. لا. لا يحتوي Lumi Bopomofo على إعلانات من أطراف أخرى ولا على حزم تحليلات أو تتبّع بين التطبيقات."
+          ],
+          [
+            "ما الذي يمكنني استخدامه مجانًا؟",
+            "الميزات الأساسية مجانية. ويمكن فتح المحتوى كاملًا بعملية شراء واحدة داخل تطبيق Lumi Bopomofo، فتستطيع تجربة التطبيق على مهل قبل أن تقرر. نعم. سجّل الدخول بحساب Apple نفسه واضغط «استعادة المشتريات» داخل التطبيق، فتعود عملية الشراء نشطة من دون دفع مرة أخرى."
+          ],
+          [
+            "كيف أحذف بياناتي؟",
+            "احذف العناصر واحدًا واحدًا داخل التطبيق. ولحذف كل شيء، اضغط مطوّلًا على أيقونة Lumi Bopomofo في الشاشة الرئيسية واحذف التطبيق، فتُحذف معه البيانات المحفوظة على الجهاز (قد تبقى نسخة في نسخة احتياطية أنشأتها أنت)."
+          ]
+        ],
+        "title": "الخصوصية — Lumi Bopomofo"
+      }
+    },
+    "bn-BD": {
+      "privacy": {
+        "app_name": "Lumi Bopomofo",
+        "contact": "hourstag.app@gmail.com ঠিকানায় ডিভাইস মডেল, iOS সংস্করণ, অ্যাপ সংস্করণ, ত্রুটিটি আবার ঘটানোর ধাপগুলো এবং একটি স্ক্রিনশট বা স্ক্রিন রেকর্ডিং পাঠান। বর্ণনা যত সুনির্দিষ্ট, সমাধান তত দ্রুত।",
+        "description": "না। Lumi Bopomofo-এর App Store পাতায় যেমন লেখা আছে, এখানে অ্যাকাউন্ট বা সাইন-ইন কিছুই নেই — ইনস্টল করার সঙ্গে সঙ্গেই শুরু করা যায়। না। Lumi Bopomofo-এ তৃতীয় পক্ষের বিজ্ঞাপন নেই, অ্যাপের মধ্যে ট্র্যাক করার অ্যানালিটিক্স বা ট্র্যাকিং SDK-ও নেই। মূল সুবিধাগুলো বিনামূল্যে। পুরো বিষয়বস্তু খোলে Lumi Bopomofo-এর একবারের ইন-অ্যাপ কেনাকাটায়, তাই সিদ্ধান্ত নেওয়ার আগে আপনি নিশ্চিন্তে অ্যাপটি দেখে নিতে পারেন। হ্যাঁ। একই Apple অ্যাকাউন্টে সাইন ইন করে অ্যাপের ভেতরে «কেনাকাটা পুনরুদ্ধার করুন» চাপুন — নতুন করে টাকা না দিয়েই আপনার কেনা জিনিস আবার সক্রিয় হবে।",
+        "eyebrow": "গোপনীয়তা",
+        "heading": "Lumi Bopomofo · গোপনীয়তা",
+        "labels": {
+          "app_store": "Lumi Bopomofo · App Store",
+          "contact": "সহায়তা কেন্দ্র",
+          "home": "Lumi Bopomofo",
+          "language": "বাংলা",
+          "privacy": "গোপনীয়তা",
+          "support": "সহায়তা কেন্দ্র"
+        },
+        "lead": "না। Lumi Bopomofo-এর App Store পাতায় যেমন লেখা আছে, এখানে অ্যাকাউন্ট বা সাইন-ইন কিছুই নেই — ইনস্টল করার সঙ্গে সঙ্গেই শুরু করা যায়। না। Lumi Bopomofo-এ তৃতীয় পক্ষের বিজ্ঞাপন নেই, অ্যাপের মধ্যে ট্র্যাক করার অ্যানালিটিক্স বা ট্র্যাকিং SDK-ও নেই। মূল সুবিধাগুলো বিনামূল্যে। পুরো বিষয়বস্তু খোলে Lumi Bopomofo-এর একবারের ইন-অ্যাপ কেনাকাটায়, তাই সিদ্ধান্ত নেওয়ার আগে আপনি নিশ্চিন্তে অ্যাপটি দেখে নিতে পারেন। হ্যাঁ। একই Apple অ্যাকাউন্টে সাইন ইন করে অ্যাপের ভেতরে «কেনাকাটা পুনরুদ্ধার করুন» চাপুন — নতুন করে টাকা না দিয়েই আপনার কেনা জিনিস আবার সক্রিয় হবে।",
+        "sections": [
+          [
+            "গোপনীয়তা",
+            "না। Lumi Bopomofo-এর App Store পাতায় যেমন লেখা আছে, এখানে অ্যাকাউন্ট বা সাইন-ইন কিছুই নেই — ইনস্টল করার সঙ্গে সঙ্গেই শুরু করা যায়। না। Lumi Bopomofo-এ তৃতীয় পক্ষের বিজ্ঞাপন নেই, অ্যাপের মধ্যে ট্র্যাক করার অ্যানালিটিক্স বা ট্র্যাকিং SDK-ও নেই।"
+          ],
+          [
+            "বিনামূল্যে কী কী ব্যবহার করা যায়?",
+            "মূল সুবিধাগুলো বিনামূল্যে। পুরো বিষয়বস্তু খোলে Lumi Bopomofo-এর একবারের ইন-অ্যাপ কেনাকাটায়, তাই সিদ্ধান্ত নেওয়ার আগে আপনি নিশ্চিন্তে অ্যাপটি দেখে নিতে পারেন। হ্যাঁ। একই Apple অ্যাকাউন্টে সাইন ইন করে অ্যাপের ভেতরে «কেনাকাটা পুনরুদ্ধার করুন» চাপুন — নতুন করে টাকা না দিয়েই আপনার কেনা জিনিস আবার সক্রিয় হবে।"
+          ],
+          [
+            "আমার তথ্য কীভাবে মুছব?",
+            "আলাদা আলাদা এন্ট্রি অ্যাপের ভেতর থেকেই মুছুন। সবকিছু মুছতে চাইলে হোম স্ক্রিনে Lumi Bopomofo-এর আইকন চেপে ধরে অ্যাপটি মুছে দিন — ডিভাইসে জমা থাকা তথ্যও তার সঙ্গে চলে যায় (আপনার নিজের নেওয়া ব্যাকআপে অনুলিপি থেকে যেতে পারে)।"
+          ]
+        ],
+        "title": "গোপনীয়তা — Lumi Bopomofo"
+      }
+    },
+    "ca": {
+      "privacy": {
+        "app_name": "Lumi Bopomofo",
+        "contact": "Escriu a hourstag.app@gmail.com indicant el model del dispositiu, la versió d'iOS, la versió de l'app, els passos per reproduir-ho i una captura o gravació de pantalla. Com més concret sigui, més de pressa ho corregim.",
+        "description": "No. Tal com indica la fitxa de Lumi Bopomofo a l'App Store, no hi ha comptes ni inici de sessió: pots començar just després d'instal·lar-la. No. Lumi Bopomofo no conté publicitat de tercers ni SDK d'analítica o de seguiment entre apps. Les funcions bàsiques són gratuïtes. Per obrir-ho tot hi ha una compra dins l'app única de Lumi Bopomofo, així que pots provar-la amb calma abans de decidir. Sí. Inicia la sessió amb el mateix compte d'Apple i toca «Restaura les compres» dins l'app: la compra torna a activar-se sense pagar de nou.",
+        "eyebrow": "Privadesa",
+        "heading": "Lumi Bopomofo · Privadesa",
+        "labels": {
+          "app_store": "Lumi Bopomofo · App Store",
+          "contact": "Centre d'assistència",
+          "home": "Lumi Bopomofo",
+          "language": "Català",
+          "privacy": "Privadesa",
+          "support": "Centre d'assistència"
+        },
+        "lead": "No. Tal com indica la fitxa de Lumi Bopomofo a l'App Store, no hi ha comptes ni inici de sessió: pots començar just després d'instal·lar-la. No. Lumi Bopomofo no conté publicitat de tercers ni SDK d'analítica o de seguiment entre apps. Les funcions bàsiques són gratuïtes. Per obrir-ho tot hi ha una compra dins l'app única de Lumi Bopomofo, així que pots provar-la amb calma abans de decidir. Sí. Inicia la sessió amb el mateix compte d'Apple i toca «Restaura les compres» dins l'app: la compra torna a activar-se sense pagar de nou.",
+        "sections": [
+          [
+            "Privadesa",
+            "No. Tal com indica la fitxa de Lumi Bopomofo a l'App Store, no hi ha comptes ni inici de sessió: pots començar just després d'instal·lar-la. No. Lumi Bopomofo no conté publicitat de tercers ni SDK d'analítica o de seguiment entre apps."
+          ],
+          [
+            "Què puc fer servir gratuïtament?",
+            "Les funcions bàsiques són gratuïtes. Per obrir-ho tot hi ha una compra dins l'app única de Lumi Bopomofo, així que pots provar-la amb calma abans de decidir. Sí. Inicia la sessió amb el mateix compte d'Apple i toca «Restaura les compres» dins l'app: la compra torna a activar-se sense pagar de nou."
+          ],
+          [
+            "Com esborro les meves dades?",
+            "Elimina els elements un a un dins l'app. Per esborrar-ho tot, mantén premuda la icona de Lumi Bopomofo a la pantalla d'inici i elimina l'app: també desapareixen les dades desades al dispositiu (pot quedar-ne una còpia en una còpia de seguretat que hagis fet tu)."
+          ]
+        ],
+        "title": "Privadesa — Lumi Bopomofo"
+      }
+    },
+    "cs": {
+      "privacy": {
+        "app_name": "Lumi Bopomofo",
+        "contact": "Napište na hourstag.app@gmail.com model zařízení, verzi iOS, verzi aplikace, postup, kterým se chyba vyvolá, a snímek nebo záznam obrazovky. Čím konkrétnější popis, tím rychleji chybu opravíme.",
+        "description": "Ne. Jak uvádí stránka aplikace Lumi Bopomofo v App Storu, žádné účty ani přihlašování tu nejsou — můžete začít hned po instalaci. Ne. Lumi Bopomofo neobsahuje reklamy třetích stran ani analytické či sledovací SDK, které by vás sledovaly napříč aplikacemi. Základní funkce jsou zdarma. Vše odemkne jednorázový nákup v aplikaci Lumi Bopomofo, takže si aplikaci můžete v klidu vyzkoušet, než se rozhodnete. Ano. Přihlaste se stejným účtem Apple a v aplikaci klepněte na «Obnovit nákupy» — nákup se znovu aktivuje bez další platby.",
+        "eyebrow": "Soukromí",
+        "heading": "Lumi Bopomofo · Soukromí",
+        "labels": {
+          "app_store": "Lumi Bopomofo · App Store",
+          "contact": "Centrum podpory",
+          "home": "Lumi Bopomofo",
+          "language": "Čeština",
+          "privacy": "Soukromí",
+          "support": "Centrum podpory"
+        },
+        "lead": "Ne. Jak uvádí stránka aplikace Lumi Bopomofo v App Storu, žádné účty ani přihlašování tu nejsou — můžete začít hned po instalaci. Ne. Lumi Bopomofo neobsahuje reklamy třetích stran ani analytické či sledovací SDK, které by vás sledovaly napříč aplikacemi. Základní funkce jsou zdarma. Vše odemkne jednorázový nákup v aplikaci Lumi Bopomofo, takže si aplikaci můžete v klidu vyzkoušet, než se rozhodnete. Ano. Přihlaste se stejným účtem Apple a v aplikaci klepněte na «Obnovit nákupy» — nákup se znovu aktivuje bez další platby.",
+        "sections": [
+          [
+            "Soukromí",
+            "Ne. Jak uvádí stránka aplikace Lumi Bopomofo v App Storu, žádné účty ani přihlašování tu nejsou — můžete začít hned po instalaci. Ne. Lumi Bopomofo neobsahuje reklamy třetích stran ani analytické či sledovací SDK, které by vás sledovaly napříč aplikacemi."
+          ],
+          [
+            "Co můžu používat zdarma?",
+            "Základní funkce jsou zdarma. Vše odemkne jednorázový nákup v aplikaci Lumi Bopomofo, takže si aplikaci můžete v klidu vyzkoušet, než se rozhodnete. Ano. Přihlaste se stejným účtem Apple a v aplikaci klepněte na «Obnovit nákupy» — nákup se znovu aktivuje bez další platby."
+          ],
+          [
+            "Jak smažu svá data?",
+            "Jednotlivé položky mažte přímo v aplikaci. Pokud chcete smazat všechno, podržte ikonu Lumi Bopomofo na ploše a aplikaci odstraňte — spolu s ní zmizí i data uložená v zařízení (kopie může zůstat v záloze, kterou jste si sami pořídili)."
+          ]
+        ],
+        "title": "Soukromí — Lumi Bopomofo"
+      }
+    },
+    "da": {
+      "privacy": {
+        "app_name": "Lumi Bopomofo",
+        "contact": "Skriv til hourstag.app@gmail.com med enhedsmodel, iOS-version, appversion, trinene der fremkalder fejlen, og et skærmbillede eller en skærmoptagelse. Jo mere konkret, jo hurtigere kan vi rette det.",
+        "description": "Nej. Som der står på Lumi Bopomofos side i App Store, er der hverken konti eller login: du kan gå i gang lige efter installationen. Nej. Lumi Bopomofo indeholder hverken tredjepartsreklamer eller analyse- og sporings-SDK'er, der følger dig på tværs af apps. De grundlæggende funktioner er gratis. Alt indhold låses op med et engangskøb i Lumi Bopomofo, så du kan prøve appen i ro og mag, før du beslutter dig. Ja. Log ind med den samme Apple-konto, og tryk på «Gendan køb» i appen: dit køb bliver aktivt igen uden at du betaler på ny.",
+        "eyebrow": "Privatliv",
+        "heading": "Lumi Bopomofo · Privatliv",
+        "labels": {
+          "app_store": "Lumi Bopomofo · App Store",
+          "contact": "Supportcenter",
+          "home": "Lumi Bopomofo",
+          "language": "Dansk",
+          "privacy": "Privatliv",
+          "support": "Supportcenter"
+        },
+        "lead": "Nej. Som der står på Lumi Bopomofos side i App Store, er der hverken konti eller login: du kan gå i gang lige efter installationen. Nej. Lumi Bopomofo indeholder hverken tredjepartsreklamer eller analyse- og sporings-SDK'er, der følger dig på tværs af apps. De grundlæggende funktioner er gratis. Alt indhold låses op med et engangskøb i Lumi Bopomofo, så du kan prøve appen i ro og mag, før du beslutter dig. Ja. Log ind med den samme Apple-konto, og tryk på «Gendan køb» i appen: dit køb bliver aktivt igen uden at du betaler på ny.",
+        "sections": [
+          [
+            "Privatliv",
+            "Nej. Som der står på Lumi Bopomofos side i App Store, er der hverken konti eller login: du kan gå i gang lige efter installationen. Nej. Lumi Bopomofo indeholder hverken tredjepartsreklamer eller analyse- og sporings-SDK'er, der følger dig på tværs af apps."
+          ],
+          [
+            "Hvad kan jeg bruge gratis?",
+            "De grundlæggende funktioner er gratis. Alt indhold låses op med et engangskøb i Lumi Bopomofo, så du kan prøve appen i ro og mag, før du beslutter dig. Ja. Log ind med den samme Apple-konto, og tryk på «Gendan køb» i appen: dit køb bliver aktivt igen uden at du betaler på ny."
+          ],
+          [
+            "Hvordan sletter jeg mine data?",
+            "Slet de enkelte emner inde i appen. Vil du slette det hele, så hold fingeren på Lumi Bopomofo-symbolet på hjemmeskærmen og slet appen: de data, der er gemt på enheden, forsvinder med den (der kan stadig ligge en kopi i en sikkerhedskopi, du selv har lavet)."
+          ]
+        ],
+        "title": "Privatliv — Lumi Bopomofo"
+      }
+    },
+    "de-DE": {
+      "privacy": {
+        "app_name": "Lumi Bopomofo",
+        "contact": "Schreiben Sie an hourstag.app@gmail.com mit Gerätemodell, iOS-Version, App-Version, den Schritten zum Nachstellen sowie Screenshots oder einer Bildschirmaufnahme. Je konkreter, desto schneller die Korrektur.",
+        "description": "Nein. Laut der App-Store-Produktseite kommt Lumi Bopomofo ohne Konto, Registrierung und Anmeldung aus. Sie können direkt nach der Installation loslegen. Nein. Lumi Bopomofo enthält weder Werbung von Dritten noch Analyse- oder App-übergreifende Tracking-SDKs. Die Grundfunktionen sind kostenlos. Für den vollen Umfang bietet Lumi Bopomofo einen einmaligen In-App-Kauf. Sie können den kostenlosen Teil vorher in Ruhe ausprobieren. Ja. Melden Sie sich mit derselben Apple-Account an und tippen Sie in der App auf „Käufe wiederherstellen“. Ein zweiter Kauf ist nicht nötig.",
+        "eyebrow": "Datenschutz",
+        "heading": "Lumi Bopomofo · Datenschutz",
+        "labels": {
+          "app_store": "Lumi Bopomofo · App Store",
+          "contact": "Support-Center",
+          "home": "Lumi Bopomofo",
+          "language": "Deutsch",
+          "privacy": "Datenschutz",
+          "support": "Support-Center"
+        },
+        "lead": "Nein. Laut der App-Store-Produktseite kommt Lumi Bopomofo ohne Konto, Registrierung und Anmeldung aus. Sie können direkt nach der Installation loslegen. Nein. Lumi Bopomofo enthält weder Werbung von Dritten noch Analyse- oder App-übergreifende Tracking-SDKs. Die Grundfunktionen sind kostenlos. Für den vollen Umfang bietet Lumi Bopomofo einen einmaligen In-App-Kauf. Sie können den kostenlosen Teil vorher in Ruhe ausprobieren. Ja. Melden Sie sich mit derselben Apple-Account an und tippen Sie in der App auf „Käufe wiederherstellen“. Ein zweiter Kauf ist nicht nötig.",
+        "sections": [
+          [
+            "Datenschutz",
+            "Nein. Laut der App-Store-Produktseite kommt Lumi Bopomofo ohne Konto, Registrierung und Anmeldung aus. Sie können direkt nach der Installation loslegen. Nein. Lumi Bopomofo enthält weder Werbung von Dritten noch Analyse- oder App-übergreifende Tracking-SDKs."
+          ],
+          [
+            "Wie viel kann ich kostenlos nutzen?",
+            "Die Grundfunktionen sind kostenlos. Für den vollen Umfang bietet Lumi Bopomofo einen einmaligen In-App-Kauf. Sie können den kostenlosen Teil vorher in Ruhe ausprobieren. Ja. Melden Sie sich mit derselben Apple-Account an und tippen Sie in der App auf „Käufe wiederherstellen“. Ein zweiter Kauf ist nicht nötig."
+          ],
+          [
+            "Wie lösche ich meine Daten?",
+            "Löschen Sie den jeweiligen Eintrag in der App. Um alles auf einmal zu entfernen, halten Sie das Symbol von Lumi Bopomofo auf dem Home-Bildschirm gedrückt und löschen Sie die App; die auf dem Gerät gespeicherten Daten werden mitgelöscht (in einem Geräte-Backup können noch Kopien liegen)."
+          ]
+        ],
+        "title": "Datenschutz — Lumi Bopomofo"
+      }
+    },
+    "el": {
+      "privacy": {
+        "app_name": "Lumi Bopomofo",
+        "contact": "Στείλτε στο hourstag.app@gmail.com το μοντέλο της συσκευής, την έκδοση iOS, την έκδοση της εφαρμογής, τα βήματα που αναπαράγουν το πρόβλημα και ένα στιγμιότυπο ή εγγραφή οθόνης. Όσο πιο συγκεκριμένα, τόσο πιο γρήγορα το διορθώνουμε.",
+        "description": "Όχι. Όπως αναφέρει η σελίδα του Lumi Bopomofo στο App Store, δεν υπάρχουν λογαριασμοί ούτε σύνδεση — μπορείτε να ξεκινήσετε αμέσως μετά την εγκατάσταση. Όχι. Το Lumi Bopomofo δεν περιέχει διαφημίσεις τρίτων ούτε SDK ανάλυσης ή παρακολούθησης μεταξύ εφαρμογών. Οι βασικές λειτουργίες είναι δωρεάν. Όλο το περιεχόμενο ξεκλειδώνει με μία εφάπαξ αγορά εντός της εφαρμογής Lumi Bopomofo, ώστε να τη δοκιμάσετε με την ησυχία σας πριν αποφασίσετε. Ναι. Συνδεθείτε με τον ίδιο λογαριασμό Apple και πατήστε «Επαναφορά αγορών» μέσα στην εφαρμογή — η αγορά ενεργοποιείται ξανά χωρίς νέα πληρωμή.",
+        "eyebrow": "Απόρρητο",
+        "heading": "Lumi Bopomofo · Απόρρητο",
+        "labels": {
+          "app_store": "Lumi Bopomofo · App Store",
+          "contact": "Κέντρο υποστήριξης",
+          "home": "Lumi Bopomofo",
+          "language": "Ελληνικά",
+          "privacy": "Απόρρητο",
+          "support": "Κέντρο υποστήριξης"
+        },
+        "lead": "Όχι. Όπως αναφέρει η σελίδα του Lumi Bopomofo στο App Store, δεν υπάρχουν λογαριασμοί ούτε σύνδεση — μπορείτε να ξεκινήσετε αμέσως μετά την εγκατάσταση. Όχι. Το Lumi Bopomofo δεν περιέχει διαφημίσεις τρίτων ούτε SDK ανάλυσης ή παρακολούθησης μεταξύ εφαρμογών. Οι βασικές λειτουργίες είναι δωρεάν. Όλο το περιεχόμενο ξεκλειδώνει με μία εφάπαξ αγορά εντός της εφαρμογής Lumi Bopomofo, ώστε να τη δοκιμάσετε με την ησυχία σας πριν αποφασίσετε. Ναι. Συνδεθείτε με τον ίδιο λογαριασμό Apple και πατήστε «Επαναφορά αγορών» μέσα στην εφαρμογή — η αγορά ενεργοποιείται ξανά χωρίς νέα πληρωμή.",
+        "sections": [
+          [
+            "Απόρρητο",
+            "Όχι. Όπως αναφέρει η σελίδα του Lumi Bopomofo στο App Store, δεν υπάρχουν λογαριασμοί ούτε σύνδεση — μπορείτε να ξεκινήσετε αμέσως μετά την εγκατάσταση. Όχι. Το Lumi Bopomofo δεν περιέχει διαφημίσεις τρίτων ούτε SDK ανάλυσης ή παρακολούθησης μεταξύ εφαρμογών."
+          ],
+          [
+            "Τι μπορώ να χρησιμοποιήσω δωρεάν;",
+            "Οι βασικές λειτουργίες είναι δωρεάν. Όλο το περιεχόμενο ξεκλειδώνει με μία εφάπαξ αγορά εντός της εφαρμογής Lumi Bopomofo, ώστε να τη δοκιμάσετε με την ησυχία σας πριν αποφασίσετε. Ναι. Συνδεθείτε με τον ίδιο λογαριασμό Apple και πατήστε «Επαναφορά αγορών» μέσα στην εφαρμογή — η αγορά ενεργοποιείται ξανά χωρίς νέα πληρωμή."
+          ],
+          [
+            "Πώς διαγράφω τα δεδομένα μου;",
+            "Διαγράψτε τις επιμέρους καταχωρίσεις μέσα στην εφαρμογή. Για να τα σβήσετε όλα, κρατήστε πατημένο το εικονίδιο Lumi Bopomofo στην αρχική οθόνη και διαγράψτε την εφαρμογή — μαζί της φεύγουν και τα δεδομένα που είναι αποθηκευμένα στη συσκευή (ένα αντίγραφο μπορεί να παραμείνει σε εφεδρικό αντίγραφο που κάνατε εσείς)."
+          ]
+        ],
+        "title": "Απόρρητο — Lumi Bopomofo"
+      }
+    },
+    "en-AU": {
+      "index": {
+        "app_name": "Lumi Bopomofo",
+        "contact": "For help, include your device model, iOS version, app version and the steps that reproduce the issue.",
+        "description": "A playful introduction to Taiwan Bopomofo: hear and trace symbols, practise tones and build valid syllables. ㄅ is free and Sound Train includes three free plays.",
+        "eyebrow": "Official support site",
+        "heading": "Lumi Bopomofo",
+        "labels": {
+          "app_store": "View on the App Store",
+          "contact": "Contact",
+          "home": "Home",
+          "language": "Language",
+          "privacy": "Privacy",
+          "support": "Support"
+        },
+        "lead": "A playful introduction to Taiwan Bopomofo: hear and trace symbols, practise tones and build valid syllables. ㄅ is free and Sound Train includes three free plays.",
+        "sections": [
+          [
+            "What the app does",
+            "A playful introduction to Taiwan Bopomofo: hear and trace symbols, practise tones and build valid syllables. ㄅ is free and Sound Train includes three free plays."
+          ],
+          [
+            "Data and privacy",
+            "Learning progress and settings stay on the device. There are no third-party ads, analytics or tracking, and no child account is required."
+          ],
+          [
+            "Purchase",
+            "The remaining visible learning content opens through an optional one-time purchase handled by Apple. A parent or guardian should use the purchase and external-link controls."
+          ]
+        ],
+        "title": "Lumi Bopomofo — Official support site"
+      },
+      "privacy": {
+        "app_name": "Lumi Bopomofo",
+        "contact": "For help, include your device model, iOS version, app version and the steps that reproduce the issue.",
+        "description": "Learning progress and settings stay on the device. There are no third-party ads, analytics or tracking, and no child account is required. The remaining visible learning content opens through an optional one-time purchase handled by Apple. A parent or guardian should use the purchase and external-link controls.",
+        "eyebrow": "Privacy",
+        "heading": "Lumi Bopomofo · Privacy",
+        "labels": {
+          "app_store": "View on the App Store",
+          "contact": "Contact",
+          "home": "Home",
+          "language": "Language",
+          "privacy": "Privacy",
+          "support": "Support"
+        },
+        "lead": "Learning progress and settings stay on the device. There are no third-party ads, analytics or tracking, and no child account is required.",
+        "sections": [
+          [
+            "Data and privacy",
+            "Learning progress and settings stay on the device. There are no third-party ads, analytics or tracking, and no child account is required."
+          ],
+          [
+            "Accounts, ads and tracking",
+            "No account is required. The app contains no third-party advertising, cross-app tracking or third-party analytics."
+          ],
+          [
+            "Purchase",
+            "The remaining visible learning content opens through an optional one-time purchase handled by Apple. A parent or guardian should use the purchase and external-link controls."
+          ],
+          [
+            "Deletion and recovery",
+            "Delete records from inside the app when that control is available. Deleting the app removes its local container; Apple-managed backups remain governed by your device settings."
+          ]
+        ],
+        "title": "Privacy — Lumi Bopomofo"
+      },
+      "support": {
+        "app_name": "Lumi Bopomofo",
+        "contact": "For help, include your device model, iOS version, app version and the steps that reproduce the issue.",
+        "description": "Close and reopen the app, confirm that the latest App Store version is installed, and include the device model, iOS version, app version and steps to reproduce when emailing support. Learning progress and settings stay on the device. There are no third-party ads, analytics or tracking, and no child account is required.",
+        "eyebrow": "Support",
+        "heading": "Lumi Bopomofo · Support",
+        "labels": {
+          "app_store": "View on the App Store",
+          "contact": "Contact",
+          "home": "Home",
+          "language": "Language",
+          "privacy": "Privacy",
+          "support": "Support"
+        },
+        "lead": "Close and reopen the app, confirm that the latest App Store version is installed, and include the device model, iOS version, app version and steps to reproduce when emailing support.",
+        "sections": [
+          [
+            "What the app does",
+            "A playful introduction to Taiwan Bopomofo: hear and trace symbols, practise tones and build valid syllables. ㄅ is free and Sound Train includes three free plays."
+          ],
+          [
+            "Troubleshooting",
+            "Close and reopen the app, confirm that the latest App Store version is installed, and include the device model, iOS version, app version and steps to reproduce when emailing support."
+          ],
+          [
+            "Data and privacy",
+            "Learning progress and settings stay on the device. There are no third-party ads, analytics or tracking, and no child account is required. No account is required. The app contains no third-party advertising, cross-app tracking or third-party analytics."
+          ],
+          [
+            "Purchase",
+            "The remaining visible learning content opens through an optional one-time purchase handled by Apple. A parent or guardian should use the purchase and external-link controls."
+          ],
+          [
+            "Deletion and recovery",
+            "Delete records from inside the app when that control is available. Deleting the app removes its local container; Apple-managed backups remain governed by your device settings."
+          ]
+        ],
+        "title": "Support — Lumi Bopomofo"
+      }
+    },
+    "en-CA": {
+      "index": {
+        "app_name": "Lumi Bopomofo",
+        "contact": "For help, include your device model, iOS version, app version and the steps that reproduce the issue.",
+        "description": "A playful introduction to Taiwan Bopomofo: hear and trace symbols, practise tones and build valid syllables. ㄅ is free and Sound Train includes three free plays.",
+        "eyebrow": "Official support site",
+        "heading": "Lumi Bopomofo",
+        "labels": {
+          "app_store": "View on the App Store",
+          "contact": "Contact",
+          "home": "Home",
+          "language": "Language",
+          "privacy": "Privacy",
+          "support": "Support"
+        },
+        "lead": "A playful introduction to Taiwan Bopomofo: hear and trace symbols, practise tones and build valid syllables. ㄅ is free and Sound Train includes three free plays.",
+        "sections": [
+          [
+            "What the app does",
+            "A playful introduction to Taiwan Bopomofo: hear and trace symbols, practise tones and build valid syllables. ㄅ is free and Sound Train includes three free plays."
+          ],
+          [
+            "Data and privacy",
+            "Learning progress and settings stay on the device. There are no third-party ads, analytics or tracking, and no child account is required."
+          ],
+          [
+            "Purchase",
+            "The remaining visible learning content opens through an optional one-time purchase handled by Apple. A parent or guardian should use the purchase and external-link controls."
+          ]
+        ],
+        "title": "Lumi Bopomofo — Official support site"
+      },
+      "privacy": {
+        "app_name": "Lumi Bopomofo",
+        "contact": "For help, include your device model, iOS version, app version and the steps that reproduce the issue.",
+        "description": "Learning progress and settings stay on the device. There are no third-party ads, analytics or tracking, and no child account is required. The remaining visible learning content opens through an optional one-time purchase handled by Apple. A parent or guardian should use the purchase and external-link controls.",
+        "eyebrow": "Privacy",
+        "heading": "Lumi Bopomofo · Privacy",
+        "labels": {
+          "app_store": "View on the App Store",
+          "contact": "Contact",
+          "home": "Home",
+          "language": "Language",
+          "privacy": "Privacy",
+          "support": "Support"
+        },
+        "lead": "Learning progress and settings stay on the device. There are no third-party ads, analytics or tracking, and no child account is required.",
+        "sections": [
+          [
+            "Data and privacy",
+            "Learning progress and settings stay on the device. There are no third-party ads, analytics or tracking, and no child account is required."
+          ],
+          [
+            "Accounts, ads and tracking",
+            "No account is required. The app contains no third-party advertising, cross-app tracking or third-party analytics."
+          ],
+          [
+            "Purchase",
+            "The remaining visible learning content opens through an optional one-time purchase handled by Apple. A parent or guardian should use the purchase and external-link controls."
+          ],
+          [
+            "Deletion and recovery",
+            "Delete records from inside the app when that control is available. Deleting the app removes its local container; Apple-managed backups remain governed by your device settings."
+          ]
+        ],
+        "title": "Privacy — Lumi Bopomofo"
+      },
+      "support": {
+        "app_name": "Lumi Bopomofo",
+        "contact": "For help, include your device model, iOS version, app version and the steps that reproduce the issue.",
+        "description": "Close and reopen the app, confirm that the latest App Store version is installed, and include the device model, iOS version, app version and steps to reproduce when emailing support. Learning progress and settings stay on the device. There are no third-party ads, analytics or tracking, and no child account is required.",
+        "eyebrow": "Support",
+        "heading": "Lumi Bopomofo · Support",
+        "labels": {
+          "app_store": "View on the App Store",
+          "contact": "Contact",
+          "home": "Home",
+          "language": "Language",
+          "privacy": "Privacy",
+          "support": "Support"
+        },
+        "lead": "Close and reopen the app, confirm that the latest App Store version is installed, and include the device model, iOS version, app version and steps to reproduce when emailing support.",
+        "sections": [
+          [
+            "What the app does",
+            "A playful introduction to Taiwan Bopomofo: hear and trace symbols, practise tones and build valid syllables. ㄅ is free and Sound Train includes three free plays."
+          ],
+          [
+            "Troubleshooting",
+            "Close and reopen the app, confirm that the latest App Store version is installed, and include the device model, iOS version, app version and steps to reproduce when emailing support."
+          ],
+          [
+            "Data and privacy",
+            "Learning progress and settings stay on the device. There are no third-party ads, analytics or tracking, and no child account is required. No account is required. The app contains no third-party advertising, cross-app tracking or third-party analytics."
+          ],
+          [
+            "Purchase",
+            "The remaining visible learning content opens through an optional one-time purchase handled by Apple. A parent or guardian should use the purchase and external-link controls."
+          ],
+          [
+            "Deletion and recovery",
+            "Delete records from inside the app when that control is available. Deleting the app removes its local container; Apple-managed backups remain governed by your device settings."
+          ]
+        ],
+        "title": "Support — Lumi Bopomofo"
+      }
+    },
+    "en-GB": {
+      "index": {
+        "app_name": "Lumi Bopomofo",
+        "contact": "For help, include your device model, iOS version, app version and the steps that reproduce the issue.",
+        "description": "A playful introduction to Taiwan Bopomofo: hear and trace symbols, practise tones and build valid syllables. ㄅ is free and Sound Train includes three free plays.",
+        "eyebrow": "Official support site",
+        "heading": "Lumi Bopomofo",
+        "labels": {
+          "app_store": "View on the App Store",
+          "contact": "Contact",
+          "home": "Home",
+          "language": "Language",
+          "privacy": "Privacy",
+          "support": "Support"
+        },
+        "lead": "A playful introduction to Taiwan Bopomofo: hear and trace symbols, practise tones and build valid syllables. ㄅ is free and Sound Train includes three free plays.",
+        "sections": [
+          [
+            "What the app does",
+            "A playful introduction to Taiwan Bopomofo: hear and trace symbols, practise tones and build valid syllables. ㄅ is free and Sound Train includes three free plays."
+          ],
+          [
+            "Data and privacy",
+            "Learning progress and settings stay on the device. There are no third-party ads, analytics or tracking, and no child account is required."
+          ],
+          [
+            "Purchase",
+            "The remaining visible learning content opens through an optional one-time purchase handled by Apple. A parent or guardian should use the purchase and external-link controls."
+          ]
+        ],
+        "title": "Lumi Bopomofo — Official support site"
+      },
+      "privacy": {
+        "app_name": "Lumi Bopomofo",
+        "contact": "For help, include your device model, iOS version, app version and the steps that reproduce the issue.",
+        "description": "Learning progress and settings stay on the device. There are no third-party ads, analytics or tracking, and no child account is required. The remaining visible learning content opens through an optional one-time purchase handled by Apple. A parent or guardian should use the purchase and external-link controls.",
+        "eyebrow": "Privacy",
+        "heading": "Lumi Bopomofo · Privacy",
+        "labels": {
+          "app_store": "View on the App Store",
+          "contact": "Contact",
+          "home": "Home",
+          "language": "Language",
+          "privacy": "Privacy",
+          "support": "Support"
+        },
+        "lead": "Learning progress and settings stay on the device. There are no third-party ads, analytics or tracking, and no child account is required.",
+        "sections": [
+          [
+            "Data and privacy",
+            "Learning progress and settings stay on the device. There are no third-party ads, analytics or tracking, and no child account is required."
+          ],
+          [
+            "Accounts, ads and tracking",
+            "No account is required. The app contains no third-party advertising, cross-app tracking or third-party analytics."
+          ],
+          [
+            "Purchase",
+            "The remaining visible learning content opens through an optional one-time purchase handled by Apple. A parent or guardian should use the purchase and external-link controls."
+          ],
+          [
+            "Deletion and recovery",
+            "Delete records from inside the app when that control is available. Deleting the app removes its local container; Apple-managed backups remain governed by your device settings."
+          ]
+        ],
+        "title": "Privacy — Lumi Bopomofo"
+      },
+      "support": {
+        "app_name": "Lumi Bopomofo",
+        "contact": "For help, include your device model, iOS version, app version and the steps that reproduce the issue.",
+        "description": "Close and reopen the app, confirm that the latest App Store version is installed, and include the device model, iOS version, app version and steps to reproduce when emailing support. Learning progress and settings stay on the device. There are no third-party ads, analytics or tracking, and no child account is required.",
+        "eyebrow": "Support",
+        "heading": "Lumi Bopomofo · Support",
+        "labels": {
+          "app_store": "View on the App Store",
+          "contact": "Contact",
+          "home": "Home",
+          "language": "Language",
+          "privacy": "Privacy",
+          "support": "Support"
+        },
+        "lead": "Close and reopen the app, confirm that the latest App Store version is installed, and include the device model, iOS version, app version and steps to reproduce when emailing support.",
+        "sections": [
+          [
+            "What the app does",
+            "A playful introduction to Taiwan Bopomofo: hear and trace symbols, practise tones and build valid syllables. ㄅ is free and Sound Train includes three free plays."
+          ],
+          [
+            "Troubleshooting",
+            "Close and reopen the app, confirm that the latest App Store version is installed, and include the device model, iOS version, app version and steps to reproduce when emailing support."
+          ],
+          [
+            "Data and privacy",
+            "Learning progress and settings stay on the device. There are no third-party ads, analytics or tracking, and no child account is required. No account is required. The app contains no third-party advertising, cross-app tracking or third-party analytics."
+          ],
+          [
+            "Purchase",
+            "The remaining visible learning content opens through an optional one-time purchase handled by Apple. A parent or guardian should use the purchase and external-link controls."
+          ],
+          [
+            "Deletion and recovery",
+            "Delete records from inside the app when that control is available. Deleting the app removes its local container; Apple-managed backups remain governed by your device settings."
+          ]
+        ],
+        "title": "Support — Lumi Bopomofo"
+      }
+    },
+    "en-US": {
+      "index": {
+        "app_name": "Lumi Bopomofo",
+        "contact": "For help, include your device model, iOS version, app version and the steps that reproduce the issue.",
+        "description": "A playful introduction to Taiwan Bopomofo: hear and trace symbols, practise tones and build valid syllables. ㄅ is free and Sound Train includes three free plays.",
+        "eyebrow": "Official support site",
+        "heading": "Lumi Bopomofo",
+        "labels": {
+          "app_store": "View on the App Store",
+          "contact": "Contact",
+          "home": "Home",
+          "language": "Language",
+          "privacy": "Privacy",
+          "support": "Support"
+        },
+        "lead": "A playful introduction to Taiwan Bopomofo: hear and trace symbols, practise tones and build valid syllables. ㄅ is free and Sound Train includes three free plays.",
+        "sections": [
+          [
+            "What the app does",
+            "A playful introduction to Taiwan Bopomofo: hear and trace symbols, practise tones and build valid syllables. ㄅ is free and Sound Train includes three free plays."
+          ],
+          [
+            "Data and privacy",
+            "Learning progress and settings stay on the device. There are no third-party ads, analytics or tracking, and no child account is required."
+          ],
+          [
+            "Purchase",
+            "The remaining visible learning content opens through an optional one-time purchase handled by Apple. A parent or guardian should use the purchase and external-link controls."
+          ]
+        ],
+        "title": "Lumi Bopomofo — Official support site"
+      },
+      "privacy": {
+        "app_name": "Lumi Bopomofo",
+        "contact": "For help, include your device model, iOS version, app version and the steps that reproduce the issue.",
+        "description": "Learning progress and settings stay on the device. There are no third-party ads, analytics or tracking, and no child account is required. The remaining visible learning content opens through an optional one-time purchase handled by Apple. A parent or guardian should use the purchase and external-link controls.",
+        "eyebrow": "Privacy",
+        "heading": "Lumi Bopomofo · Privacy",
+        "labels": {
+          "app_store": "View on the App Store",
+          "contact": "Contact",
+          "home": "Home",
+          "language": "Language",
+          "privacy": "Privacy",
+          "support": "Support"
+        },
+        "lead": "Learning progress and settings stay on the device. There are no third-party ads, analytics or tracking, and no child account is required.",
+        "sections": [
+          [
+            "Data and privacy",
+            "Learning progress and settings stay on the device. There are no third-party ads, analytics or tracking, and no child account is required."
+          ],
+          [
+            "Accounts, ads and tracking",
+            "No account is required. The app contains no third-party advertising, cross-app tracking or third-party analytics."
+          ],
+          [
+            "Purchase",
+            "The remaining visible learning content opens through an optional one-time purchase handled by Apple. A parent or guardian should use the purchase and external-link controls."
+          ],
+          [
+            "Deletion and recovery",
+            "Delete records from inside the app when that control is available. Deleting the app removes its local container; Apple-managed backups remain governed by your device settings."
+          ]
+        ],
+        "title": "Privacy — Lumi Bopomofo"
+      },
+      "support": {
+        "app_name": "Lumi Bopomofo",
+        "contact": "For help, include your device model, iOS version, app version and the steps that reproduce the issue.",
+        "description": "Close and reopen the app, confirm that the latest App Store version is installed, and include the device model, iOS version, app version and steps to reproduce when emailing support. Learning progress and settings stay on the device. There are no third-party ads, analytics or tracking, and no child account is required.",
+        "eyebrow": "Support",
+        "heading": "Lumi Bopomofo · Support",
+        "labels": {
+          "app_store": "View on the App Store",
+          "contact": "Contact",
+          "home": "Home",
+          "language": "Language",
+          "privacy": "Privacy",
+          "support": "Support"
+        },
+        "lead": "Close and reopen the app, confirm that the latest App Store version is installed, and include the device model, iOS version, app version and steps to reproduce when emailing support.",
+        "sections": [
+          [
+            "What the app does",
+            "A playful introduction to Taiwan Bopomofo: hear and trace symbols, practise tones and build valid syllables. ㄅ is free and Sound Train includes three free plays."
+          ],
+          [
+            "Troubleshooting",
+            "Close and reopen the app, confirm that the latest App Store version is installed, and include the device model, iOS version, app version and steps to reproduce when emailing support."
+          ],
+          [
+            "Data and privacy",
+            "Learning progress and settings stay on the device. There are no third-party ads, analytics or tracking, and no child account is required. No account is required. The app contains no third-party advertising, cross-app tracking or third-party analytics."
+          ],
+          [
+            "Purchase",
+            "The remaining visible learning content opens through an optional one-time purchase handled by Apple. A parent or guardian should use the purchase and external-link controls."
+          ],
+          [
+            "Deletion and recovery",
+            "Delete records from inside the app when that control is available. Deleting the app removes its local container; Apple-managed backups remain governed by your device settings."
+          ]
+        ],
+        "title": "Support — Lumi Bopomofo"
+      }
+    },
+    "es-ES": {
+      "privacy": {
+        "app_name": "Lumi Bopomofo",
+        "contact": "Escribe a hourstag.app@gmail.com indicando el modelo del dispositivo, la versión de iOS, la versión de la app, los pasos para reproducirlo y adjunta una captura o grabación de pantalla. Cuanto más concreto, antes se corrige.",
+        "description": "No. La ficha del App Store indica que Lumi Bopomofo no requiere cuenta ni inicio de sesión: puedes empezar nada más instalarla. No. Lumi Bopomofo no incluye publicidad de terceros ni SDK de analítica o de rastreo entre apps. Las funciones básicas son gratuitas. Para desbloquear todo, Lumi Bopomofo ofrece una compra integrada única. Puedes probar la parte gratuita con calma antes de comprar. Sí. Inicia sesión con la misma cuenta de Apple y toca «Restaurar compras» en la app: tu compra se reactiva sin pagar otra vez.",
+        "eyebrow": "Privacidad",
+        "heading": "Lumi Bopomofo · Privacidad",
+        "labels": {
+          "app_store": "Lumi Bopomofo · App Store",
+          "contact": "Centro de soporte",
+          "home": "Lumi Bopomofo",
+          "language": "Español (España)",
+          "privacy": "Privacidad",
+          "support": "Centro de soporte"
+        },
+        "lead": "No. La ficha del App Store indica que Lumi Bopomofo no requiere cuenta ni inicio de sesión: puedes empezar nada más instalarla. No. Lumi Bopomofo no incluye publicidad de terceros ni SDK de analítica o de rastreo entre apps. Las funciones básicas son gratuitas. Para desbloquear todo, Lumi Bopomofo ofrece una compra integrada única. Puedes probar la parte gratuita con calma antes de comprar. Sí. Inicia sesión con la misma cuenta de Apple y toca «Restaurar compras» en la app: tu compra se reactiva sin pagar otra vez.",
+        "sections": [
+          [
+            "Privacidad",
+            "No. La ficha del App Store indica que Lumi Bopomofo no requiere cuenta ni inicio de sesión: puedes empezar nada más instalarla. No. Lumi Bopomofo no incluye publicidad de terceros ni SDK de analítica o de rastreo entre apps."
+          ],
+          [
+            "¿Hasta dónde puedo usarla gratis?",
+            "Las funciones básicas son gratuitas. Para desbloquear todo, Lumi Bopomofo ofrece una compra integrada única. Puedes probar la parte gratuita con calma antes de comprar. Sí. Inicia sesión con la misma cuenta de Apple y toca «Restaurar compras» en la app: tu compra se reactiva sin pagar otra vez."
+          ],
+          [
+            "¿Cómo borro mis datos?",
+            "Borra el elemento correspondiente dentro de la app. Para eliminarlo todo de una vez, mantén pulsado el icono de Lumi Bopomofo en la pantalla de inicio y elimina la app: los datos guardados en el dispositivo se van con ella (una copia de seguridad del dispositivo puede conservar una copia)."
+          ]
+        ],
+        "title": "Privacidad — Lumi Bopomofo"
+      }
+    },
+    "es-MX": {
+      "privacy": {
+        "app_name": "Lumi Bopomofo",
+        "contact": "Escribe a hourstag.app@gmail.com con el modelo de tu dispositivo, la versión de iOS, la versión de la app, los pasos para reproducirlo y una captura o grabación de pantalla. Entre más concreto, más rápido lo corregimos.",
+        "description": "No. Como dice la ficha de Lumi Bopomofo en el App Store, no hay cuentas ni inicio de sesión: puedes empezar justo después de instalarla. No. Lumi Bopomofo no trae publicidad de terceros ni kits de analítica o de rastreo que te sigan de una app a otra. Las funciones básicas son gratuitas. Para abrir todo hay una compra dentro de la app por única vez en Lumi Bopomofo, así que puedes probarla con calma antes de decidir. Sí. Inicia sesión con la misma cuenta de Apple y toca «Restaurar compras» dentro de la app: tu compra vuelve a activarse sin pagar de nuevo.",
+        "eyebrow": "Privacidad",
+        "heading": "Lumi Bopomofo · Privacidad",
+        "labels": {
+          "app_store": "Lumi Bopomofo · App Store",
+          "contact": "Centro de soporte",
+          "home": "Lumi Bopomofo",
+          "language": "Español (México)",
+          "privacy": "Privacidad",
+          "support": "Centro de soporte"
+        },
+        "lead": "No. Como dice la ficha de Lumi Bopomofo en el App Store, no hay cuentas ni inicio de sesión: puedes empezar justo después de instalarla. No. Lumi Bopomofo no trae publicidad de terceros ni kits de analítica o de rastreo que te sigan de una app a otra. Las funciones básicas son gratuitas. Para abrir todo hay una compra dentro de la app por única vez en Lumi Bopomofo, así que puedes probarla con calma antes de decidir. Sí. Inicia sesión con la misma cuenta de Apple y toca «Restaurar compras» dentro de la app: tu compra vuelve a activarse sin pagar de nuevo.",
+        "sections": [
+          [
+            "Privacidad",
+            "No. Como dice la ficha de Lumi Bopomofo en el App Store, no hay cuentas ni inicio de sesión: puedes empezar justo después de instalarla. No. Lumi Bopomofo no trae publicidad de terceros ni kits de analítica o de rastreo que te sigan de una app a otra."
+          ],
+          [
+            "¿Qué puedo usar gratis?",
+            "Las funciones básicas son gratuitas. Para abrir todo hay una compra dentro de la app por única vez en Lumi Bopomofo, así que puedes probarla con calma antes de decidir. Sí. Inicia sesión con la misma cuenta de Apple y toca «Restaurar compras» dentro de la app: tu compra vuelve a activarse sin pagar de nuevo."
+          ],
+          [
+            "¿Cómo borro mis datos?",
+            "Elimina cada elemento dentro de la app. Para borrar todo, mantén presionado el ícono de Lumi Bopomofo en la pantalla de inicio y elimina la app: también se van los datos guardados en el dispositivo (puede quedar una copia en un respaldo que tú hayas hecho)."
+          ]
+        ],
+        "title": "Privacidad — Lumi Bopomofo"
+      }
+    },
+    "fi": {
+      "privacy": {
+        "app_name": "Lumi Bopomofo",
+        "contact": "Lähetä osoitteeseen hourstag.app@gmail.com laitemalli, iOS-versio, sovelluksen versio, vaiheet joilla virhe toistuu sekä kuvakaappaus tai näytön tallenne. Mitä tarkempi kuvaus, sitä nopeammin korjaamme sen.",
+        "description": "Ei. Kuten sovelluksen Lumi Bopomofo App Store -sivulla kerrotaan, tilejä tai kirjautumista ei ole: voit aloittaa heti asennuksen jälkeen. Ei. Sovelluksessa Lumi Bopomofo ei ole kolmansien osapuolten mainoksia eikä analytiikka- tai seuranta-SDK:ita, jotka seuraisivat sinua sovellusten välillä. Perustoiminnot ovat ilmaisia. Kaiken sisällön saa auki sovelluksen Lumi Bopomofo kertaluonteisella sovelluksen sisäisellä ostolla, joten ehdit kokeilla sovellusta rauhassa ennen päätöstä. Kyllä. Kirjaudu samalle Apple-tilille ja valitse sovelluksessa «Palauta ostot»: ostosi aktivoituu uudelleen ilman uutta maksua.",
+        "eyebrow": "Tietosuoja",
+        "heading": "Lumi Bopomofo · Tietosuoja",
+        "labels": {
+          "app_store": "Lumi Bopomofo · App Store",
+          "contact": "Tukikeskus",
+          "home": "Lumi Bopomofo",
+          "language": "Suomi",
+          "privacy": "Tietosuoja",
+          "support": "Tukikeskus"
+        },
+        "lead": "Ei. Kuten sovelluksen Lumi Bopomofo App Store -sivulla kerrotaan, tilejä tai kirjautumista ei ole: voit aloittaa heti asennuksen jälkeen. Ei. Sovelluksessa Lumi Bopomofo ei ole kolmansien osapuolten mainoksia eikä analytiikka- tai seuranta-SDK:ita, jotka seuraisivat sinua sovellusten välillä. Perustoiminnot ovat ilmaisia. Kaiken sisällön saa auki sovelluksen Lumi Bopomofo kertaluonteisella sovelluksen sisäisellä ostolla, joten ehdit kokeilla sovellusta rauhassa ennen päätöstä. Kyllä. Kirjaudu samalle Apple-tilille ja valitse sovelluksessa «Palauta ostot»: ostosi aktivoituu uudelleen ilman uutta maksua.",
+        "sections": [
+          [
+            "Tietosuoja",
+            "Ei. Kuten sovelluksen Lumi Bopomofo App Store -sivulla kerrotaan, tilejä tai kirjautumista ei ole: voit aloittaa heti asennuksen jälkeen. Ei. Sovelluksessa Lumi Bopomofo ei ole kolmansien osapuolten mainoksia eikä analytiikka- tai seuranta-SDK:ita, jotka seuraisivat sinua sovellusten välillä."
+          ],
+          [
+            "Mitä voin käyttää ilmaiseksi?",
+            "Perustoiminnot ovat ilmaisia. Kaiken sisällön saa auki sovelluksen Lumi Bopomofo kertaluonteisella sovelluksen sisäisellä ostolla, joten ehdit kokeilla sovellusta rauhassa ennen päätöstä. Kyllä. Kirjaudu samalle Apple-tilille ja valitse sovelluksessa «Palauta ostot»: ostosi aktivoituu uudelleen ilman uutta maksua."
+          ],
+          [
+            "Miten poistan tietoni?",
+            "Poista yksittäiset merkinnät sovelluksessa. Jos haluat poistaa kaiken, paina Lumi Bopomofo-kuvaketta Koti-valikossa pitkään ja poista sovellus: samalla poistuvat laitteelle tallennetut tiedot (kopio voi jäädä itse tekemääsi varmuuskopioon)."
+          ]
+        ],
+        "title": "Tietosuoja — Lumi Bopomofo"
+      }
+    },
+    "fr-CA": {
+      "privacy": {
+        "app_name": "Lumi Bopomofo",
+        "contact": "Écrivez à hourstag.app@gmail.com en indiquant le modèle de l'appareil, la version d'iOS, la version de l'app, les étapes pour reproduire le problème et une capture ou un enregistrement d'écran. Plus c'est précis, plus la correction est rapide.",
+        "description": "Non. Comme l'indique la fiche de Lumi Bopomofo dans l'App Store, il n'y a ni compte ni connexion : vous pouvez commencer dès l'installation. Non. Lumi Bopomofo ne contient aucune publicité tierce ni trousse d'analyse ou de suivi entre applications. Les fonctions de base sont gratuites. Pour tout débloquer, Lumi Bopomofo propose un achat intégré unique : vous pouvez donc essayer l'app tranquillement avant de décider. Oui. Connectez-vous avec le même compte Apple et touchez « Restaurer les achats » dans l'app : votre achat redevient actif sans payer une deuxième fois.",
+        "eyebrow": "Confidentialité",
+        "heading": "Lumi Bopomofo · Confidentialité",
+        "labels": {
+          "app_store": "Lumi Bopomofo · App Store",
+          "contact": "Centre d'assistance",
+          "home": "Lumi Bopomofo",
+          "language": "Français (Canada)",
+          "privacy": "Confidentialité",
+          "support": "Centre d'assistance"
+        },
+        "lead": "Non. Comme l'indique la fiche de Lumi Bopomofo dans l'App Store, il n'y a ni compte ni connexion : vous pouvez commencer dès l'installation. Non. Lumi Bopomofo ne contient aucune publicité tierce ni trousse d'analyse ou de suivi entre applications. Les fonctions de base sont gratuites. Pour tout débloquer, Lumi Bopomofo propose un achat intégré unique : vous pouvez donc essayer l'app tranquillement avant de décider. Oui. Connectez-vous avec le même compte Apple et touchez « Restaurer les achats » dans l'app : votre achat redevient actif sans payer une deuxième fois.",
+        "sections": [
+          [
+            "Confidentialité",
+            "Non. Comme l'indique la fiche de Lumi Bopomofo dans l'App Store, il n'y a ni compte ni connexion : vous pouvez commencer dès l'installation. Non. Lumi Bopomofo ne contient aucune publicité tierce ni trousse d'analyse ou de suivi entre applications."
+          ],
+          [
+            "Qu'est-ce que je peux utiliser gratuitement ?",
+            "Les fonctions de base sont gratuites. Pour tout débloquer, Lumi Bopomofo propose un achat intégré unique : vous pouvez donc essayer l'app tranquillement avant de décider. Oui. Connectez-vous avec le même compte Apple et touchez « Restaurer les achats » dans l'app : votre achat redevient actif sans payer une deuxième fois."
+          ],
+          [
+            "Comment supprimer mes données ?",
+            "Supprimez les éléments un à un dans l'app. Pour tout effacer, gardez le doigt sur l'icône de Lumi Bopomofo à l'écran d'accueil et supprimez l'app : les données enregistrées sur l'appareil partent avec elle (une copie peut subsister dans une sauvegarde que vous avez faite)."
+          ]
+        ],
+        "title": "Confidentialité — Lumi Bopomofo"
+      }
+    },
+    "fr-FR": {
+      "privacy": {
+        "app_name": "Lumi Bopomofo",
+        "contact": "Écrivez à hourstag.app@gmail.com en précisant le modèle de l'appareil, la version d'iOS, la version de l'app, les étapes pour reproduire le problème, et joignez une capture ou un enregistrement d'écran. Plus c'est précis, plus la correction est rapide.",
+        "description": "Non. La fiche App Store indique que Lumi Bopomofo fonctionne sans compte ni connexion : vous pouvez commencer dès l'installation. Non. Lumi Bopomofo ne contient ni publicité tierce, ni SDK d'analyse ou de suivi entre apps. Les fonctions de base sont gratuites. Pour tout débloquer, Lumi Bopomofo propose un achat intégré unique. Vous pouvez tester la partie gratuite autant que vous le souhaitez avant d'acheter. Oui. Connectez-vous avec le même compte Apple puis touchez « Restaurer les achats » dans l'app : votre achat est réactivé, sans payer une seconde fois.",
+        "eyebrow": "Confidentialité",
+        "heading": "Lumi Bopomofo · Confidentialité",
+        "labels": {
+          "app_store": "Lumi Bopomofo · App Store",
+          "contact": "Centre d'assistance",
+          "home": "Lumi Bopomofo",
+          "language": "Français (France)",
+          "privacy": "Confidentialité",
+          "support": "Centre d'assistance"
+        },
+        "lead": "Non. La fiche App Store indique que Lumi Bopomofo fonctionne sans compte ni connexion : vous pouvez commencer dès l'installation. Non. Lumi Bopomofo ne contient ni publicité tierce, ni SDK d'analyse ou de suivi entre apps. Les fonctions de base sont gratuites. Pour tout débloquer, Lumi Bopomofo propose un achat intégré unique. Vous pouvez tester la partie gratuite autant que vous le souhaitez avant d'acheter. Oui. Connectez-vous avec le même compte Apple puis touchez « Restaurer les achats » dans l'app : votre achat est réactivé, sans payer une seconde fois.",
+        "sections": [
+          [
+            "Confidentialité",
+            "Non. La fiche App Store indique que Lumi Bopomofo fonctionne sans compte ni connexion : vous pouvez commencer dès l'installation. Non. Lumi Bopomofo ne contient ni publicité tierce, ni SDK d'analyse ou de suivi entre apps."
+          ],
+          [
+            "Que puis-je faire gratuitement ?",
+            "Les fonctions de base sont gratuites. Pour tout débloquer, Lumi Bopomofo propose un achat intégré unique. Vous pouvez tester la partie gratuite autant que vous le souhaitez avant d'acheter. Oui. Connectez-vous avec le même compte Apple puis touchez « Restaurer les achats » dans l'app : votre achat est réactivé, sans payer une seconde fois."
+          ],
+          [
+            "Comment supprimer mes données ?",
+            "Supprimez l'élément concerné dans l'app. Pour tout effacer d'un coup, maintenez l'icône de Lumi Bopomofo sur l'écran d'accueil et supprimez l'app : les données stockées sur l'appareil partent avec elle (une sauvegarde de l'appareil peut encore en contenir une copie)."
+          ]
+        ],
+        "title": "Confidentialité — Lumi Bopomofo"
+      }
+    },
+    "gu-IN": {
+      "privacy": {
+        "app_name": "Lumi Bopomofo",
+        "contact": "hourstag.app@gmail.com પર ઉપકરણનું મૉડલ, iOS આવૃત્તિ, ઍપ આવૃત્તિ, ખામી ફરી લાવવાનાં પગલાં અને સ્ક્રીનશૉટ કે સ્ક્રીન રેકોર્ડિંગ મોકલો. વર્ણન જેટલું ચોક્કસ, સુધારો એટલો ઝડપી.",
+        "description": "ના. Lumi Bopomofo ના App Store પાના પર લખ્યા મુજબ અહીં ખાતું કે સાઇન-ઇન કશું નથી — ઇન્સ્ટૉલ કરતાં જ શરૂ કરી શકાય છે. ના. Lumi Bopomofo માં ત્રીજા પક્ષની જાહેરાતો નથી, અને ઍપ વચ્ચે ટ્રૅક કરતા એનાલિટિક્સ કે ટ્રૅકિંગ SDK પણ નથી. પાયાની સુવિધાઓ મફત છે. આખું સામગ્રી Lumi Bopomofo ની એક વખતની ઇન-ઍપ ખરીદીથી ખૂલે છે, એટલે નિર્ણય લેતાં પહેલાં તમે ઍપ નિરાંતે અજમાવી શકો છો. હા. એ જ Apple ખાતાથી સાઇન ઇન કરો અને ઍપમાં «ખરીદી પુનઃસ્થાપિત કરો» પર ટૅપ કરો — ફરી ચૂકવ્યા વગર તમારી ખરીદી ફરી સક્રિય થાય છે.",
+        "eyebrow": "ગોપનીયતા",
+        "heading": "Lumi Bopomofo · ગોપનીયતા",
+        "labels": {
+          "app_store": "Lumi Bopomofo · App Store",
+          "contact": "સહાય કેન્દ્ર",
+          "home": "Lumi Bopomofo",
+          "language": "ગુજરાતી",
+          "privacy": "ગોપનીયતા",
+          "support": "સહાય કેન્દ્ર"
+        },
+        "lead": "ના. Lumi Bopomofo ના App Store પાના પર લખ્યા મુજબ અહીં ખાતું કે સાઇન-ઇન કશું નથી — ઇન્સ્ટૉલ કરતાં જ શરૂ કરી શકાય છે. ના. Lumi Bopomofo માં ત્રીજા પક્ષની જાહેરાતો નથી, અને ઍપ વચ્ચે ટ્રૅક કરતા એનાલિટિક્સ કે ટ્રૅકિંગ SDK પણ નથી. પાયાની સુવિધાઓ મફત છે. આખું સામગ્રી Lumi Bopomofo ની એક વખતની ઇન-ઍપ ખરીદીથી ખૂલે છે, એટલે નિર્ણય લેતાં પહેલાં તમે ઍપ નિરાંતે અજમાવી શકો છો. હા. એ જ Apple ખાતાથી સાઇન ઇન કરો અને ઍપમાં «ખરીદી પુનઃસ્થાપિત કરો» પર ટૅપ કરો — ફરી ચૂકવ્યા વગર તમારી ખરીદી ફરી સક્રિય થાય છે.",
+        "sections": [
+          [
+            "ગોપનીયતા",
+            "ના. Lumi Bopomofo ના App Store પાના પર લખ્યા મુજબ અહીં ખાતું કે સાઇન-ઇન કશું નથી — ઇન્સ્ટૉલ કરતાં જ શરૂ કરી શકાય છે. ના. Lumi Bopomofo માં ત્રીજા પક્ષની જાહેરાતો નથી, અને ઍપ વચ્ચે ટ્રૅક કરતા એનાલિટિક્સ કે ટ્રૅકિંગ SDK પણ નથી."
+          ],
+          [
+            "મફતમાં શું વાપરી શકાય?",
+            "પાયાની સુવિધાઓ મફત છે. આખું સામગ્રી Lumi Bopomofo ની એક વખતની ઇન-ઍપ ખરીદીથી ખૂલે છે, એટલે નિર્ણય લેતાં પહેલાં તમે ઍપ નિરાંતે અજમાવી શકો છો. હા. એ જ Apple ખાતાથી સાઇન ઇન કરો અને ઍપમાં «ખરીદી પુનઃસ્થાપિત કરો» પર ટૅપ કરો — ફરી ચૂકવ્યા વગર તમારી ખરીદી ફરી સક્રિય થાય છે."
+          ],
+          [
+            "મારો ડેટા કેવી રીતે કાઢું?",
+            "અલગ અલગ નોંધ ઍપની અંદરથી જ કાઢો. બધું ભૂંસવું હોય તો હોમ સ્ક્રીન પર Lumi Bopomofo ના ચિહ્નને દબાવી રાખો અને ઍપ કાઢી નાખો — ઉપકરણ પર સાચવેલો ડેટા પણ એની સાથે જાય છે (તમે જાતે લીધેલા બૅકઅપમાં નકલ રહી શકે છે)."
+          ]
+        ],
+        "title": "ગોપનીયતા — Lumi Bopomofo"
+      }
+    },
+    "he": {
+      "privacy": {
+        "app_name": "Lumi Bopomofo",
+        "contact": "כתבו אל hourstag.app@gmail.com את דגם המכשיר, גרסת iOS, גרסת האפליקציה, השלבים שמשחזרים את התקלה וצילום או הקלטת מסך. ככל שהתיאור מדויק יותר, כך נתקן מהר יותר.",
+        "description": "לא. כפי שכתוב בדף של Lumi Bopomofo ב-App Store, אין חשבונות ואין התחברות — אפשר להתחיל מיד אחרי ההתקנה. לא. ב-Lumi Bopomofo אין פרסומות של צד שלישי ואין ערכות אנליטיקה או מעקב בין אפליקציות. התכונות הבסיסיות בחינם. את כל התוכן פותחים ברכישה חד-פעמית בתוך Lumi Bopomofo, כך שאפשר להתנסות ברוגע לפני שמחליטים. כן. התחברו עם אותו חשבון Apple והקישו על «שחזור רכישות» בתוך האפליקציה — הרכישה תחזור להיות פעילה בלי תשלום נוסף.",
+        "eyebrow": "פרטיות",
+        "heading": "Lumi Bopomofo · פרטיות",
+        "labels": {
+          "app_store": "Lumi Bopomofo · App Store",
+          "contact": "מרכז התמיכה",
+          "home": "Lumi Bopomofo",
+          "language": "עברית",
+          "privacy": "פרטיות",
+          "support": "מרכז התמיכה"
+        },
+        "lead": "לא. כפי שכתוב בדף של Lumi Bopomofo ב-App Store, אין חשבונות ואין התחברות — אפשר להתחיל מיד אחרי ההתקנה. לא. ב-Lumi Bopomofo אין פרסומות של צד שלישי ואין ערכות אנליטיקה או מעקב בין אפליקציות. התכונות הבסיסיות בחינם. את כל התוכן פותחים ברכישה חד-פעמית בתוך Lumi Bopomofo, כך שאפשר להתנסות ברוגע לפני שמחליטים. כן. התחברו עם אותו חשבון Apple והקישו על «שחזור רכישות» בתוך האפליקציה — הרכישה תחזור להיות פעילה בלי תשלום נוסף.",
+        "sections": [
+          [
+            "פרטיות",
+            "לא. כפי שכתוב בדף של Lumi Bopomofo ב-App Store, אין חשבונות ואין התחברות — אפשר להתחיל מיד אחרי ההתקנה. לא. ב-Lumi Bopomofo אין פרסומות של צד שלישי ואין ערכות אנליטיקה או מעקב בין אפליקציות."
+          ],
+          [
+            "מה אפשר להשתמש בחינם?",
+            "התכונות הבסיסיות בחינם. את כל התוכן פותחים ברכישה חד-פעמית בתוך Lumi Bopomofo, כך שאפשר להתנסות ברוגע לפני שמחליטים. כן. התחברו עם אותו חשבון Apple והקישו על «שחזור רכישות» בתוך האפליקציה — הרכישה תחזור להיות פעילה בלי תשלום נוסף."
+          ],
+          [
+            "איך מוחקים את הנתונים שלי?",
+            "מחקו פריטים בודדים בתוך האפליקציה. כדי למחוק הכול, לחצו לחיצה ארוכה על הסמל של Lumi Bopomofo במסך הבית ומחקו את האפליקציה — יחד איתה נמחקים גם הנתונים ששמורים במכשיר (עותק עשוי להישאר בגיבוי שיצרתם בעצמכם)."
+          ]
+        ],
+        "title": "פרטיות — Lumi Bopomofo"
+      }
+    },
+    "hi": {
+      "privacy": {
+        "app_name": "Lumi Bopomofo",
+        "contact": "hourstag.app@gmail.com पर डिवाइस मॉडल, iOS संस्करण, ऐप संस्करण, गड़बड़ी दोहराने के चरण और एक स्क्रीनशॉट या स्क्रीन रिकॉर्डिंग भेजें। जानकारी जितनी ठोस होगी, सुधार उतनी ही जल्दी होगा।",
+        "description": "नहीं। जैसा Lumi Bopomofo के App Store पेज पर लिखा है, यहाँ न अकाउंट है न साइन-इन — इंस्टॉल करते ही आप शुरू कर सकते हैं। नहीं। Lumi Bopomofo में तीसरे पक्ष के विज्ञापन नहीं हैं, और ऐप्स के बीच ट्रैक करने वाले एनालिटिक्स या ट्रैकिंग SDK भी नहीं हैं। बुनियादी सुविधाएँ मुफ़्त हैं। पूरा कॉन्टेंट Lumi Bopomofo की एक बार की इन-ऐप ख़रीद से खुलता है, इसलिए फ़ैसला लेने से पहले आप ऐप को इत्मीनान से आज़मा सकते हैं। हाँ। उसी Apple अकाउंट से साइन इन करें और ऐप में «ख़रीदारी पुनर्स्थापित करें» पर टैप करें — आपकी ख़रीद बिना दोबारा भुगतान किए फिर से सक्रिय हो जाएगी।",
+        "eyebrow": "गोपनीयता",
+        "heading": "Lumi Bopomofo · गोपनीयता",
+        "labels": {
+          "app_store": "Lumi Bopomofo · App Store",
+          "contact": "सहायता केंद्र",
+          "home": "Lumi Bopomofo",
+          "language": "हिन्दी",
+          "privacy": "गोपनीयता",
+          "support": "सहायता केंद्र"
+        },
+        "lead": "नहीं। जैसा Lumi Bopomofo के App Store पेज पर लिखा है, यहाँ न अकाउंट है न साइन-इन — इंस्टॉल करते ही आप शुरू कर सकते हैं। नहीं। Lumi Bopomofo में तीसरे पक्ष के विज्ञापन नहीं हैं, और ऐप्स के बीच ट्रैक करने वाले एनालिटिक्स या ट्रैकिंग SDK भी नहीं हैं। बुनियादी सुविधाएँ मुफ़्त हैं। पूरा कॉन्टेंट Lumi Bopomofo की एक बार की इन-ऐप ख़रीद से खुलता है, इसलिए फ़ैसला लेने से पहले आप ऐप को इत्मीनान से आज़मा सकते हैं। हाँ। उसी Apple अकाउंट से साइन इन करें और ऐप में «ख़रीदारी पुनर्स्थापित करें» पर टैप करें — आपकी ख़रीद बिना दोबारा भुगतान किए फिर से सक्रिय हो जाएगी।",
+        "sections": [
+          [
+            "गोपनीयता",
+            "नहीं। जैसा Lumi Bopomofo के App Store पेज पर लिखा है, यहाँ न अकाउंट है न साइन-इन — इंस्टॉल करते ही आप शुरू कर सकते हैं। नहीं। Lumi Bopomofo में तीसरे पक्ष के विज्ञापन नहीं हैं, और ऐप्स के बीच ट्रैक करने वाले एनालिटिक्स या ट्रैकिंग SDK भी नहीं हैं।"
+          ],
+          [
+            "मुफ़्त में क्या-क्या इस्तेमाल कर सकता हूँ?",
+            "बुनियादी सुविधाएँ मुफ़्त हैं। पूरा कॉन्टेंट Lumi Bopomofo की एक बार की इन-ऐप ख़रीद से खुलता है, इसलिए फ़ैसला लेने से पहले आप ऐप को इत्मीनान से आज़मा सकते हैं। हाँ। उसी Apple अकाउंट से साइन इन करें और ऐप में «ख़रीदारी पुनर्स्थापित करें» पर टैप करें — आपकी ख़रीद बिना दोबारा भुगतान किए फिर से सक्रिय हो जाएगी।"
+          ],
+          [
+            "अपना डेटा कैसे हटाऊँ?",
+            "अलग-अलग प्रविष्टियाँ ऐप के भीतर से हटाएँ। सब कुछ मिटाना हो तो होम स्क्रीन पर Lumi Bopomofo के आइकन को दबाए रखें और ऐप हटा दें — डिवाइस पर सहेजा गया डेटा भी उसी के साथ चला जाता है (आपके अपने बनाए बैकअप में प्रति रह सकती है)।"
+          ]
+        ],
+        "title": "गोपनीयता — Lumi Bopomofo"
+      }
+    },
+    "hr": {
+      "privacy": {
+        "app_name": "Lumi Bopomofo",
+        "contact": "Pišite na hourstag.app@gmail.com i navedite model uređaja, verziju iOS-a, verziju aplikacije, korake kojima se pogreška izazove te snimku zaslona ili videosnimku. Što konkretnije, to brže ispravljamo.",
+        "description": "Ne. Kako piše na stranici aplikacije Lumi Bopomofo u App Storeu, nema računa ni prijave — možete početi odmah nakon instalacije. Nema. Lumi Bopomofo ne sadrži oglase trećih strana ni analitičke ili prateće SDK-ove koji bi vas pratili među aplikacijama. Osnovne značajke su besplatne. Sve se otključava jednokratnom kupnjom unutar aplikacije Lumi Bopomofo, pa aplikaciju možete u miru isprobati prije odluke. Da. Prijavite se istim Apple računom i u aplikaciji dodirnite «Vrati kupnje» — kupnja će ponovno biti aktivna bez novog plaćanja.",
+        "eyebrow": "Privatnost",
+        "heading": "Lumi Bopomofo · Privatnost",
+        "labels": {
+          "app_store": "Lumi Bopomofo · App Store",
+          "contact": "Centar za podršku",
+          "home": "Lumi Bopomofo",
+          "language": "Hrvatski",
+          "privacy": "Privatnost",
+          "support": "Centar za podršku"
+        },
+        "lead": "Ne. Kako piše na stranici aplikacije Lumi Bopomofo u App Storeu, nema računa ni prijave — možete početi odmah nakon instalacije. Nema. Lumi Bopomofo ne sadrži oglase trećih strana ni analitičke ili prateće SDK-ove koji bi vas pratili među aplikacijama. Osnovne značajke su besplatne. Sve se otključava jednokratnom kupnjom unutar aplikacije Lumi Bopomofo, pa aplikaciju možete u miru isprobati prije odluke. Da. Prijavite se istim Apple računom i u aplikaciji dodirnite «Vrati kupnje» — kupnja će ponovno biti aktivna bez novog plaćanja.",
+        "sections": [
+          [
+            "Privatnost",
+            "Ne. Kako piše na stranici aplikacije Lumi Bopomofo u App Storeu, nema računa ni prijave — možete početi odmah nakon instalacije. Nema. Lumi Bopomofo ne sadrži oglase trećih strana ni analitičke ili prateće SDK-ove koji bi vas pratili među aplikacijama."
+          ],
+          [
+            "Što mogu koristiti besplatno?",
+            "Osnovne značajke su besplatne. Sve se otključava jednokratnom kupnjom unutar aplikacije Lumi Bopomofo, pa aplikaciju možete u miru isprobati prije odluke. Da. Prijavite se istim Apple računom i u aplikaciji dodirnite «Vrati kupnje» — kupnja će ponovno biti aktivna bez novog plaćanja."
+          ],
+          [
+            "Kako obrisati svoje podatke?",
+            "Pojedine stavke brišite unutar aplikacije. Želite li obrisati sve, zadržite prst na ikoni Lumi Bopomofo na početnom zaslonu i izbrišite aplikaciju — s njom nestaju i podaci spremljeni na uređaju (kopija može ostati u sigurnosnoj kopiji koju ste sami napravili)."
+          ]
+        ],
+        "title": "Privatnost — Lumi Bopomofo"
+      }
+    },
+    "hu": {
+      "privacy": {
+        "app_name": "Lumi Bopomofo",
+        "contact": "Írd meg a hourstag.app@gmail.com címre a készülék típusát, az iOS verzióját, az alkalmazás verzióját, a hiba előidézésének lépéseit, és küldj képernyőképet vagy felvételt. Minél konkrétabb, annál hamarabb javítjuk.",
+        "description": "Nem. Ahogy a(z) Lumi Bopomofo App Store-oldalán is szerepel, nincs fiók és nincs bejelentkezés — a telepítés után azonnal kezdheted. Nincs. A(z) Lumi Bopomofo nem tartalmaz harmadik féltől származó hirdetést, sem analitikai vagy alkalmazások közti követésre szolgáló SDK-t. Az alapfunkciók ingyenesek. A teljes tartalmat a(z) Lumi Bopomofo egyszeri alkalmazáson belüli vásárlásával oldhatod fel, így nyugodtan kipróbálhatod, mielőtt döntesz. Igen. Jelentkezz be ugyanazzal az Apple-fiókkal, és koppints az alkalmazásban a «Vásárlások visszaállítása» gombra — a vásárlás újra aktív lesz, fizetned nem kell újra.",
+        "eyebrow": "Adatvédelem",
+        "heading": "Lumi Bopomofo · Adatvédelem",
+        "labels": {
+          "app_store": "Lumi Bopomofo · App Store",
+          "contact": "Ügyfélszolgálat",
+          "home": "Lumi Bopomofo",
+          "language": "Magyar",
+          "privacy": "Adatvédelem",
+          "support": "Ügyfélszolgálat"
+        },
+        "lead": "Nem. Ahogy a(z) Lumi Bopomofo App Store-oldalán is szerepel, nincs fiók és nincs bejelentkezés — a telepítés után azonnal kezdheted. Nincs. A(z) Lumi Bopomofo nem tartalmaz harmadik féltől származó hirdetést, sem analitikai vagy alkalmazások közti követésre szolgáló SDK-t. Az alapfunkciók ingyenesek. A teljes tartalmat a(z) Lumi Bopomofo egyszeri alkalmazáson belüli vásárlásával oldhatod fel, így nyugodtan kipróbálhatod, mielőtt döntesz. Igen. Jelentkezz be ugyanazzal az Apple-fiókkal, és koppints az alkalmazásban a «Vásárlások visszaállítása» gombra — a vásárlás újra aktív lesz, fizetned nem kell újra.",
+        "sections": [
+          [
+            "Adatvédelem",
+            "Nem. Ahogy a(z) Lumi Bopomofo App Store-oldalán is szerepel, nincs fiók és nincs bejelentkezés — a telepítés után azonnal kezdheted. Nincs. A(z) Lumi Bopomofo nem tartalmaz harmadik féltől származó hirdetést, sem analitikai vagy alkalmazások közti követésre szolgáló SDK-t."
+          ],
+          [
+            "Mit használhatok ingyen?",
+            "Az alapfunkciók ingyenesek. A teljes tartalmat a(z) Lumi Bopomofo egyszeri alkalmazáson belüli vásárlásával oldhatod fel, így nyugodtan kipróbálhatod, mielőtt döntesz. Igen. Jelentkezz be ugyanazzal az Apple-fiókkal, és koppints az alkalmazásban a «Vásárlások visszaállítása» gombra — a vásárlás újra aktív lesz, fizetned nem kell újra."
+          ],
+          [
+            "Hogyan törlöm az adataimat?",
+            "Az egyes tételeket az alkalmazáson belül töröld. Ha mindent törölnél, tartsd nyomva a(z) Lumi Bopomofo ikonját a kezdőképernyőn, és töröld az alkalmazást — vele együtt a készüléken tárolt adatok is eltűnnek (egy általad készített biztonsági mentésben maradhat másolat)."
+          ]
+        ],
+        "title": "Adatvédelem — Lumi Bopomofo"
+      }
+    },
+    "id": {
+      "privacy": {
+        "app_name": "Lumi Bopomofo",
+        "contact": "Kirim ke hourstag.app@gmail.com model perangkat, versi iOS, versi aplikasi, langkah-langkah yang memunculkan masalah, serta tangkapan atau rekaman layar. Makin konkret, makin cepat kami perbaiki.",
+        "description": "Tidak. Seperti tertulis di halaman Lumi Bopomofo di App Store, tidak ada akun maupun proses masuk — Anda bisa langsung mulai setelah memasang aplikasinya. Tidak. Lumi Bopomofo tidak memuat iklan pihak ketiga maupun SDK analitik atau pelacakan antar-aplikasi. Fitur dasarnya gratis. Seluruh isinya dibuka dengan satu kali pembelian dalam aplikasi Lumi Bopomofo, jadi Anda bisa mencoba dulu dengan tenang sebelum memutuskan. Ya. Masuk dengan akun Apple yang sama lalu ketuk «Pulihkan Pembelian» di dalam aplikasi — pembelian Anda aktif lagi tanpa perlu bayar ulang.",
+        "eyebrow": "Privasi",
+        "heading": "Lumi Bopomofo · Privasi",
+        "labels": {
+          "app_store": "Lumi Bopomofo · App Store",
+          "contact": "Pusat dukungan",
+          "home": "Lumi Bopomofo",
+          "language": "Bahasa Indonesia",
+          "privacy": "Privasi",
+          "support": "Pusat dukungan"
+        },
+        "lead": "Tidak. Seperti tertulis di halaman Lumi Bopomofo di App Store, tidak ada akun maupun proses masuk — Anda bisa langsung mulai setelah memasang aplikasinya. Tidak. Lumi Bopomofo tidak memuat iklan pihak ketiga maupun SDK analitik atau pelacakan antar-aplikasi. Fitur dasarnya gratis. Seluruh isinya dibuka dengan satu kali pembelian dalam aplikasi Lumi Bopomofo, jadi Anda bisa mencoba dulu dengan tenang sebelum memutuskan. Ya. Masuk dengan akun Apple yang sama lalu ketuk «Pulihkan Pembelian» di dalam aplikasi — pembelian Anda aktif lagi tanpa perlu bayar ulang.",
+        "sections": [
+          [
+            "Privasi",
+            "Tidak. Seperti tertulis di halaman Lumi Bopomofo di App Store, tidak ada akun maupun proses masuk — Anda bisa langsung mulai setelah memasang aplikasinya. Tidak. Lumi Bopomofo tidak memuat iklan pihak ketiga maupun SDK analitik atau pelacakan antar-aplikasi."
+          ],
+          [
+            "Apa yang bisa saya pakai gratis?",
+            "Fitur dasarnya gratis. Seluruh isinya dibuka dengan satu kali pembelian dalam aplikasi Lumi Bopomofo, jadi Anda bisa mencoba dulu dengan tenang sebelum memutuskan. Ya. Masuk dengan akun Apple yang sama lalu ketuk «Pulihkan Pembelian» di dalam aplikasi — pembelian Anda aktif lagi tanpa perlu bayar ulang."
+          ],
+          [
+            "Bagaimana cara menghapus data saya?",
+            "Hapus entri satu per satu di dalam aplikasi. Untuk menghapus semuanya, tekan lama ikon Lumi Bopomofo di Layar Utama lalu hapus aplikasinya — data yang tersimpan di perangkat ikut terhapus (salinan mungkin masih ada di cadangan yang Anda buat sendiri)."
+          ]
+        ],
+        "title": "Privasi — Lumi Bopomofo"
+      }
+    },
+    "it": {
+      "privacy": {
+        "app_name": "Lumi Bopomofo",
+        "contact": "Scrivi a hourstag.app@gmail.com indicando il modello del dispositivo, la versione di iOS, la versione dell'app, i passaggi per riprodurre il problema e uno screenshot o una registrazione dello schermo. Più dettagli ci dai, più in fretta lo correggiamo.",
+        "description": "No. Come indicato sulla scheda di Lumi Bopomofo su App Store, non servono account né accessi: puoi iniziare subito dopo l'installazione. No. Lumi Bopomofo non contiene pubblicità di terze parti né SDK di analytics o di tracciamento tra app. Le funzioni di base sono gratuite. Per aprire tutti i contenuti c'è un acquisto in-app una tantum di Lumi Bopomofo, così puoi provare l'app con calma prima di decidere. Sì. Accedi con lo stesso account Apple e tocca «Ripristina acquisti» nell'app: il tuo acquisto torna attivo senza pagare di nuovo.",
+        "eyebrow": "Riservatezza",
+        "heading": "Lumi Bopomofo · Riservatezza",
+        "labels": {
+          "app_store": "Lumi Bopomofo · App Store",
+          "contact": "Centro assistenza",
+          "home": "Lumi Bopomofo",
+          "language": "Italiano",
+          "privacy": "Riservatezza",
+          "support": "Centro assistenza"
+        },
+        "lead": "No. Come indicato sulla scheda di Lumi Bopomofo su App Store, non servono account né accessi: puoi iniziare subito dopo l'installazione. No. Lumi Bopomofo non contiene pubblicità di terze parti né SDK di analytics o di tracciamento tra app. Le funzioni di base sono gratuite. Per aprire tutti i contenuti c'è un acquisto in-app una tantum di Lumi Bopomofo, così puoi provare l'app con calma prima di decidere. Sì. Accedi con lo stesso account Apple e tocca «Ripristina acquisti» nell'app: il tuo acquisto torna attivo senza pagare di nuovo.",
+        "sections": [
+          [
+            "Riservatezza",
+            "No. Come indicato sulla scheda di Lumi Bopomofo su App Store, non servono account né accessi: puoi iniziare subito dopo l'installazione. No. Lumi Bopomofo non contiene pubblicità di terze parti né SDK di analytics o di tracciamento tra app."
+          ],
+          [
+            "Che cosa posso usare gratuitamente?",
+            "Le funzioni di base sono gratuite. Per aprire tutti i contenuti c'è un acquisto in-app una tantum di Lumi Bopomofo, così puoi provare l'app con calma prima di decidere. Sì. Accedi con lo stesso account Apple e tocca «Ripristina acquisti» nell'app: il tuo acquisto torna attivo senza pagare di nuovo."
+          ],
+          [
+            "Come cancello i miei dati?",
+            "Elimina le singole voci dentro l'app. Per cancellare tutto, tieni premuta l'icona di Lumi Bopomofo nella schermata Home ed elimina l'app: spariscono anche i dati salvati sul dispositivo (una copia può restare in un backup che hai fatto tu)."
+          ]
+        ],
+        "title": "Riservatezza — Lumi Bopomofo"
+      }
+    },
+    "ja": {
+      "privacy": {
+        "app_name": "Lumi ボポモフォ",
+        "contact": "hourstag.app@gmail.com まで、端末の機種名、iOS のバージョン、アプリのバージョン、再現手順、スクリーンショットまたは画面収録を添えてご連絡ください。情報が具体的なほど修正が早くなります。",
+        "description": "必要ありません。Lumi ボポモフォ の App Store 製品ページに記載のとおり、アカウントもログインも不要で、インストール後すぐに使い始められます。 ありません。Lumi ボポモフォ には第三者の広告も、第三者のアナリティクスやアプリ間トラッキングの SDK も含まれていません。 基本の機能は無料でお使いいただけます。すべての内容を利用したい場合は、Lumi ボポモフォ の買い切りのアプリ内課金でアンロックできます。購入前に無料の範囲で十分に試せます。 引き継げます。同じ Apple アカウントでサインインし、アプリ内の「購入を復元」をタップすれば、以前の購入が再度有効になります。もう一度お支払いいただく必要はありません。",
+        "eyebrow": "プライバシー",
+        "heading": "Lumi ボポモフォ · プライバシー",
+        "labels": {
+          "app_store": "Lumi ボポモフォ · App Store",
+          "contact": "サポートセンター",
+          "home": "Lumi ボポモフォ",
+          "language": "日本語",
+          "privacy": "プライバシー",
+          "support": "サポートセンター"
+        },
+        "lead": "必要ありません。Lumi ボポモフォ の App Store 製品ページに記載のとおり、アカウントもログインも不要で、インストール後すぐに使い始められます。 ありません。Lumi ボポモフォ には第三者の広告も、第三者のアナリティクスやアプリ間トラッキングの SDK も含まれていません。 基本の機能は無料でお使いいただけます。すべての内容を利用したい場合は、Lumi ボポモフォ の買い切りのアプリ内課金でアンロックできます。購入前に無料の範囲で十分に試せます。 引き継げます。同じ Apple アカウントでサインインし、アプリ内の「購入を復元」をタップすれば、以前の購入が再度有効になります。もう一度お支払いいただく必要はありません。",
+        "sections": [
+          [
+            "プライバシー",
+            "必要ありません。Lumi ボポモフォ の App Store 製品ページに記載のとおり、アカウントもログインも不要で、インストール後すぐに使い始められます。 ありません。Lumi ボポモフォ には第三者の広告も、第三者のアナリティクスやアプリ間トラッキングの SDK も含まれていません。"
+          ],
+          [
+            "無料でどこまで使えますか?",
+            "基本の機能は無料でお使いいただけます。すべての内容を利用したい場合は、Lumi ボポモフォ の買い切りのアプリ内課金でアンロックできます。購入前に無料の範囲で十分に試せます。 引き継げます。同じ Apple アカウントでサインインし、アプリ内の「購入を復元」をタップすれば、以前の購入が再度有効になります。もう一度お支払いいただく必要はありません。"
+          ],
+          [
+            "データを削除するには?",
+            "アプリ内で該当の項目を削除してください。まとめて消す場合は、ホーム画面の Lumi ボポモフォ のアイコンを長押しして App を削除すると、端末内に保存されたデータも一緒に削除されます(端末のバックアップをお持ちの場合、そちらには残ることがあります)。"
+          ]
+        ],
+        "title": "プライバシー — Lumi ボポモフォ"
+      }
+    },
+    "kn-IN": {
+      "privacy": {
+        "app_name": "Lumi Bopomofo",
+        "contact": "hourstag.app@gmail.com ಗೆ ಸಾಧನದ ಮಾದರಿ, iOS ಆವೃತ್ತಿ, ಅಪ್ಲಿಕೇಶನ್ ಆವೃತ್ತಿ, ದೋಷ ಮತ್ತೆ ಬರುವ ಹಂತಗಳು ಮತ್ತು ಸ್ಕ್ರೀನ್‌ಶಾಟ್ ಅಥವಾ ಸ್ಕ್ರೀನ್ ರೆಕಾರ್ಡಿಂಗ್ ಕಳುಹಿಸಿ. ವಿವರಣೆ ಎಷ್ಟು ಸ್ಪಷ್ಟವೋ ಸರಿಪಡಿಸುವುದು ಅಷ್ಟು ಬೇಗ.",
+        "description": "ಬೇಡ. Lumi Bopomofo ನ App Store ಪುಟದಲ್ಲಿ ತಿಳಿಸಿರುವಂತೆ ಇಲ್ಲಿ ಖಾತೆಯೂ ಇಲ್ಲ, ಸೈನ್-ಇನ್ ಕೂಡ ಇಲ್ಲ — ಸ್ಥಾಪಿಸಿದ ಕೂಡಲೇ ಆರಂಭಿಸಬಹುದು. ಇಲ್ಲ. Lumi Bopomofo ನಲ್ಲಿ ಮೂರನೇ ವ್ಯಕ್ತಿಯ ಜಾಹೀರಾತುಗಳಿಲ್ಲ; ಅಪ್ಲಿಕೇಶನ್‌ಗಳ ನಡುವೆ ಟ್ರ್ಯಾಕ್ ಮಾಡುವ ಅನಲಿಟಿಕ್ಸ್ ಅಥವಾ ಟ್ರ್ಯಾಕಿಂಗ್ SDK ಗಳೂ ಇಲ್ಲ. ಮೂಲ ಸೌಲಭ್ಯಗಳು ಉಚಿತ. ಪೂರ್ಣ ವಿಷಯವು Lumi Bopomofo ನಲ್ಲಿ ಒಂದೇ ಬಾರಿಯ ಇನ್-ಆಪ್ ಖರೀದಿಯಿಂದ ತೆರೆದುಕೊಳ್ಳುತ್ತದೆ; ಹಾಗಾಗಿ ನಿರ್ಧರಿಸುವ ಮೊದಲು ನಿಧಾನವಾಗಿ ಬಳಸಿ ನೋಡಬಹುದು. ಹೌದು. ಅದೇ Apple ಖಾತೆಯಿಂದ ಸೈನ್ ಇನ್ ಮಾಡಿ, ಅಪ್ಲಿಕೇಶನ್‌ನಲ್ಲಿ «ಖರೀದಿಗಳನ್ನು ಮರುಸ್ಥಾಪಿಸಿ» ಒತ್ತಿ — ಮತ್ತೆ ಹಣ ಪಾವತಿಸದೆಯೇ ನಿಮ್ಮ ಖರೀದಿ ಪುನಃ ಸಕ್ರಿಯವಾಗುತ್ತದೆ.",
+        "eyebrow": "ಗೌಪ್ಯತೆ",
+        "heading": "Lumi Bopomofo · ಗೌಪ್ಯತೆ",
+        "labels": {
+          "app_store": "Lumi Bopomofo · App Store",
+          "contact": "ನೆರವು ಕೇಂದ್ರ",
+          "home": "Lumi Bopomofo",
+          "language": "ಕನ್ನಡ",
+          "privacy": "ಗೌಪ್ಯತೆ",
+          "support": "ನೆರವು ಕೇಂದ್ರ"
+        },
+        "lead": "ಬೇಡ. Lumi Bopomofo ನ App Store ಪುಟದಲ್ಲಿ ತಿಳಿಸಿರುವಂತೆ ಇಲ್ಲಿ ಖಾತೆಯೂ ಇಲ್ಲ, ಸೈನ್-ಇನ್ ಕೂಡ ಇಲ್ಲ — ಸ್ಥಾಪಿಸಿದ ಕೂಡಲೇ ಆರಂಭಿಸಬಹುದು. ಇಲ್ಲ. Lumi Bopomofo ನಲ್ಲಿ ಮೂರನೇ ವ್ಯಕ್ತಿಯ ಜಾಹೀರಾತುಗಳಿಲ್ಲ; ಅಪ್ಲಿಕೇಶನ್‌ಗಳ ನಡುವೆ ಟ್ರ್ಯಾಕ್ ಮಾಡುವ ಅನಲಿಟಿಕ್ಸ್ ಅಥವಾ ಟ್ರ್ಯಾಕಿಂಗ್ SDK ಗಳೂ ಇಲ್ಲ. ಮೂಲ ಸೌಲಭ್ಯಗಳು ಉಚಿತ. ಪೂರ್ಣ ವಿಷಯವು Lumi Bopomofo ನಲ್ಲಿ ಒಂದೇ ಬಾರಿಯ ಇನ್-ಆಪ್ ಖರೀದಿಯಿಂದ ತೆರೆದುಕೊಳ್ಳುತ್ತದೆ; ಹಾಗಾಗಿ ನಿರ್ಧರಿಸುವ ಮೊದಲು ನಿಧಾನವಾಗಿ ಬಳಸಿ ನೋಡಬಹುದು. ಹೌದು. ಅದೇ Apple ಖಾತೆಯಿಂದ ಸೈನ್ ಇನ್ ಮಾಡಿ, ಅಪ್ಲಿಕೇಶನ್‌ನಲ್ಲಿ «ಖರೀದಿಗಳನ್ನು ಮರುಸ್ಥಾಪಿಸಿ» ಒತ್ತಿ — ಮತ್ತೆ ಹಣ ಪಾವತಿಸದೆಯೇ ನಿಮ್ಮ ಖರೀದಿ ಪುನಃ ಸಕ್ರಿಯವಾಗುತ್ತದೆ.",
+        "sections": [
+          [
+            "ಗೌಪ್ಯತೆ",
+            "ಬೇಡ. Lumi Bopomofo ನ App Store ಪುಟದಲ್ಲಿ ತಿಳಿಸಿರುವಂತೆ ಇಲ್ಲಿ ಖಾತೆಯೂ ಇಲ್ಲ, ಸೈನ್-ಇನ್ ಕೂಡ ಇಲ್ಲ — ಸ್ಥಾಪಿಸಿದ ಕೂಡಲೇ ಆರಂಭಿಸಬಹುದು. ಇಲ್ಲ. Lumi Bopomofo ನಲ್ಲಿ ಮೂರನೇ ವ್ಯಕ್ತಿಯ ಜಾಹೀರಾತುಗಳಿಲ್ಲ; ಅಪ್ಲಿಕೇಶನ್‌ಗಳ ನಡುವೆ ಟ್ರ್ಯಾಕ್ ಮಾಡುವ ಅನಲಿಟಿಕ್ಸ್ ಅಥವಾ ಟ್ರ್ಯಾಕಿಂಗ್ SDK ಗಳೂ ಇಲ್ಲ."
+          ],
+          [
+            "ಉಚಿತವಾಗಿ ಏನನ್ನು ಬಳಸಬಹುದು?",
+            "ಮೂಲ ಸೌಲಭ್ಯಗಳು ಉಚಿತ. ಪೂರ್ಣ ವಿಷಯವು Lumi Bopomofo ನಲ್ಲಿ ಒಂದೇ ಬಾರಿಯ ಇನ್-ಆಪ್ ಖರೀದಿಯಿಂದ ತೆರೆದುಕೊಳ್ಳುತ್ತದೆ; ಹಾಗಾಗಿ ನಿರ್ಧರಿಸುವ ಮೊದಲು ನಿಧಾನವಾಗಿ ಬಳಸಿ ನೋಡಬಹುದು. ಹೌದು. ಅದೇ Apple ಖಾತೆಯಿಂದ ಸೈನ್ ಇನ್ ಮಾಡಿ, ಅಪ್ಲಿಕೇಶನ್‌ನಲ್ಲಿ «ಖರೀದಿಗಳನ್ನು ಮರುಸ್ಥಾಪಿಸಿ» ಒತ್ತಿ — ಮತ್ತೆ ಹಣ ಪಾವತಿಸದೆಯೇ ನಿಮ್ಮ ಖರೀದಿ ಪುನಃ ಸಕ್ರಿಯವಾಗುತ್ತದೆ."
+          ],
+          [
+            "ನನ್ನ ಮಾಹಿತಿಯನ್ನು ಹೇಗೆ ಅಳಿಸುವುದು?",
+            "ಪ್ರತ್ಯೇಕ ನಮೂದುಗಳನ್ನು ಅಪ್ಲಿಕೇಶನ್ ಒಳಗೇ ಅಳಿಸಿ. ಎಲ್ಲವನ್ನೂ ಅಳಿಸಬೇಕಿದ್ದರೆ ಮುಖಪುಟ ಪರದೆಯಲ್ಲಿ Lumi Bopomofo ಚಿಹ್ನೆಯನ್ನು ಒತ್ತಿ ಹಿಡಿದು ಅಪ್ಲಿಕೇಶನ್ ಅಳಿಸಿ — ಸಾಧನದಲ್ಲಿ ಉಳಿಸಿದ ಮಾಹಿತಿಯೂ ಅದರೊಂದಿಗೆ ಹೋಗುತ್ತದೆ (ನೀವೇ ತೆಗೆದ ಬ್ಯಾಕಪ್‌ನಲ್ಲಿ ಪ್ರತಿ ಉಳಿಯಬಹುದು)."
+          ]
+        ],
+        "title": "ಗೌಪ್ಯತೆ — Lumi Bopomofo"
+      }
+    },
+    "ko": {
+      "privacy": {
+        "app_name": "Lumi 보포모포",
+        "contact": "hourstag.app@gmail.com로 기기 모델, iOS 버전, 앱 버전, 재현 절차, 스크린샷 또는 화면 기록을 보내주세요. 정보가 구체적일수록 더 빨리 고칠 수 있습니다.",
+        "description": "아니요. Lumi 보포모포의 App Store 제품 페이지에 안내된 대로 계정이나 로그인이 필요 없으며, 설치 후 바로 사용할 수 있습니다. 없습니다. Lumi 보포모포에는 제3자 광고도, 제3자 분석이나 앱 간 추적 SDK도 포함되어 있지 않습니다. 기본 기능은 무료로 사용할 수 있습니다. 전체 콘텐츠를 사용하려면 Lumi 보포모포의 일회성 인앱 구매로 잠금을 해제하면 됩니다. 구매 전에 무료 범위에서 충분히 사용해 볼 수 있습니다. 유지됩니다. 같은 Apple 계정으로 로그인한 뒤 앱에서 '구매 복원'을 누르면 이전 구매가 다시 활성화됩니다. 다시 결제할 필요는 없습니다.",
+        "eyebrow": "개인정보 보호",
+        "heading": "Lumi 보포모포 · 개인정보 보호",
+        "labels": {
+          "app_store": "Lumi 보포모포 · App Store",
+          "contact": "지원 센터",
+          "home": "Lumi 보포모포",
+          "language": "한국어",
+          "privacy": "개인정보 보호",
+          "support": "지원 센터"
+        },
+        "lead": "아니요. Lumi 보포모포의 App Store 제품 페이지에 안내된 대로 계정이나 로그인이 필요 없으며, 설치 후 바로 사용할 수 있습니다. 없습니다. Lumi 보포모포에는 제3자 광고도, 제3자 분석이나 앱 간 추적 SDK도 포함되어 있지 않습니다. 기본 기능은 무료로 사용할 수 있습니다. 전체 콘텐츠를 사용하려면 Lumi 보포모포의 일회성 인앱 구매로 잠금을 해제하면 됩니다. 구매 전에 무료 범위에서 충분히 사용해 볼 수 있습니다. 유지됩니다. 같은 Apple 계정으로 로그인한 뒤 앱에서 '구매 복원'을 누르면 이전 구매가 다시 활성화됩니다. 다시 결제할 필요는 없습니다.",
+        "sections": [
+          [
+            "개인정보 보호",
+            "아니요. Lumi 보포모포의 App Store 제품 페이지에 안내된 대로 계정이나 로그인이 필요 없으며, 설치 후 바로 사용할 수 있습니다. 없습니다. Lumi 보포모포에는 제3자 광고도, 제3자 분석이나 앱 간 추적 SDK도 포함되어 있지 않습니다."
+          ],
+          [
+            "무료로 어디까지 쓸 수 있나요?",
+            "기본 기능은 무료로 사용할 수 있습니다. 전체 콘텐츠를 사용하려면 Lumi 보포모포의 일회성 인앱 구매로 잠금을 해제하면 됩니다. 구매 전에 무료 범위에서 충분히 사용해 볼 수 있습니다. 유지됩니다. 같은 Apple 계정으로 로그인한 뒤 앱에서 '구매 복원'을 누르면 이전 구매가 다시 활성화됩니다. 다시 결제할 필요는 없습니다."
+          ],
+          [
+            "데이터를 삭제하려면 어떻게 하나요?",
+            "앱 안에서 해당 항목을 삭제하면 됩니다. 한 번에 모두 지우려면 홈 화면에서 Lumi 보포모포 아이콘을 길게 눌러 앱을 삭제하세요. 기기에 저장된 데이터도 함께 삭제됩니다(기기 백업이 있다면 백업에는 남아 있을 수 있습니다)."
+          ]
+        ],
+        "title": "개인정보 보호 — Lumi 보포모포"
+      }
+    },
+    "ml-IN": {
+      "privacy": {
+        "app_name": "Lumi Bopomofo",
+        "contact": "hourstag.app@gmail.com എന്ന വിലാസത്തിലേക്ക് ഉപകരണ മോഡൽ, iOS പതിപ്പ്, ആപ്പ് പതിപ്പ്, പിഴവ് വീണ്ടും വരുത്തുന്ന ഘട്ടങ്ങൾ, സ്ക്രീൻഷോട്ട് അല്ലെങ്കിൽ സ്ക്രീൻ റെക്കോർഡിംഗ് എന്നിവ അയക്കുക. വിവരണം എത്ര വ്യക്തമോ അത്ര വേഗത്തിൽ പരിഹരിക്കാം.",
+        "description": "വേണ്ട. Lumi Bopomofo-ന്റെ App Store പേജിൽ പറയുന്നതുപോലെ ഇവിടെ അക്കൗണ്ടോ സൈൻ-ഇന്നോ ഇല്ല — ഇൻസ്റ്റാൾ ചെയ്ത ഉടനെ തുടങ്ങാം. ഇല്ല. Lumi Bopomofo-ൽ മൂന്നാം കക്ഷിയുടെ പരസ്യങ്ങളില്ല; ആപ്പുകൾക്കിടയിൽ പിന്തുടരുന്ന അനലിറ്റിക്സ് അല്ലെങ്കിൽ ട്രാക്കിംഗ് SDK-കളും ഇല്ല. അടിസ്ഥാന സവിശേഷതകൾ സൗജന്യമാണ്. മുഴുവൻ ഉള്ളടക്കവും Lumi Bopomofo-ലെ ഒറ്റത്തവണ ഇൻ-ആപ്പ് വാങ്ങലിലൂടെ തുറക്കും; അതിനാൽ തീരുമാനിക്കുംമുമ്പ് സാവധാനം പരീക്ഷിച്ചുനോക്കാം. നിലനിൽക്കും. അതേ Apple അക്കൗണ്ടിൽ സൈൻ ഇൻ ചെയ്ത് ആപ്പിൽ «വാങ്ങലുകൾ പുനഃസ്ഥാപിക്കുക» അമർത്തുക — വീണ്ടും പണം നൽകാതെ നിങ്ങളുടെ വാങ്ങൽ വീണ്ടും സജീവമാകും.",
+        "eyebrow": "സ്വകാര്യത",
+        "heading": "Lumi Bopomofo · സ്വകാര്യത",
+        "labels": {
+          "app_store": "Lumi Bopomofo · App Store",
+          "contact": "പിന്തുണാ കേന്ദ്രം",
+          "home": "Lumi Bopomofo",
+          "language": "മലയാളം",
+          "privacy": "സ്വകാര്യത",
+          "support": "പിന്തുണാ കേന്ദ്രം"
+        },
+        "lead": "വേണ്ട. Lumi Bopomofo-ന്റെ App Store പേജിൽ പറയുന്നതുപോലെ ഇവിടെ അക്കൗണ്ടോ സൈൻ-ഇന്നോ ഇല്ല — ഇൻസ്റ്റാൾ ചെയ്ത ഉടനെ തുടങ്ങാം. ഇല്ല. Lumi Bopomofo-ൽ മൂന്നാം കക്ഷിയുടെ പരസ്യങ്ങളില്ല; ആപ്പുകൾക്കിടയിൽ പിന്തുടരുന്ന അനലിറ്റിക്സ് അല്ലെങ്കിൽ ട്രാക്കിംഗ് SDK-കളും ഇല്ല. അടിസ്ഥാന സവിശേഷതകൾ സൗജന്യമാണ്. മുഴുവൻ ഉള്ളടക്കവും Lumi Bopomofo-ലെ ഒറ്റത്തവണ ഇൻ-ആപ്പ് വാങ്ങലിലൂടെ തുറക്കും; അതിനാൽ തീരുമാനിക്കുംമുമ്പ് സാവധാനം പരീക്ഷിച്ചുനോക്കാം. നിലനിൽക്കും. അതേ Apple അക്കൗണ്ടിൽ സൈൻ ഇൻ ചെയ്ത് ആപ്പിൽ «വാങ്ങലുകൾ പുനഃസ്ഥാപിക്കുക» അമർത്തുക — വീണ്ടും പണം നൽകാതെ നിങ്ങളുടെ വാങ്ങൽ വീണ്ടും സജീവമാകും.",
+        "sections": [
+          [
+            "സ്വകാര്യത",
+            "വേണ്ട. Lumi Bopomofo-ന്റെ App Store പേജിൽ പറയുന്നതുപോലെ ഇവിടെ അക്കൗണ്ടോ സൈൻ-ഇന്നോ ഇല്ല — ഇൻസ്റ്റാൾ ചെയ്ത ഉടനെ തുടങ്ങാം. ഇല്ല. Lumi Bopomofo-ൽ മൂന്നാം കക്ഷിയുടെ പരസ്യങ്ങളില്ല; ആപ്പുകൾക്കിടയിൽ പിന്തുടരുന്ന അനലിറ്റിക്സ് അല്ലെങ്കിൽ ട്രാക്കിംഗ് SDK-കളും ഇല്ല."
+          ],
+          [
+            "സൗജന്യമായി എന്തൊക്കെ ഉപയോഗിക്കാം?",
+            "അടിസ്ഥാന സവിശേഷതകൾ സൗജന്യമാണ്. മുഴുവൻ ഉള്ളടക്കവും Lumi Bopomofo-ലെ ഒറ്റത്തവണ ഇൻ-ആപ്പ് വാങ്ങലിലൂടെ തുറക്കും; അതിനാൽ തീരുമാനിക്കുംമുമ്പ് സാവധാനം പരീക്ഷിച്ചുനോക്കാം. നിലനിൽക്കും. അതേ Apple അക്കൗണ്ടിൽ സൈൻ ഇൻ ചെയ്ത് ആപ്പിൽ «വാങ്ങലുകൾ പുനഃസ്ഥാപിക്കുക» അമർത്തുക — വീണ്ടും പണം നൽകാതെ നിങ്ങളുടെ വാങ്ങൽ വീണ്ടും സജീവമാകും."
+          ],
+          [
+            "എന്റെ വിവരങ്ങൾ എങ്ങനെ മായ്ക്കും?",
+            "ഓരോ എൻട്രിയും ആപ്പിനുള്ളിൽത്തന്നെ മായ്ക്കുക. എല്ലാം മായ്ക്കണമെങ്കിൽ ഹോം സ്ക്രീനിൽ Lumi Bopomofo ചിഹ്നം അമർത്തിപ്പിടിച്ച് ആപ്പ് നീക്കം ചെയ്യുക — ഉപകരണത്തിൽ സൂക്ഷിച്ച വിവരങ്ങളും അതോടൊപ്പം പോകും (നിങ്ങൾതന്നെ എടുത്ത ബാക്കപ്പിൽ പകർപ്പ് ശേഷിക്കാം)."
+          ]
+        ],
+        "title": "സ്വകാര്യത — Lumi Bopomofo"
+      }
+    },
+    "mr-IN": {
+      "privacy": {
+        "app_name": "Lumi Bopomofo",
+        "contact": "hourstag.app@gmail.com वर उपकरणाचे मॉडेल, iOS आवृत्ती, अॅप आवृत्ती, त्रुटी पुन्हा घडवण्याच्या पायऱ्या आणि स्क्रीनशॉट किंवा स्क्रीन रेकॉर्डिंग पाठवा. वर्णन जितके नेमके, दुरुस्ती तितकी लवकर.",
+        "description": "नाही. Lumi Bopomofo च्या App Store पानावर लिहिल्याप्रमाणे इथे खाते किंवा साइन-इन काहीच नाही — इन्स्टॉल केल्यावर लगेच सुरुवात करता येते. नाही. Lumi Bopomofo मध्ये तिसऱ्या पक्षाच्या जाहिराती नाहीत, तसेच अॅपांदरम्यान मागोवा घेणारे अॅनालिटिक्स किंवा ट्रॅकिंग SDK देखील नाहीत. मूलभूत वैशिष्ट्ये मोफत आहेत. संपूर्ण मजकूर Lumi Bopomofo मधील एकदाच करायच्या इन-अॅप खरेदीने उघडतो, त्यामुळे निर्णय घेण्याआधी अॅप निवांत वापरून पाहता येते. होय. त्याच Apple खात्याने साइन इन करा आणि अॅपमध्ये «खरेदी पुनर्संचयित करा» वर टॅप करा — पुन्हा पैसे न भरता तुमची खरेदी पुन्हा सक्रिय होते.",
+        "eyebrow": "गोपनीयता",
+        "heading": "Lumi Bopomofo · गोपनीयता",
+        "labels": {
+          "app_store": "Lumi Bopomofo · App Store",
+          "contact": "साहाय्य केंद्र",
+          "home": "Lumi Bopomofo",
+          "language": "मराठी",
+          "privacy": "गोपनीयता",
+          "support": "साहाय्य केंद्र"
+        },
+        "lead": "नाही. Lumi Bopomofo च्या App Store पानावर लिहिल्याप्रमाणे इथे खाते किंवा साइन-इन काहीच नाही — इन्स्टॉल केल्यावर लगेच सुरुवात करता येते. नाही. Lumi Bopomofo मध्ये तिसऱ्या पक्षाच्या जाहिराती नाहीत, तसेच अॅपांदरम्यान मागोवा घेणारे अॅनालिटिक्स किंवा ट्रॅकिंग SDK देखील नाहीत. मूलभूत वैशिष्ट्ये मोफत आहेत. संपूर्ण मजकूर Lumi Bopomofo मधील एकदाच करायच्या इन-अॅप खरेदीने उघडतो, त्यामुळे निर्णय घेण्याआधी अॅप निवांत वापरून पाहता येते. होय. त्याच Apple खात्याने साइन इन करा आणि अॅपमध्ये «खरेदी पुनर्संचयित करा» वर टॅप करा — पुन्हा पैसे न भरता तुमची खरेदी पुन्हा सक्रिय होते.",
+        "sections": [
+          [
+            "गोपनीयता",
+            "नाही. Lumi Bopomofo च्या App Store पानावर लिहिल्याप्रमाणे इथे खाते किंवा साइन-इन काहीच नाही — इन्स्टॉल केल्यावर लगेच सुरुवात करता येते. नाही. Lumi Bopomofo मध्ये तिसऱ्या पक्षाच्या जाहिराती नाहीत, तसेच अॅपांदरम्यान मागोवा घेणारे अॅनालिटिक्स किंवा ट्रॅकिंग SDK देखील नाहीत."
+          ],
+          [
+            "मोफत काय वापरता येते?",
+            "मूलभूत वैशिष्ट्ये मोफत आहेत. संपूर्ण मजकूर Lumi Bopomofo मधील एकदाच करायच्या इन-अॅप खरेदीने उघडतो, त्यामुळे निर्णय घेण्याआधी अॅप निवांत वापरून पाहता येते. होय. त्याच Apple खात्याने साइन इन करा आणि अॅपमध्ये «खरेदी पुनर्संचयित करा» वर टॅप करा — पुन्हा पैसे न भरता तुमची खरेदी पुन्हा सक्रिय होते."
+          ],
+          [
+            "माझी माहिती कशी हटवायची?",
+            "स्वतंत्र नोंदी अॅपमधूनच हटवा. सगळे मिटवायचे असेल तर मुख्य पडद्यावर Lumi Bopomofo च्या चिन्हावर दाबून धरा आणि अॅप हटवा — उपकरणावर साठवलेली माहितीही त्यासोबत जाते (तुम्ही स्वतः घेतलेल्या बॅकअपमध्ये प्रत राहू शकते)."
+          ]
+        ],
+        "title": "गोपनीयता — Lumi Bopomofo"
+      }
+    },
+    "ms": {
+      "privacy": {
+        "app_name": "Lumi Bopomofo",
+        "contact": "E-mel hourstag.app@gmail.com dengan model peranti, versi iOS, versi apl, langkah untuk menghasilkan semula masalah, serta tangkapan atau rakaman skrin. Lebih terperinci, lebih cepat kami baiki.",
+        "description": "Tidak. Seperti tertera pada halaman Lumi Bopomofo dalam App Store, tiada akaun dan tiada log masuk — anda boleh terus mula selepas memasangnya. Tidak. Lumi Bopomofo tidak mengandungi iklan pihak ketiga mahupun SDK analitis atau penjejakan merentas apl. Ciri asas adalah percuma. Semua kandungan dibuka dengan satu pembelian dalam apl Lumi Bopomofo, jadi anda boleh mencubanya dengan tenang sebelum membuat keputusan. Ya. Log masuk dengan akaun Apple yang sama dan ketik «Pulihkan Pembelian» dalam apl — pembelian anda aktif semula tanpa perlu membayar lagi.",
+        "eyebrow": "Privasi",
+        "heading": "Lumi Bopomofo · Privasi",
+        "labels": {
+          "app_store": "Lumi Bopomofo · App Store",
+          "contact": "Pusat sokongan",
+          "home": "Lumi Bopomofo",
+          "language": "Bahasa Melayu",
+          "privacy": "Privasi",
+          "support": "Pusat sokongan"
+        },
+        "lead": "Tidak. Seperti tertera pada halaman Lumi Bopomofo dalam App Store, tiada akaun dan tiada log masuk — anda boleh terus mula selepas memasangnya. Tidak. Lumi Bopomofo tidak mengandungi iklan pihak ketiga mahupun SDK analitis atau penjejakan merentas apl. Ciri asas adalah percuma. Semua kandungan dibuka dengan satu pembelian dalam apl Lumi Bopomofo, jadi anda boleh mencubanya dengan tenang sebelum membuat keputusan. Ya. Log masuk dengan akaun Apple yang sama dan ketik «Pulihkan Pembelian» dalam apl — pembelian anda aktif semula tanpa perlu membayar lagi.",
+        "sections": [
+          [
+            "Privasi",
+            "Tidak. Seperti tertera pada halaman Lumi Bopomofo dalam App Store, tiada akaun dan tiada log masuk — anda boleh terus mula selepas memasangnya. Tidak. Lumi Bopomofo tidak mengandungi iklan pihak ketiga mahupun SDK analitis atau penjejakan merentas apl."
+          ],
+          [
+            "Apa yang boleh saya guna secara percuma?",
+            "Ciri asas adalah percuma. Semua kandungan dibuka dengan satu pembelian dalam apl Lumi Bopomofo, jadi anda boleh mencubanya dengan tenang sebelum membuat keputusan. Ya. Log masuk dengan akaun Apple yang sama dan ketik «Pulihkan Pembelian» dalam apl — pembelian anda aktif semula tanpa perlu membayar lagi."
+          ],
+          [
+            "Bagaimana saya memadam data saya?",
+            "Padam entri satu per satu di dalam apl. Untuk memadam semuanya, tekan lama ikon Lumi Bopomofo pada Skrin Utama dan padam apl itu — data yang disimpan pada peranti turut hilang (salinan mungkin masih ada dalam sandaran yang anda buat sendiri)."
+          ]
+        ],
+        "title": "Privasi — Lumi Bopomofo"
+      }
+    },
+    "nl-NL": {
+      "privacy": {
+        "app_name": "Lumi Bopomofo",
+        "contact": "Mail hourstag.app@gmail.com met je toestelmodel, iOS-versie, app-versie, de stappen om het probleem op te roepen en een schermafbeelding of schermopname. Hoe concreter, hoe sneller we het oplossen.",
+        "description": "Nee. Zoals op de App Store-pagina van Lumi Bopomofo staat, zijn er geen accounts of inlogschermen: na de installatie kun je meteen beginnen. Nee. Lumi Bopomofo bevat geen advertenties van derden en geen analytics- of trackingSDK's die je tussen apps volgen. De basisfuncties zijn gratis. Alles ontgrendel je met één eenmalige in-app aankoop in Lumi Bopomofo, dus je kunt de app eerst rustig uitproberen. Ja. Log in met hetzelfde Apple-account en tik in de app op «Herstel aankopen»; je aankoop wordt weer actief zonder dat je opnieuw betaalt.",
+        "eyebrow": "Privacybeleid",
+        "heading": "Lumi Bopomofo · Privacybeleid",
+        "labels": {
+          "app_store": "Lumi Bopomofo · App Store",
+          "contact": "Supportcentrum",
+          "home": "Lumi Bopomofo",
+          "language": "Nederlands",
+          "privacy": "Privacybeleid",
+          "support": "Supportcentrum"
+        },
+        "lead": "Nee. Zoals op de App Store-pagina van Lumi Bopomofo staat, zijn er geen accounts of inlogschermen: na de installatie kun je meteen beginnen. Nee. Lumi Bopomofo bevat geen advertenties van derden en geen analytics- of trackingSDK's die je tussen apps volgen. De basisfuncties zijn gratis. Alles ontgrendel je met één eenmalige in-app aankoop in Lumi Bopomofo, dus je kunt de app eerst rustig uitproberen. Ja. Log in met hetzelfde Apple-account en tik in de app op «Herstel aankopen»; je aankoop wordt weer actief zonder dat je opnieuw betaalt.",
+        "sections": [
+          [
+            "Privacybeleid",
+            "Nee. Zoals op de App Store-pagina van Lumi Bopomofo staat, zijn er geen accounts of inlogschermen: na de installatie kun je meteen beginnen. Nee. Lumi Bopomofo bevat geen advertenties van derden en geen analytics- of trackingSDK's die je tussen apps volgen."
+          ],
+          [
+            "Wat kan ik gratis gebruiken?",
+            "De basisfuncties zijn gratis. Alles ontgrendel je met één eenmalige in-app aankoop in Lumi Bopomofo, dus je kunt de app eerst rustig uitproberen. Ja. Log in met hetzelfde Apple-account en tik in de app op «Herstel aankopen»; je aankoop wordt weer actief zonder dat je opnieuw betaalt."
+          ],
+          [
+            "Hoe verwijder ik mijn gegevens?",
+            "Verwijder losse items in de app zelf. Wil je alles weg, houd dan het symbool van Lumi Bopomofo op het beginscherm ingedrukt en verwijder de app: de lokaal bewaarde gegevens gaan mee (in een back-up die je zelf maakte, kan nog een kopie staan)."
+          ]
+        ],
+        "title": "Privacybeleid — Lumi Bopomofo"
+      }
+    },
+    "no": {
+      "privacy": {
+        "app_name": "Lumi Bopomofo",
+        "contact": "Skriv til hourstag.app@gmail.com med enhetsmodell, iOS-versjon, appversjon, trinnene som utløser feilen, og et skjermbilde eller skjermopptak. Jo mer konkret, desto raskere kan vi rette det.",
+        "description": "Nei. Som det står på Lumi Bopomofos side i App Store, finnes verken kontoer eller innlogging: du kan begynne rett etter installasjonen. Nei. Lumi Bopomofo inneholder verken tredjepartsannonser eller analyse- og sporings-SDK-er som følger deg på tvers av apper. Grunnfunksjonene er gratis. Alt innhold låses opp med et engangskjøp i Lumi Bopomofo, så du kan prøve appen i ro og mak før du bestemmer deg. Ja. Logg inn med den samme Apple-kontoen og trykk på «Gjenopprett kjøp» i appen: kjøpet blir aktivt igjen uten at du betaler på nytt.",
+        "eyebrow": "Personvern",
+        "heading": "Lumi Bopomofo · Personvern",
+        "labels": {
+          "app_store": "Lumi Bopomofo · App Store",
+          "contact": "Støttesenter",
+          "home": "Lumi Bopomofo",
+          "language": "Norsk",
+          "privacy": "Personvern",
+          "support": "Støttesenter"
+        },
+        "lead": "Nei. Som det står på Lumi Bopomofos side i App Store, finnes verken kontoer eller innlogging: du kan begynne rett etter installasjonen. Nei. Lumi Bopomofo inneholder verken tredjepartsannonser eller analyse- og sporings-SDK-er som følger deg på tvers av apper. Grunnfunksjonene er gratis. Alt innhold låses opp med et engangskjøp i Lumi Bopomofo, så du kan prøve appen i ro og mak før du bestemmer deg. Ja. Logg inn med den samme Apple-kontoen og trykk på «Gjenopprett kjøp» i appen: kjøpet blir aktivt igjen uten at du betaler på nytt.",
+        "sections": [
+          [
+            "Personvern",
+            "Nei. Som det står på Lumi Bopomofos side i App Store, finnes verken kontoer eller innlogging: du kan begynne rett etter installasjonen. Nei. Lumi Bopomofo inneholder verken tredjepartsannonser eller analyse- og sporings-SDK-er som følger deg på tvers av apper."
+          ],
+          [
+            "Hva kan jeg bruke gratis?",
+            "Grunnfunksjonene er gratis. Alt innhold låses opp med et engangskjøp i Lumi Bopomofo, så du kan prøve appen i ro og mak før du bestemmer deg. Ja. Logg inn med den samme Apple-kontoen og trykk på «Gjenopprett kjøp» i appen: kjøpet blir aktivt igjen uten at du betaler på nytt."
+          ],
+          [
+            "Hvordan sletter jeg dataene mine?",
+            "Slett enkeltoppføringer inne i appen. Vil du slette alt, holder du fingeren på Lumi Bopomofo-symbolet på hjemskjermen og sletter appen: da forsvinner også det som er lagret på enheten (en kopi kan ligge igjen i en sikkerhetskopi du selv har tatt)."
+          ]
+        ],
+        "title": "Personvern — Lumi Bopomofo"
+      }
+    },
+    "or-IN": {
+      "index": {
+        "app_name": "Lumi Bopomofo",
+        "contact": "ସହାୟତା ପାଇଁ ଡିଭାଇସ ମଡେଲ୍, iOS ସଂସ୍କରଣ, App ସଂସ୍କରଣ ଏବଂ ସମସ୍ୟା ପୁଣି କରିବାର ପଦକ୍ଷେପ ପଠାନ୍ତୁ।",
+        "description": "ତାଇୱାନର Bopomofo ଶିଖିବାର ଖେଳାଳି ଆରମ୍ଭ: ଚିହ୍ନ ଶୁଣନ୍ତୁ ଓ ଲେଖା ଅଭ୍ୟାସ କରନ୍ତୁ, ସ୍ୱର ଅଭ୍ୟାସ କରନ୍ତୁ ଏବଂ ଠିକ୍ syllable ଗଠନ କରନ୍ତୁ। ㄅ ମାଗଣା ଏବଂ Sound Train ତିନିଥର ମାଗଣା ଖେଳିହେବ।",
+        "eyebrow": "ଆଧିକାରିକ ସହାୟତା ସାଇଟ୍",
+        "heading": "Lumi Bopomofo",
+        "labels": {
+          "app_store": "App Storeରେ ଦେଖନ୍ତୁ",
+          "contact": "ଯୋଗାଯୋଗ",
+          "home": "ମୁଖ୍ୟ ପୃଷ୍ଠା",
+          "language": "ଭାଷା",
+          "privacy": "ଗୋପନୀୟତା",
+          "support": "ସହାୟତା"
+        },
+        "lead": "ତାଇୱାନର Bopomofo ଶିଖିବାର ଖେଳାଳି ଆରମ୍ଭ: ଚିହ୍ନ ଶୁଣନ୍ତୁ ଓ ଲେଖା ଅଭ୍ୟାସ କରନ୍ତୁ, ସ୍ୱର ଅଭ୍ୟାସ କରନ୍ତୁ ଏବଂ ଠିକ୍ syllable ଗଠନ କରନ୍ତୁ। ㄅ ମାଗଣା ଏବଂ Sound Train ତିନିଥର ମାଗଣା ଖେଳିହେବ।",
+        "sections": [
+          [
+            "Appଟି କଣ କରେ",
+            "ତାଇୱାନର Bopomofo ଶିଖିବାର ଖେଳାଳି ଆରମ୍ଭ: ଚିହ୍ନ ଶୁଣନ୍ତୁ ଓ ଲେଖା ଅଭ୍ୟାସ କରନ୍ତୁ, ସ୍ୱର ଅଭ୍ୟାସ କରନ୍ତୁ ଏବଂ ଠିକ୍ syllable ଗଠନ କରନ୍ତୁ। ㄅ ମାଗଣା ଏବଂ Sound Train ତିନିଥର ମାଗଣା ଖେଳିହେବ।"
+          ],
+          [
+            "ତଥ୍ୟ ଓ ଗୋପନୀୟତା",
+            "ଶିକ୍ଷାର ପ୍ରଗତି ଓ ସେଟିଂ ଡିଭାଇସରେ ରହେ। ତୃତୀୟ-ପକ୍ଷ ବିଜ୍ଞାପନ, ବିଶ୍ଳେଷଣ କିମ୍ବା ଟ୍ରାକିଂ ନାହିଁ ଏବଂ ପିଲାଙ୍କ ଆକାଉଣ୍ଟ ଦରକାର ନାହିଁ।"
+          ],
+          [
+            "କ୍ରୟ",
+            "ଦେଖାଯାଉଥିବା ଅନ୍ୟ ଶିକ୍ଷା ବିଷୟବସ୍ତୁ Apple ପରିଚାଳିତ ଇଚ୍ଛାଧୀନ ଏକମାତ୍ର କ୍ରୟରେ ଖୋଲେ। କ୍ରୟ ଓ ବାହ୍ୟ ଲିଙ୍କ ମାତାପିତା କିମ୍ବା ଅଭିଭାବକ ଚାଲାଇବା ଉଚିତ।"
+          ]
+        ],
+        "title": "Lumi Bopomofo — ଆଧିକାରିକ ସହାୟତା ସାଇଟ୍"
+      },
+      "privacy": {
+        "app_name": "Lumi Bopomofo",
+        "contact": "ସହାୟତା ପାଇଁ ଡିଭାଇସ ମଡେଲ୍, iOS ସଂସ୍କରଣ, App ସଂସ୍କରଣ ଏବଂ ସମସ୍ୟା ପୁଣି କରିବାର ପଦକ୍ଷେପ ପଠାନ୍ତୁ।",
+        "description": "ଶିକ୍ଷାର ପ୍ରଗତି ଓ ସେଟିଂ ଡିଭାଇସରେ ରହେ। ତୃତୀୟ-ପକ୍ଷ ବିଜ୍ଞାପନ, ବିଶ୍ଳେଷଣ କିମ୍ବା ଟ୍ରାକିଂ ନାହିଁ ଏବଂ ପିଲାଙ୍କ ଆକାଉଣ୍ଟ ଦରକାର ନାହିଁ। ଦେଖାଯାଉଥିବା ଅନ୍ୟ ଶିକ୍ଷା ବିଷୟବସ୍ତୁ Apple ପରିଚାଳିତ ଇଚ୍ଛାଧୀନ ଏକମାତ୍ର କ୍ରୟରେ ଖୋଲେ। କ୍ରୟ ଓ ବାହ୍ୟ ଲିଙ୍କ ମାତାପିତା କିମ୍ବା ଅଭିଭାବକ ଚାଲାଇବା ଉଚିତ।",
+        "eyebrow": "ଗୋପନୀୟତା",
+        "heading": "Lumi Bopomofo · ଗୋପନୀୟତା",
+        "labels": {
+          "app_store": "App Storeରେ ଦେଖନ୍ତୁ",
+          "contact": "ଯୋଗାଯୋଗ",
+          "home": "ମୁଖ୍ୟ ପୃଷ୍ଠା",
+          "language": "ଭାଷା",
+          "privacy": "ଗୋପନୀୟତା",
+          "support": "ସହାୟତା"
+        },
+        "lead": "ଶିକ୍ଷାର ପ୍ରଗତି ଓ ସେଟିଂ ଡିଭାଇସରେ ରହେ। ତୃତୀୟ-ପକ୍ଷ ବିଜ୍ଞାପନ, ବିଶ୍ଳେଷଣ କିମ୍ବା ଟ୍ରାକିଂ ନାହିଁ ଏବଂ ପିଲାଙ୍କ ଆକାଉଣ୍ଟ ଦରକାର ନାହିଁ।",
+        "sections": [
+          [
+            "ତଥ୍ୟ ଓ ଗୋପନୀୟତା",
+            "ଶିକ୍ଷାର ପ୍ରଗତି ଓ ସେଟିଂ ଡିଭାଇସରେ ରହେ। ତୃତୀୟ-ପକ୍ଷ ବିଜ୍ଞାପନ, ବିଶ୍ଳେଷଣ କିମ୍ବା ଟ୍ରାକିଂ ନାହିଁ ଏବଂ ପିଲାଙ୍କ ଆକାଉଣ୍ଟ ଦରକାର ନାହିଁ।"
+          ],
+          [
+            "ଆକାଉଣ୍ଟ, ବିଜ୍ଞାପନ ଓ ଟ୍ରାକିଂ",
+            "କୌଣସି ଆକାଉଣ୍ଟ ଦରକାର ନାହିଁ। Appରେ ତୃତୀୟ-ପକ୍ଷ ବିଜ୍ଞାପନ, App ମଧ୍ୟରେ ଟ୍ରାକିଂ କିମ୍ବା ତୃତୀୟ-ପକ୍ଷ ବିଶ୍ଳେଷଣ ନାହିଁ।"
+          ],
+          [
+            "କ୍ରୟ",
+            "ଦେଖାଯାଉଥିବା ଅନ୍ୟ ଶିକ୍ଷା ବିଷୟବସ୍ତୁ Apple ପରିଚାଳିତ ଇଚ୍ଛାଧୀନ ଏକମାତ୍ର କ୍ରୟରେ ଖୋଲେ। କ୍ରୟ ଓ ବାହ୍ୟ ଲିଙ୍କ ମାତାପିତା କିମ୍ବା ଅଭିଭାବକ ଚାଲାଇବା ଉଚିତ।"
+          ],
+          [
+            "ତଥ୍ୟ ବିଲୋପ ଓ ପୁନରୁଦ୍ଧାର",
+            "Appରେ ବିଲୋପ ବିକଳ୍ପ ଥିଲେ ସେଠାରୁ ରେକର୍ଡ ବିଲୋପ କରନ୍ତୁ। App ବିଲୋପ କଲେ ସ୍ଥାନୀୟ container ହଟିଯାଏ; Apple ପରିଚାଳିତ backup ଆପଣଙ୍କ ଡିଭାଇସ ସେଟିଂ ଅନୁସରେ ରହେ।"
+          ]
+        ],
+        "title": "ଗୋପନୀୟତା — Lumi Bopomofo"
+      },
+      "support": {
+        "app_name": "Lumi Bopomofo",
+        "contact": "ସହାୟତା ପାଇଁ ଡିଭାଇସ ମଡେଲ୍, iOS ସଂସ୍କରଣ, App ସଂସ୍କରଣ ଏବଂ ସମସ୍ୟା ପୁଣି କରିବାର ପଦକ୍ଷେପ ପଠାନ୍ତୁ।",
+        "description": "Appଟି ବନ୍ଦ କରି ପୁଣି ଖୋଲନ୍ତୁ, App Storeର ସବୁଠାରୁ ନୂତନ ସଂସ୍କରଣ ଇନଷ୍ଟଲ୍ ଅଛି କି ଯାଞ୍ଚ କରନ୍ତୁ। ଇମେଲ୍ କରିବାବେଳେ ଡିଭାଇସ ମଡେଲ୍, iOS ସଂସ୍କରଣ, App ସଂସ୍କରଣ ଓ ସମସ୍ୟା ପୁଣି କରିବାର ପଦକ୍ଷେପ ଲେଖନ୍ତୁ। ଶିକ୍ଷାର ପ୍ରଗତି ଓ ସେଟିଂ ଡିଭାଇସରେ ରହେ। ତୃତୀୟ-ପକ୍ଷ ବିଜ୍ଞାପନ, ବିଶ୍ଳେଷଣ କିମ୍ବା ଟ୍ରାକିଂ ନାହିଁ ଏବଂ ପିଲାଙ୍କ ଆକାଉଣ୍ଟ ଦରକାର ନାହିଁ।",
+        "eyebrow": "ସହାୟତା",
+        "heading": "Lumi Bopomofo · ସହାୟତା",
+        "labels": {
+          "app_store": "App Storeରେ ଦେଖନ୍ତୁ",
+          "contact": "ଯୋଗାଯୋଗ",
+          "home": "ମୁଖ୍ୟ ପୃଷ୍ଠା",
+          "language": "ଭାଷା",
+          "privacy": "ଗୋପନୀୟତା",
+          "support": "ସହାୟତା"
+        },
+        "lead": "Appଟି ବନ୍ଦ କରି ପୁଣି ଖୋଲନ୍ତୁ, App Storeର ସବୁଠାରୁ ନୂତନ ସଂସ୍କରଣ ଇନଷ୍ଟଲ୍ ଅଛି କି ଯାଞ୍ଚ କରନ୍ତୁ। ଇମେଲ୍ କରିବାବେଳେ ଡିଭାଇସ ମଡେଲ୍, iOS ସଂସ୍କରଣ, App ସଂସ୍କରଣ ଓ ସମସ୍ୟା ପୁଣି କରିବାର ପଦକ୍ଷେପ ଲେଖନ୍ତୁ।",
+        "sections": [
+          [
+            "Appଟି କଣ କରେ",
+            "ତାଇୱାନର Bopomofo ଶିଖିବାର ଖେଳାଳି ଆରମ୍ଭ: ଚିହ୍ନ ଶୁଣନ୍ତୁ ଓ ଲେଖା ଅଭ୍ୟାସ କରନ୍ତୁ, ସ୍ୱର ଅଭ୍ୟାସ କରନ୍ତୁ ଏବଂ ଠିକ୍ syllable ଗଠନ କରନ୍ତୁ। ㄅ ମାଗଣା ଏବଂ Sound Train ତିନିଥର ମାଗଣା ଖେଳିହେବ।"
+          ],
+          [
+            "ସମସ୍ୟା ସମାଧାନ",
+            "Appଟି ବନ୍ଦ କରି ପୁଣି ଖୋଲନ୍ତୁ, App Storeର ସବୁଠାରୁ ନୂତନ ସଂସ୍କରଣ ଇନଷ୍ଟଲ୍ ଅଛି କି ଯାଞ୍ଚ କରନ୍ତୁ। ଇମେଲ୍ କରିବାବେଳେ ଡିଭାଇସ ମଡେଲ୍, iOS ସଂସ୍କରଣ, App ସଂସ୍କରଣ ଓ ସମସ୍ୟା ପୁଣି କରିବାର ପଦକ୍ଷେପ ଲେଖନ୍ତୁ।"
+          ],
+          [
+            "ତଥ୍ୟ ଓ ଗୋପନୀୟତା",
+            "ଶିକ୍ଷାର ପ୍ରଗତି ଓ ସେଟିଂ ଡିଭାଇସରେ ରହେ। ତୃତୀୟ-ପକ୍ଷ ବିଜ୍ଞାପନ, ବିଶ୍ଳେଷଣ କିମ୍ବା ଟ୍ରାକିଂ ନାହିଁ ଏବଂ ପିଲାଙ୍କ ଆକାଉଣ୍ଟ ଦରକାର ନାହିଁ। କୌଣସି ଆକାଉଣ୍ଟ ଦରକାର ନାହିଁ। Appରେ ତୃତୀୟ-ପକ୍ଷ ବିଜ୍ଞାପନ, App ମଧ୍ୟରେ ଟ୍ରାକିଂ କିମ୍ବା ତୃତୀୟ-ପକ୍ଷ ବିଶ୍ଳେଷଣ ନାହିଁ।"
+          ],
+          [
+            "କ୍ରୟ",
+            "ଦେଖାଯାଉଥିବା ଅନ୍ୟ ଶିକ୍ଷା ବିଷୟବସ୍ତୁ Apple ପରିଚାଳିତ ଇଚ୍ଛାଧୀନ ଏକମାତ୍ର କ୍ରୟରେ ଖୋଲେ। କ୍ରୟ ଓ ବାହ୍ୟ ଲିଙ୍କ ମାତାପିତା କିମ୍ବା ଅଭିଭାବକ ଚାଲାଇବା ଉଚିତ।"
+          ],
+          [
+            "ତଥ୍ୟ ବିଲୋପ ଓ ପୁନରୁଦ୍ଧାର",
+            "Appରେ ବିଲୋପ ବିକଳ୍ପ ଥିଲେ ସେଠାରୁ ରେକର୍ଡ ବିଲୋପ କରନ୍ତୁ। App ବିଲୋପ କଲେ ସ୍ଥାନୀୟ container ହଟିଯାଏ; Apple ପରିଚାଳିତ backup ଆପଣଙ୍କ ଡିଭାଇସ ସେଟିଂ ଅନୁସରେ ରହେ।"
+          ]
+        ],
+        "title": "ସହାୟତା — Lumi Bopomofo"
+      }
+    },
+    "pa-IN": {
+      "privacy": {
+        "app_name": "Lumi Bopomofo",
+        "contact": "hourstag.app@gmail.com ਉੱਤੇ ਡਿਵਾਈਸ ਮਾਡਲ, iOS ਵਰਜਨ, ਐਪ ਵਰਜਨ, ਖ਼ਾਮੀ ਦੁਬਾਰਾ ਵਾਪਰਨ ਦੇ ਕਦਮ ਅਤੇ ਸਕਰੀਨਸ਼ਾਟ ਜਾਂ ਸਕਰੀਨ ਰਿਕਾਰਡਿੰਗ ਭੇਜੋ। ਵੇਰਵਾ ਜਿੰਨਾ ਸਾਫ਼, ਸੁਧਾਰ ਓਨਾ ਛੇਤੀ।",
+        "description": "ਨਹੀਂ। ਜਿਵੇਂ Lumi Bopomofo ਦੇ App Store ਪੰਨੇ ਉੱਤੇ ਲਿਖਿਆ ਹੈ, ਇੱਥੇ ਨਾ ਖਾਤਾ ਹੈ ਨਾ ਸਾਈਨ-ਇਨ — ਇੰਸਟਾਲ ਕਰਦਿਆਂ ਹੀ ਸ਼ੁਰੂ ਕਰ ਸਕਦੇ ਹੋ। ਨਹੀਂ। Lumi Bopomofo ਵਿੱਚ ਤੀਜੀ ਧਿਰ ਦੇ ਇਸ਼ਤਿਹਾਰ ਨਹੀਂ ਹਨ, ਅਤੇ ਐਪਾਂ ਵਿਚਕਾਰ ਟ੍ਰੈਕ ਕਰਨ ਵਾਲੇ ਐਨਾਲਿਟਿਕਸ ਜਾਂ ਟ੍ਰੈਕਿੰਗ SDK ਵੀ ਨਹੀਂ ਹਨ। ਮੁੱਢਲੀਆਂ ਖ਼ੂਬੀਆਂ ਮੁਫ਼ਤ ਹਨ। ਪੂਰੀ ਸਮੱਗਰੀ Lumi Bopomofo ਦੀ ਇੱਕ ਵਾਰ ਦੀ ਇਨ-ਐਪ ਖ਼ਰੀਦ ਨਾਲ ਖੁੱਲ੍ਹਦੀ ਹੈ, ਇਸ ਲਈ ਫ਼ੈਸਲਾ ਲੈਣ ਤੋਂ ਪਹਿਲਾਂ ਤੁਸੀਂ ਐਪ ਸਹਿਜੇ ਅਜ਼ਮਾ ਸਕਦੇ ਹੋ। ਹਾਂ। ਉਸੇ Apple ਖਾਤੇ ਨਾਲ ਸਾਈਨ ਇਨ ਕਰੋ ਅਤੇ ਐਪ ਵਿੱਚ «ਖ਼ਰੀਦਾਂ ਬਹਾਲ ਕਰੋ» ਉੱਤੇ ਟੈਪ ਕਰੋ — ਦੁਬਾਰਾ ਪੈਸੇ ਦਿੱਤੇ ਬਿਨਾਂ ਤੁਹਾਡੀ ਖ਼ਰੀਦ ਫਿਰ ਚਾਲੂ ਹੋ ਜਾਂਦੀ ਹੈ।",
+        "eyebrow": "ਪਰਦੇਦਾਰੀ",
+        "heading": "Lumi Bopomofo · ਪਰਦੇਦਾਰੀ",
+        "labels": {
+          "app_store": "Lumi Bopomofo · App Store",
+          "contact": "ਸਹਾਇਤਾ ਕੇਂਦਰ",
+          "home": "Lumi Bopomofo",
+          "language": "ਪੰਜਾਬੀ",
+          "privacy": "ਪਰਦੇਦਾਰੀ",
+          "support": "ਸਹਾਇਤਾ ਕੇਂਦਰ"
+        },
+        "lead": "ਨਹੀਂ। ਜਿਵੇਂ Lumi Bopomofo ਦੇ App Store ਪੰਨੇ ਉੱਤੇ ਲਿਖਿਆ ਹੈ, ਇੱਥੇ ਨਾ ਖਾਤਾ ਹੈ ਨਾ ਸਾਈਨ-ਇਨ — ਇੰਸਟਾਲ ਕਰਦਿਆਂ ਹੀ ਸ਼ੁਰੂ ਕਰ ਸਕਦੇ ਹੋ। ਨਹੀਂ। Lumi Bopomofo ਵਿੱਚ ਤੀਜੀ ਧਿਰ ਦੇ ਇਸ਼ਤਿਹਾਰ ਨਹੀਂ ਹਨ, ਅਤੇ ਐਪਾਂ ਵਿਚਕਾਰ ਟ੍ਰੈਕ ਕਰਨ ਵਾਲੇ ਐਨਾਲਿਟਿਕਸ ਜਾਂ ਟ੍ਰੈਕਿੰਗ SDK ਵੀ ਨਹੀਂ ਹਨ। ਮੁੱਢਲੀਆਂ ਖ਼ੂਬੀਆਂ ਮੁਫ਼ਤ ਹਨ। ਪੂਰੀ ਸਮੱਗਰੀ Lumi Bopomofo ਦੀ ਇੱਕ ਵਾਰ ਦੀ ਇਨ-ਐਪ ਖ਼ਰੀਦ ਨਾਲ ਖੁੱਲ੍ਹਦੀ ਹੈ, ਇਸ ਲਈ ਫ਼ੈਸਲਾ ਲੈਣ ਤੋਂ ਪਹਿਲਾਂ ਤੁਸੀਂ ਐਪ ਸਹਿਜੇ ਅਜ਼ਮਾ ਸਕਦੇ ਹੋ। ਹਾਂ। ਉਸੇ Apple ਖਾਤੇ ਨਾਲ ਸਾਈਨ ਇਨ ਕਰੋ ਅਤੇ ਐਪ ਵਿੱਚ «ਖ਼ਰੀਦਾਂ ਬਹਾਲ ਕਰੋ» ਉੱਤੇ ਟੈਪ ਕਰੋ — ਦੁਬਾਰਾ ਪੈਸੇ ਦਿੱਤੇ ਬਿਨਾਂ ਤੁਹਾਡੀ ਖ਼ਰੀਦ ਫਿਰ ਚਾਲੂ ਹੋ ਜਾਂਦੀ ਹੈ।",
+        "sections": [
+          [
+            "ਪਰਦੇਦਾਰੀ",
+            "ਨਹੀਂ। ਜਿਵੇਂ Lumi Bopomofo ਦੇ App Store ਪੰਨੇ ਉੱਤੇ ਲਿਖਿਆ ਹੈ, ਇੱਥੇ ਨਾ ਖਾਤਾ ਹੈ ਨਾ ਸਾਈਨ-ਇਨ — ਇੰਸਟਾਲ ਕਰਦਿਆਂ ਹੀ ਸ਼ੁਰੂ ਕਰ ਸਕਦੇ ਹੋ। ਨਹੀਂ। Lumi Bopomofo ਵਿੱਚ ਤੀਜੀ ਧਿਰ ਦੇ ਇਸ਼ਤਿਹਾਰ ਨਹੀਂ ਹਨ, ਅਤੇ ਐਪਾਂ ਵਿਚਕਾਰ ਟ੍ਰੈਕ ਕਰਨ ਵਾਲੇ ਐਨਾਲਿਟਿਕਸ ਜਾਂ ਟ੍ਰੈਕਿੰਗ SDK ਵੀ ਨਹੀਂ ਹਨ।"
+          ],
+          [
+            "ਮੁਫ਼ਤ ਵਿੱਚ ਕੀ ਵਰਤਿਆ ਜਾ ਸਕਦਾ ਹੈ?",
+            "ਮੁੱਢਲੀਆਂ ਖ਼ੂਬੀਆਂ ਮੁਫ਼ਤ ਹਨ। ਪੂਰੀ ਸਮੱਗਰੀ Lumi Bopomofo ਦੀ ਇੱਕ ਵਾਰ ਦੀ ਇਨ-ਐਪ ਖ਼ਰੀਦ ਨਾਲ ਖੁੱਲ੍ਹਦੀ ਹੈ, ਇਸ ਲਈ ਫ਼ੈਸਲਾ ਲੈਣ ਤੋਂ ਪਹਿਲਾਂ ਤੁਸੀਂ ਐਪ ਸਹਿਜੇ ਅਜ਼ਮਾ ਸਕਦੇ ਹੋ। ਹਾਂ। ਉਸੇ Apple ਖਾਤੇ ਨਾਲ ਸਾਈਨ ਇਨ ਕਰੋ ਅਤੇ ਐਪ ਵਿੱਚ «ਖ਼ਰੀਦਾਂ ਬਹਾਲ ਕਰੋ» ਉੱਤੇ ਟੈਪ ਕਰੋ — ਦੁਬਾਰਾ ਪੈਸੇ ਦਿੱਤੇ ਬਿਨਾਂ ਤੁਹਾਡੀ ਖ਼ਰੀਦ ਫਿਰ ਚਾਲੂ ਹੋ ਜਾਂਦੀ ਹੈ।"
+          ],
+          [
+            "ਮੈਂ ਆਪਣਾ ਡਾਟਾ ਕਿਵੇਂ ਮਿਟਾਵਾਂ?",
+            "ਵੱਖ-ਵੱਖ ਇੰਦਰਾਜ ਐਪ ਵਿੱਚੋਂ ਹੀ ਮਿਟਾਓ। ਸਭ ਕੁਝ ਮਿਟਾਉਣਾ ਹੋਵੇ ਤਾਂ ਮੁੱਖ ਸਕਰੀਨ ਉੱਤੇ Lumi Bopomofo ਦੇ ਨਿਸ਼ਾਨ ਨੂੰ ਦੱਬੀ ਰੱਖੋ ਅਤੇ ਐਪ ਹਟਾ ਦਿਓ — ਡਿਵਾਈਸ ਉੱਤੇ ਸਾਂਭਿਆ ਡਾਟਾ ਵੀ ਨਾਲ ਹੀ ਚਲਾ ਜਾਂਦਾ ਹੈ (ਤੁਹਾਡੇ ਆਪਣੇ ਲਏ ਬੈਕਅੱਪ ਵਿੱਚ ਨਕਲ ਰਹਿ ਸਕਦੀ ਹੈ)।"
+          ]
+        ],
+        "title": "ਪਰਦੇਦਾਰੀ — Lumi Bopomofo"
+      }
+    },
+    "pl": {
+      "privacy": {
+        "app_name": "Lumi Bopomofo",
+        "contact": "Napisz na hourstag.app@gmail.com, podając model urządzenia, wersję iOS, wersję aplikacji, kroki prowadzące do błędu oraz zrzut ekranu lub nagranie. Im konkretniej, tym szybciej to naprawimy.",
+        "description": "Nie. Jak podaje strona aplikacji Lumi Bopomofo w App Store, nie ma tu kont ani logowania — możesz zacząć od razu po instalacji. Nie. Lumi Bopomofo nie zawiera reklam firm trzecich ani zestawów SDK do analityki czy śledzenia między aplikacjami. Podstawowe funkcje są bezpłatne. Całość odblokowuje jednorazowy zakup w aplikacji Lumi Bopomofo, więc możesz spokojnie przetestować aplikację przed decyzją. Tak. Zaloguj się na to samo konto Apple i dotknij w aplikacji «Przywróć zakupy» — zakup znów będzie aktywny bez ponownej płatności.",
+        "eyebrow": "Prywatność",
+        "heading": "Lumi Bopomofo · Prywatność",
+        "labels": {
+          "app_store": "Lumi Bopomofo · App Store",
+          "contact": "Centrum pomocy",
+          "home": "Lumi Bopomofo",
+          "language": "Polski",
+          "privacy": "Prywatność",
+          "support": "Centrum pomocy"
+        },
+        "lead": "Nie. Jak podaje strona aplikacji Lumi Bopomofo w App Store, nie ma tu kont ani logowania — możesz zacząć od razu po instalacji. Nie. Lumi Bopomofo nie zawiera reklam firm trzecich ani zestawów SDK do analityki czy śledzenia między aplikacjami. Podstawowe funkcje są bezpłatne. Całość odblokowuje jednorazowy zakup w aplikacji Lumi Bopomofo, więc możesz spokojnie przetestować aplikację przed decyzją. Tak. Zaloguj się na to samo konto Apple i dotknij w aplikacji «Przywróć zakupy» — zakup znów będzie aktywny bez ponownej płatności.",
+        "sections": [
+          [
+            "Prywatność",
+            "Nie. Jak podaje strona aplikacji Lumi Bopomofo w App Store, nie ma tu kont ani logowania — możesz zacząć od razu po instalacji. Nie. Lumi Bopomofo nie zawiera reklam firm trzecich ani zestawów SDK do analityki czy śledzenia między aplikacjami."
+          ],
+          [
+            "Z czego mogę korzystać bezpłatnie?",
+            "Podstawowe funkcje są bezpłatne. Całość odblokowuje jednorazowy zakup w aplikacji Lumi Bopomofo, więc możesz spokojnie przetestować aplikację przed decyzją. Tak. Zaloguj się na to samo konto Apple i dotknij w aplikacji «Przywróć zakupy» — zakup znów będzie aktywny bez ponownej płatności."
+          ],
+          [
+            "Jak usunąć moje dane?",
+            "Pojedyncze wpisy usuwaj w samej aplikacji. Żeby skasować wszystko, przytrzymaj ikonę Lumi Bopomofo na ekranie początkowym i usuń aplikację — razem z nią znikną dane zapisane na urządzeniu (kopia może zostać w kopii zapasowej, którą wykonałeś samodzielnie)."
+          ]
+        ],
+        "title": "Prywatność — Lumi Bopomofo"
+      }
+    },
+    "pt-BR": {
+      "privacy": {
+        "app_name": "Lumi Bopomofo",
+        "contact": "Escreva para hourstag.app@gmail.com com o modelo do aparelho, a versão do iOS, a versão do app, os passos para reproduzir e uma captura ou gravação de tela. Quanto mais específico, mais rápido sai a correção.",
+        "description": "Não. A página na App Store informa que o Lumi Bopomofo não exige conta nem login: dá para começar logo depois de instalar. Não. O Lumi Bopomofo não tem publicidade de terceiros nem SDKs de análise ou rastreamento entre apps. Os recursos básicos são gratuitos. Para liberar tudo, o Lumi Bopomofo oferece uma compra única no app. Você pode testar a parte gratuita com calma antes de comprar. Continua. Entre com a mesma conta Apple e toque em “Restaurar compras” no app: a compra é reativada sem pagar de novo.",
+        "eyebrow": "Privacidade",
+        "heading": "Lumi Bopomofo · Privacidade",
+        "labels": {
+          "app_store": "Lumi Bopomofo · App Store",
+          "contact": "Central de suporte",
+          "home": "Lumi Bopomofo",
+          "language": "Português (Brasil)",
+          "privacy": "Privacidade",
+          "support": "Central de suporte"
+        },
+        "lead": "Não. A página na App Store informa que o Lumi Bopomofo não exige conta nem login: dá para começar logo depois de instalar. Não. O Lumi Bopomofo não tem publicidade de terceiros nem SDKs de análise ou rastreamento entre apps. Os recursos básicos são gratuitos. Para liberar tudo, o Lumi Bopomofo oferece uma compra única no app. Você pode testar a parte gratuita com calma antes de comprar. Continua. Entre com a mesma conta Apple e toque em “Restaurar compras” no app: a compra é reativada sem pagar de novo.",
+        "sections": [
+          [
+            "Privacidade",
+            "Não. A página na App Store informa que o Lumi Bopomofo não exige conta nem login: dá para começar logo depois de instalar. Não. O Lumi Bopomofo não tem publicidade de terceiros nem SDKs de análise ou rastreamento entre apps."
+          ],
+          [
+            "Até onde dá para usar de graça?",
+            "Os recursos básicos são gratuitos. Para liberar tudo, o Lumi Bopomofo oferece uma compra única no app. Você pode testar a parte gratuita com calma antes de comprar. Continua. Entre com a mesma conta Apple e toque em “Restaurar compras” no app: a compra é reativada sem pagar de novo."
+          ],
+          [
+            "Como apago meus dados?",
+            "Apague o item dentro do app. Para limpar tudo de uma vez, mantenha o ícone do Lumi Bopomofo pressionado na tela de início e apague o app: os dados guardados no aparelho vão junto (um backup do aparelho ainda pode conter uma cópia)."
+          ]
+        ],
+        "title": "Privacidade — Lumi Bopomofo"
+      }
+    },
+    "pt-PT": {
+      "privacy": {
+        "app_name": "Lumi Bopomofo",
+        "contact": "Escreva para hourstag.app@gmail.com com o modelo do dispositivo, a versão do iOS, a versão da aplicação, os passos para reproduzir e uma captura ou gravação de ecrã. Quanto mais concreto, mais depressa corrigimos.",
+        "description": "Não. Tal como indica a página da Lumi Bopomofo na App Store, não há contas nem início de sessão: pode começar logo após instalar. Não. A Lumi Bopomofo não inclui publicidade de terceiros nem SDK de análise ou de rastreio entre aplicações. As funcionalidades base são gratuitas. Para desbloquear tudo existe uma compra dentro da aplicação, única, na Lumi Bopomofo, por isso pode experimentar com calma antes de decidir. Sim. Inicie sessão com o mesmo início de sessão Apple e toque em «Restaurar compras» dentro da aplicação: a compra volta a ficar ativa sem pagar de novo.",
+        "eyebrow": "Privacidade",
+        "heading": "Lumi Bopomofo · Privacidade",
+        "labels": {
+          "app_store": "Lumi Bopomofo · App Store",
+          "contact": "Centro de apoio",
+          "home": "Lumi Bopomofo",
+          "language": "Português (Portugal)",
+          "privacy": "Privacidade",
+          "support": "Centro de apoio"
+        },
+        "lead": "Não. Tal como indica a página da Lumi Bopomofo na App Store, não há contas nem início de sessão: pode começar logo após instalar. Não. A Lumi Bopomofo não inclui publicidade de terceiros nem SDK de análise ou de rastreio entre aplicações. As funcionalidades base são gratuitas. Para desbloquear tudo existe uma compra dentro da aplicação, única, na Lumi Bopomofo, por isso pode experimentar com calma antes de decidir. Sim. Inicie sessão com o mesmo início de sessão Apple e toque em «Restaurar compras» dentro da aplicação: a compra volta a ficar ativa sem pagar de novo.",
+        "sections": [
+          [
+            "Privacidade",
+            "Não. Tal como indica a página da Lumi Bopomofo na App Store, não há contas nem início de sessão: pode começar logo após instalar. Não. A Lumi Bopomofo não inclui publicidade de terceiros nem SDK de análise ou de rastreio entre aplicações."
+          ],
+          [
+            "O que posso usar gratuitamente?",
+            "As funcionalidades base são gratuitas. Para desbloquear tudo existe uma compra dentro da aplicação, única, na Lumi Bopomofo, por isso pode experimentar com calma antes de decidir. Sim. Inicie sessão com o mesmo início de sessão Apple e toque em «Restaurar compras» dentro da aplicação: a compra volta a ficar ativa sem pagar de novo."
+          ],
+          [
+            "Como apago os meus dados?",
+            "Elimine cada item dentro da aplicação. Para apagar tudo, mantenha premido o ícone da Lumi Bopomofo no ecrã principal e elimine a aplicação: os dados guardados no dispositivo desaparecem também (pode ficar uma cópia numa cópia de segurança que tenha feito)."
+          ]
+        ],
+        "title": "Privacidade — Lumi Bopomofo"
+      }
+    },
+    "ro": {
+      "privacy": {
+        "app_name": "Lumi Bopomofo",
+        "contact": "Scrie la hourstag.app@gmail.com modelul dispozitivului, versiunea de iOS, versiunea aplicației, pașii prin care apare problema și o captură sau înregistrare de ecran. Cu cât e mai concret, cu atât o rezolvăm mai repede.",
+        "description": "Nu. Așa cum scrie pe pagina Lumi Bopomofo din App Store, nu există conturi și nici autentificare — poți începe imediat după instalare. Nu. Lumi Bopomofo nu conține reclame de la terți și nici SDK-uri de analiză sau de urmărire între aplicații. Funcțiile de bază sunt gratuite. Tot conținutul se deblochează printr-o achiziție unică în aplicația Lumi Bopomofo, așa că poți încerca aplicația în tihnă înainte să decizi. Da. Autentifică-te cu același cont Apple și apasă «Restaurează cumpărăturile» în aplicație — achiziția redevine activă fără să plătești din nou.",
+        "eyebrow": "Confidențialitate",
+        "heading": "Lumi Bopomofo · Confidențialitate",
+        "labels": {
+          "app_store": "Lumi Bopomofo · App Store",
+          "contact": "Centru de asistență",
+          "home": "Lumi Bopomofo",
+          "language": "Română",
+          "privacy": "Confidențialitate",
+          "support": "Centru de asistență"
+        },
+        "lead": "Nu. Așa cum scrie pe pagina Lumi Bopomofo din App Store, nu există conturi și nici autentificare — poți începe imediat după instalare. Nu. Lumi Bopomofo nu conține reclame de la terți și nici SDK-uri de analiză sau de urmărire între aplicații. Funcțiile de bază sunt gratuite. Tot conținutul se deblochează printr-o achiziție unică în aplicația Lumi Bopomofo, așa că poți încerca aplicația în tihnă înainte să decizi. Da. Autentifică-te cu același cont Apple și apasă «Restaurează cumpărăturile» în aplicație — achiziția redevine activă fără să plătești din nou.",
+        "sections": [
+          [
+            "Confidențialitate",
+            "Nu. Așa cum scrie pe pagina Lumi Bopomofo din App Store, nu există conturi și nici autentificare — poți începe imediat după instalare. Nu. Lumi Bopomofo nu conține reclame de la terți și nici SDK-uri de analiză sau de urmărire între aplicații."
+          ],
+          [
+            "Ce pot folosi gratuit?",
+            "Funcțiile de bază sunt gratuite. Tot conținutul se deblochează printr-o achiziție unică în aplicația Lumi Bopomofo, așa că poți încerca aplicația în tihnă înainte să decizi. Da. Autentifică-te cu același cont Apple și apasă «Restaurează cumpărăturile» în aplicație — achiziția redevine activă fără să plătești din nou."
+          ],
+          [
+            "Cum îmi șterg datele?",
+            "Șterge elementele unul câte unul din aplicație. Dacă vrei să ștergi tot, ține apăsat pe pictograma Lumi Bopomofo de pe ecranul principal și șterge aplicația — dispar și datele salvate pe dispozitiv (o copie poate rămâne într-o copie de siguranță făcută de tine)."
+          ]
+        ],
+        "title": "Confidențialitate — Lumi Bopomofo"
+      }
+    },
+    "ru": {
+      "privacy": {
+        "app_name": "Lumi Бопомофо",
+        "contact": "Напишите на hourstag.app@gmail.com модель устройства, версию iOS, версию приложения, шаги для воспроизведения и приложите снимок или запись экрана. Чем конкретнее, тем быстрее мы всё исправим.",
+        "description": "Нет. Как указано на странице Lumi Бопомофо в App Store, аккаунтов и входа здесь нет — можно начать сразу после установки. Нет. В Lumi Бопомофо нет сторонней рекламы и нет SDK аналитики или межприложенного отслеживания. Базовые функции бесплатны. Всё содержимое открывается разовой встроенной покупкой в Lumi Бопомофо, так что вы можете спокойно попробовать приложение до решения. Да. Войдите с тем же аккаунтом Apple и нажмите в приложении «Восстановить покупки» — покупка снова станет активной без повторной оплаты.",
+        "eyebrow": "Конфиденциальность",
+        "heading": "Lumi Бопомофо · Конфиденциальность",
+        "labels": {
+          "app_store": "Lumi Бопомофо · App Store",
+          "contact": "Центр поддержки",
+          "home": "Lumi Бопомофо",
+          "language": "Русский",
+          "privacy": "Конфиденциальность",
+          "support": "Центр поддержки"
+        },
+        "lead": "Нет. Как указано на странице Lumi Бопомофо в App Store, аккаунтов и входа здесь нет — можно начать сразу после установки. Нет. В Lumi Бопомофо нет сторонней рекламы и нет SDK аналитики или межприложенного отслеживания. Базовые функции бесплатны. Всё содержимое открывается разовой встроенной покупкой в Lumi Бопомофо, так что вы можете спокойно попробовать приложение до решения. Да. Войдите с тем же аккаунтом Apple и нажмите в приложении «Восстановить покупки» — покупка снова станет активной без повторной оплаты.",
+        "sections": [
+          [
+            "Конфиденциальность",
+            "Нет. Как указано на странице Lumi Бопомофо в App Store, аккаунтов и входа здесь нет — можно начать сразу после установки. Нет. В Lumi Бопомофо нет сторонней рекламы и нет SDK аналитики или межприложенного отслеживания."
+          ],
+          [
+            "Что доступно бесплатно?",
+            "Базовые функции бесплатны. Всё содержимое открывается разовой встроенной покупкой в Lumi Бопомофо, так что вы можете спокойно попробовать приложение до решения. Да. Войдите с тем же аккаунтом Apple и нажмите в приложении «Восстановить покупки» — покупка снова станет активной без повторной оплаты."
+          ],
+          [
+            "Как удалить свои данные?",
+            "Отдельные записи удаляйте внутри приложения. Чтобы стереть всё, удерживайте значок Lumi Бопомофо на экране «Домой» и удалите приложение — вместе с ним пропадут и данные, сохранённые на устройстве (копия может остаться в резервной копии, которую вы сделали сами)."
+          ]
+        ],
+        "title": "Конфиденциальность — Lumi Бопомофо"
+      }
+    },
+    "sk": {
+      "privacy": {
+        "app_name": "Lumi Bopomofo",
+        "contact": "Napíšte na hourstag.app@gmail.com model zariadenia, verziu iOS, verziu aplikácie, postup na vyvolanie chyby a snímku alebo záznam obrazovky. Čím konkrétnejšie, tým rýchlejšie to opravíme.",
+        "description": "Nie. Ako uvádza stránka aplikácie Lumi Bopomofo v App Store, nie sú tu žiadne účty ani prihlasovanie — začať môžete hneď po inštalácii. Nie. Lumi Bopomofo neobsahuje reklamy tretích strán ani analytické či sledovacie SDK, ktoré by vás sledovali naprieč aplikáciami. Základné funkcie sú zadarmo. Všetko odomkne jednorazový nákup v aplikácii Lumi Bopomofo, takže si ju viete v pokoji vyskúšať, kým sa rozhodnete. Áno. Prihláste sa rovnakým účtom Apple a v aplikácii ťuknite na «Obnoviť nákupy» — nákup sa znova aktivuje bez ďalšej platby.",
+        "eyebrow": "Súkromie",
+        "heading": "Lumi Bopomofo · Súkromie",
+        "labels": {
+          "app_store": "Lumi Bopomofo · App Store",
+          "contact": "Centrum podpory",
+          "home": "Lumi Bopomofo",
+          "language": "Slovenčina",
+          "privacy": "Súkromie",
+          "support": "Centrum podpory"
+        },
+        "lead": "Nie. Ako uvádza stránka aplikácie Lumi Bopomofo v App Store, nie sú tu žiadne účty ani prihlasovanie — začať môžete hneď po inštalácii. Nie. Lumi Bopomofo neobsahuje reklamy tretích strán ani analytické či sledovacie SDK, ktoré by vás sledovali naprieč aplikáciami. Základné funkcie sú zadarmo. Všetko odomkne jednorazový nákup v aplikácii Lumi Bopomofo, takže si ju viete v pokoji vyskúšať, kým sa rozhodnete. Áno. Prihláste sa rovnakým účtom Apple a v aplikácii ťuknite na «Obnoviť nákupy» — nákup sa znova aktivuje bez ďalšej platby.",
+        "sections": [
+          [
+            "Súkromie",
+            "Nie. Ako uvádza stránka aplikácie Lumi Bopomofo v App Store, nie sú tu žiadne účty ani prihlasovanie — začať môžete hneď po inštalácii. Nie. Lumi Bopomofo neobsahuje reklamy tretích strán ani analytické či sledovacie SDK, ktoré by vás sledovali naprieč aplikáciami."
+          ],
+          [
+            "Čo môžem používať zadarmo?",
+            "Základné funkcie sú zadarmo. Všetko odomkne jednorazový nákup v aplikácii Lumi Bopomofo, takže si ju viete v pokoji vyskúšať, kým sa rozhodnete. Áno. Prihláste sa rovnakým účtom Apple a v aplikácii ťuknite na «Obnoviť nákupy» — nákup sa znova aktivuje bez ďalšej platby."
+          ],
+          [
+            "Ako vymažem svoje údaje?",
+            "Jednotlivé položky mažte priamo v aplikácii. Ak chcete vymazať všetko, podržte ikonu Lumi Bopomofo na ploche a aplikáciu odstráňte — spolu s ňou zmiznú aj údaje uložené v zariadení (kópia môže zostať v zálohe, ktorú ste si sami vytvorili)."
+          ]
+        ],
+        "title": "Súkromie — Lumi Bopomofo"
+      }
+    },
+    "sl-SI": {
+      "privacy": {
+        "app_name": "Lumi Bopomofo",
+        "contact": "Pišite na hourstag.app@gmail.com in navedite model naprave, različico iOS, različico aplikacije, korake, s katerimi se napaka pojavi, ter posnetek zaslona ali videoposnetek. Bolj ko je opis konkreten, hitreje napako odpravimo.",
+        "description": "Ne. Kot piše na strani aplikacije Lumi Bopomofo v App Storu, računov in prijave ni — začnete lahko takoj po namestitvi. Ne. Lumi Bopomofo ne vsebuje oglasov tretjih oseb niti analitičnih ali sledilnih kompletov SDK, ki bi vam sledili med aplikacijami. Osnovne funkcije so brezplačne. Vse odklene enkraten nakup v aplikaciji Lumi Bopomofo, tako da aplikacijo lahko v miru preizkusite, preden se odločite. Da. Prijavite se z istim računom Apple in v aplikaciji tapnite «Obnovi nakupe» — nakup bo znova aktiven brez ponovnega plačila.",
+        "eyebrow": "Zasebnost",
+        "heading": "Lumi Bopomofo · Zasebnost",
+        "labels": {
+          "app_store": "Lumi Bopomofo · App Store",
+          "contact": "Center za podporo",
+          "home": "Lumi Bopomofo",
+          "language": "Slovenščina",
+          "privacy": "Zasebnost",
+          "support": "Center za podporo"
+        },
+        "lead": "Ne. Kot piše na strani aplikacije Lumi Bopomofo v App Storu, računov in prijave ni — začnete lahko takoj po namestitvi. Ne. Lumi Bopomofo ne vsebuje oglasov tretjih oseb niti analitičnih ali sledilnih kompletov SDK, ki bi vam sledili med aplikacijami. Osnovne funkcije so brezplačne. Vse odklene enkraten nakup v aplikaciji Lumi Bopomofo, tako da aplikacijo lahko v miru preizkusite, preden se odločite. Da. Prijavite se z istim računom Apple in v aplikaciji tapnite «Obnovi nakupe» — nakup bo znova aktiven brez ponovnega plačila.",
+        "sections": [
+          [
+            "Zasebnost",
+            "Ne. Kot piše na strani aplikacije Lumi Bopomofo v App Storu, računov in prijave ni — začnete lahko takoj po namestitvi. Ne. Lumi Bopomofo ne vsebuje oglasov tretjih oseb niti analitičnih ali sledilnih kompletov SDK, ki bi vam sledili med aplikacijami."
+          ],
+          [
+            "Kaj lahko uporabljam brezplačno?",
+            "Osnovne funkcije so brezplačne. Vse odklene enkraten nakup v aplikaciji Lumi Bopomofo, tako da aplikacijo lahko v miru preizkusite, preden se odločite. Da. Prijavite se z istim računom Apple in v aplikaciji tapnite «Obnovi nakupe» — nakup bo znova aktiven brez ponovnega plačila."
+          ],
+          [
+            "Kako izbrišem svoje podatke?",
+            "Posamezne vnose brišite v aplikaciji. Če želite izbrisati vse, pridržite ikono Lumi Bopomofo na začetnem zaslonu in odstranite aplikacijo — z njo izginejo tudi podatki, shranjeni na napravi (kopija lahko ostane v varnostni kopiji, ki ste jo naredili sami)."
+          ]
+        ],
+        "title": "Zasebnost — Lumi Bopomofo"
+      }
+    },
+    "sv": {
+      "privacy": {
+        "app_name": "Lumi Bopomofo",
+        "contact": "Mejla hourstag.app@gmail.com med enhetsmodell, iOS-version, appversion, stegen som framkallar felet samt en skärmbild eller skärminspelning. Ju mer konkret, desto snabbare kan vi rätta det.",
+        "description": "Nej. Som det står på Lumi Bopomofos sida i App Store finns varken konton eller inloggning: du kan börja direkt efter installationen. Nej. Lumi Bopomofo innehåller varken tredjepartsannonser eller analys- och spårnings-SDK:er som följer dig mellan appar. Grundfunktionerna är gratis. Allt innehåll låses upp med ett engångsköp i Lumi Bopomofo, så du hinner prova appen i lugn och ro innan du bestämmer dig. Ja. Logga in med samma Apple-konto och tryck på «Återställ köp» i appen: ditt köp blir aktivt igen utan att du betalar på nytt.",
+        "eyebrow": "Integritet",
+        "heading": "Lumi Bopomofo · Integritet",
+        "labels": {
+          "app_store": "Lumi Bopomofo · App Store",
+          "contact": "Supportcenter",
+          "home": "Lumi Bopomofo",
+          "language": "Svenska",
+          "privacy": "Integritet",
+          "support": "Supportcenter"
+        },
+        "lead": "Nej. Som det står på Lumi Bopomofos sida i App Store finns varken konton eller inloggning: du kan börja direkt efter installationen. Nej. Lumi Bopomofo innehåller varken tredjepartsannonser eller analys- och spårnings-SDK:er som följer dig mellan appar. Grundfunktionerna är gratis. Allt innehåll låses upp med ett engångsköp i Lumi Bopomofo, så du hinner prova appen i lugn och ro innan du bestämmer dig. Ja. Logga in med samma Apple-konto och tryck på «Återställ köp» i appen: ditt köp blir aktivt igen utan att du betalar på nytt.",
+        "sections": [
+          [
+            "Integritet",
+            "Nej. Som det står på Lumi Bopomofos sida i App Store finns varken konton eller inloggning: du kan börja direkt efter installationen. Nej. Lumi Bopomofo innehåller varken tredjepartsannonser eller analys- och spårnings-SDK:er som följer dig mellan appar."
+          ],
+          [
+            "Vad kan jag använda gratis?",
+            "Grundfunktionerna är gratis. Allt innehåll låses upp med ett engångsköp i Lumi Bopomofo, så du hinner prova appen i lugn och ro innan du bestämmer dig. Ja. Logga in med samma Apple-konto och tryck på «Återställ köp» i appen: ditt köp blir aktivt igen utan att du betalar på nytt."
+          ],
+          [
+            "Hur raderar jag mina uppgifter?",
+            "Radera enskilda poster inne i appen. Vill du radera allt håller du fingret på Lumi Bopomofo-symbolen på hemskärmen och raderar appen: då försvinner även det som sparats på enheten (en kopia kan finnas kvar i en säkerhetskopia du själv gjort)."
+          ]
+        ],
+        "title": "Integritet — Lumi Bopomofo"
+      }
+    },
+    "ta-IN": {
+      "privacy": {
+        "app_name": "Lumi Bopomofo",
+        "contact": "hourstag.app@gmail.com முகவரிக்கு சாதன மாடல், iOS பதிப்பு, பயன்பாட்டுப் பதிப்பு, பிழையை மீண்டும் உருவாக்கும் படிகள், திரைப்பிடிப்பு அல்லது திரைப் பதிவு ஆகியவற்றை அனுப்புங்கள். விவரம் தெளிவாக இருக்கும்போது திருத்தம் விரைவாக நடக்கும்.",
+        "description": "இல்லை. Lumi Bopomofo இன் App Store பக்கத்தில் குறிப்பிட்டுள்ளபடி, இங்கே கணக்கும் இல்லை, உள்நுழைவும் இல்லை — நிறுவியவுடன் தொடங்கலாம். இல்லை. Lumi Bopomofo இல் மூன்றாம் தரப்பு விளம்பரங்கள் இல்லை; பயன்பாடுகளுக்கு இடையே கண்காணிக்கும் பகுப்பாய்வு அல்லது கண்காணிப்பு SDK களும் இல்லை. அடிப்படை அம்சங்கள் இலவசம். முழு உள்ளடக்கமும் Lumi Bopomofo இல் ஒருமுறை செய்யும் இன்-ஆப் வாங்குதலால் திறக்கப்படும்; எனவே முடிவெடுக்கும் முன் நிதானமாகப் பயன்படுத்திப் பார்க்கலாம். ஆம். அதே Apple கணக்கில் உள்நுழைந்து, பயன்பாட்டில் «வாங்கியவற்றை மீட்டமை» என்பதைத் தட்டுங்கள் — மீண்டும் பணம் செலுத்தாமல் உங்கள் வாங்குதல் மீண்டும் செயல்படும்.",
+        "eyebrow": "தனியுரிமை",
+        "heading": "Lumi Bopomofo · தனியுரிமை",
+        "labels": {
+          "app_store": "Lumi Bopomofo · App Store",
+          "contact": "ஆதரவு மையம்",
+          "home": "Lumi Bopomofo",
+          "language": "தமிழ்",
+          "privacy": "தனியுரிமை",
+          "support": "ஆதரவு மையம்"
+        },
+        "lead": "இல்லை. Lumi Bopomofo இன் App Store பக்கத்தில் குறிப்பிட்டுள்ளபடி, இங்கே கணக்கும் இல்லை, உள்நுழைவும் இல்லை — நிறுவியவுடன் தொடங்கலாம். இல்லை. Lumi Bopomofo இல் மூன்றாம் தரப்பு விளம்பரங்கள் இல்லை; பயன்பாடுகளுக்கு இடையே கண்காணிக்கும் பகுப்பாய்வு அல்லது கண்காணிப்பு SDK களும் இல்லை. அடிப்படை அம்சங்கள் இலவசம். முழு உள்ளடக்கமும் Lumi Bopomofo இல் ஒருமுறை செய்யும் இன்-ஆப் வாங்குதலால் திறக்கப்படும்; எனவே முடிவெடுக்கும் முன் நிதானமாகப் பயன்படுத்திப் பார்க்கலாம். ஆம். அதே Apple கணக்கில் உள்நுழைந்து, பயன்பாட்டில் «வாங்கியவற்றை மீட்டமை» என்பதைத் தட்டுங்கள் — மீண்டும் பணம் செலுத்தாமல் உங்கள் வாங்குதல் மீண்டும் செயல்படும்.",
+        "sections": [
+          [
+            "தனியுரிமை",
+            "இல்லை. Lumi Bopomofo இன் App Store பக்கத்தில் குறிப்பிட்டுள்ளபடி, இங்கே கணக்கும் இல்லை, உள்நுழைவும் இல்லை — நிறுவியவுடன் தொடங்கலாம். இல்லை. Lumi Bopomofo இல் மூன்றாம் தரப்பு விளம்பரங்கள் இல்லை; பயன்பாடுகளுக்கு இடையே கண்காணிக்கும் பகுப்பாய்வு அல்லது கண்காணிப்பு SDK களும் இல்லை."
+          ],
+          [
+            "இலவசமாக எதைப் பயன்படுத்தலாம்?",
+            "அடிப்படை அம்சங்கள் இலவசம். முழு உள்ளடக்கமும் Lumi Bopomofo இல் ஒருமுறை செய்யும் இன்-ஆப் வாங்குதலால் திறக்கப்படும்; எனவே முடிவெடுக்கும் முன் நிதானமாகப் பயன்படுத்திப் பார்க்கலாம். ஆம். அதே Apple கணக்கில் உள்நுழைந்து, பயன்பாட்டில் «வாங்கியவற்றை மீட்டமை» என்பதைத் தட்டுங்கள் — மீண்டும் பணம் செலுத்தாமல் உங்கள் வாங்குதல் மீண்டும் செயல்படும்."
+          ],
+          [
+            "என் தரவை எப்படி நீக்குவது?",
+            "தனித்தனி உள்ளீடுகளைப் பயன்பாட்டிற்குள்ளேயே நீக்குங்கள். எல்லாவற்றையும் அழிக்க வேண்டுமெனில், முகப்புத் திரையில் Lumi Bopomofo சின்னத்தை அழுத்திப் பிடித்து பயன்பாட்டை நீக்குங்கள் — சாதனத்தில் சேமித்த தரவும் அதனுடன் நீங்கிவிடும் (நீங்களே எடுத்த காப்புப்பிரதியில் நகல் இருக்கக்கூடும்)."
+          ]
+        ],
+        "title": "தனியுரிமை — Lumi Bopomofo"
+      }
+    },
+    "te-IN": {
+      "privacy": {
+        "app_name": "Lumi Bopomofo",
+        "contact": "hourstag.app@gmail.com కు పరికరం మోడల్, iOS వెర్షన్, యాప్ వెర్షన్, లోపం మళ్లీ వచ్చే దశలు, స్క్రీన్‌షాట్ లేదా స్క్రీన్ రికార్డింగ్ పంపండి. వివరణ ఎంత స్పష్టంగా ఉంటే సరిదిద్దడం అంత వేగంగా జరుగుతుంది.",
+        "description": "అవసరం లేదు. Lumi Bopomofo యొక్క App Store పేజీలో ఉన్నట్టుగా ఇక్కడ ఖాతా గానీ సైన్-ఇన్ గానీ లేదు — ఇన్‌స్టాల్ చేసిన వెంటనే మొదలుపెట్టవచ్చు. లేదు. Lumi Bopomofo లో మూడో పక్షం ప్రకటనలు లేవు; యాప్‌ల మధ్య ట్రాక్ చేసే అనలిటిక్స్ లేదా ట్రాకింగ్ SDK లు కూడా లేవు. ప్రాథమిక సౌకర్యాలు ఉచితం. మొత్తం కంటెంట్ Lumi Bopomofo లో ఒకసారి చేసే ఇన్-యాప్ కొనుగోలుతో తెరుచుకుంటుంది; కాబట్టి నిర్ణయించుకునే ముందు తీరిగ్గా వాడి చూడవచ్చు. ఉంటుంది. అదే Apple ఖాతాతో సైన్ ఇన్ చేసి, యాప్‌లో «కొనుగోళ్లు పునరుద్ధరించు» నొక్కండి — మళ్లీ చెల్లించకుండానే మీ కొనుగోలు తిరిగి పనిచేస్తుంది.",
+        "eyebrow": "గోప్యత",
+        "heading": "Lumi Bopomofo · గోప్యత",
+        "labels": {
+          "app_store": "Lumi Bopomofo · App Store",
+          "contact": "సహాయ కేంద్రం",
+          "home": "Lumi Bopomofo",
+          "language": "తెలుగు",
+          "privacy": "గోప్యత",
+          "support": "సహాయ కేంద్రం"
+        },
+        "lead": "అవసరం లేదు. Lumi Bopomofo యొక్క App Store పేజీలో ఉన్నట్టుగా ఇక్కడ ఖాతా గానీ సైన్-ఇన్ గానీ లేదు — ఇన్‌స్టాల్ చేసిన వెంటనే మొదలుపెట్టవచ్చు. లేదు. Lumi Bopomofo లో మూడో పక్షం ప్రకటనలు లేవు; యాప్‌ల మధ్య ట్రాక్ చేసే అనలిటిక్స్ లేదా ట్రాకింగ్ SDK లు కూడా లేవు. ప్రాథమిక సౌకర్యాలు ఉచితం. మొత్తం కంటెంట్ Lumi Bopomofo లో ఒకసారి చేసే ఇన్-యాప్ కొనుగోలుతో తెరుచుకుంటుంది; కాబట్టి నిర్ణయించుకునే ముందు తీరిగ్గా వాడి చూడవచ్చు. ఉంటుంది. అదే Apple ఖాతాతో సైన్ ఇన్ చేసి, యాప్‌లో «కొనుగోళ్లు పునరుద్ధరించు» నొక్కండి — మళ్లీ చెల్లించకుండానే మీ కొనుగోలు తిరిగి పనిచేస్తుంది.",
+        "sections": [
+          [
+            "గోప్యత",
+            "అవసరం లేదు. Lumi Bopomofo యొక్క App Store పేజీలో ఉన్నట్టుగా ఇక్కడ ఖాతా గానీ సైన్-ఇన్ గానీ లేదు — ఇన్‌స్టాల్ చేసిన వెంటనే మొదలుపెట్టవచ్చు. లేదు. Lumi Bopomofo లో మూడో పక్షం ప్రకటనలు లేవు; యాప్‌ల మధ్య ట్రాక్ చేసే అనలిటిక్స్ లేదా ట్రాకింగ్ SDK లు కూడా లేవు."
+          ],
+          [
+            "ఉచితంగా ఏం వాడవచ్చు?",
+            "ప్రాథమిక సౌకర్యాలు ఉచితం. మొత్తం కంటెంట్ Lumi Bopomofo లో ఒకసారి చేసే ఇన్-యాప్ కొనుగోలుతో తెరుచుకుంటుంది; కాబట్టి నిర్ణయించుకునే ముందు తీరిగ్గా వాడి చూడవచ్చు. ఉంటుంది. అదే Apple ఖాతాతో సైన్ ఇన్ చేసి, యాప్‌లో «కొనుగోళ్లు పునరుద్ధరించు» నొక్కండి — మళ్లీ చెల్లించకుండానే మీ కొనుగోలు తిరిగి పనిచేస్తుంది."
+          ],
+          [
+            "నా సమాచారాన్ని ఎలా తొలగించాలి?",
+            "ఒక్కో నమోదును యాప్ లోపలే తొలగించండి. అన్నీ తుడిచేయాలంటే హోమ్ స్క్రీన్‌లో Lumi Bopomofo చిహ్నాన్ని నొక్కి పట్టి యాప్‌ను తొలగించండి — పరికరంలో నిల్వ ఉన్న సమాచారం కూడా దానితోపాటే పోతుంది (మీరే తీసుకున్న బ్యాకప్‌లో ప్రతి ఉండవచ్చు)."
+          ]
+        ],
+        "title": "గోప్యత — Lumi Bopomofo"
+      }
+    },
+    "th": {
+      "privacy": {
+        "app_name": "Lumi Bopomofo",
+        "contact": "ส่งมาที่ hourstag.app@gmail.com พร้อมรุ่นเครื่อง เวอร์ชัน iOS เวอร์ชันแอป ขั้นตอนที่ทำให้เกิดปัญหา และภาพหน้าจอหรือวิดีโอบันทึกหน้าจอ ยิ่งละเอียดเท่าไร เราก็ยิ่งแก้ได้เร็วขึ้น",
+        "description": "ไม่ต้อง ตามที่ระบุไว้ในหน้า Lumi Bopomofo บน App Store ไม่มีบัญชีและไม่มีการลงชื่อเข้าใช้ ติดตั้งเสร็จก็เริ่มใช้ได้ทันที ไม่มี Lumi Bopomofo ไม่มีโฆษณาของบุคคลที่สาม และไม่มี SDK วิเคราะห์หรือติดตามข้ามแอป ฟีเจอร์พื้นฐานใช้ได้ฟรี ส่วนเนื้อหาทั้งหมดปลดล็อกด้วยการซื้อในแอปครั้งเดียวของ Lumi Bopomofo คุณจึงลองใช้ให้พอใจก่อนตัดสินใจได้ ยังอยู่ ลงชื่อเข้าใช้ด้วยบัญชี Apple เดิม แล้วแตะ «กู้คืนการซื้อ» ในแอป สิทธิ์ที่ซื้อไว้จะกลับมาใช้งานได้โดยไม่ต้องจ่ายซ้ำ",
+        "eyebrow": "ความเป็นส่วนตัว",
+        "heading": "Lumi Bopomofo · ความเป็นส่วนตัว",
+        "labels": {
+          "app_store": "Lumi Bopomofo · App Store",
+          "contact": "ศูนย์ช่วยเหลือ",
+          "home": "Lumi Bopomofo",
+          "language": "ไทย",
+          "privacy": "ความเป็นส่วนตัว",
+          "support": "ศูนย์ช่วยเหลือ"
+        },
+        "lead": "ไม่ต้อง ตามที่ระบุไว้ในหน้า Lumi Bopomofo บน App Store ไม่มีบัญชีและไม่มีการลงชื่อเข้าใช้ ติดตั้งเสร็จก็เริ่มใช้ได้ทันที ไม่มี Lumi Bopomofo ไม่มีโฆษณาของบุคคลที่สาม และไม่มี SDK วิเคราะห์หรือติดตามข้ามแอป ฟีเจอร์พื้นฐานใช้ได้ฟรี ส่วนเนื้อหาทั้งหมดปลดล็อกด้วยการซื้อในแอปครั้งเดียวของ Lumi Bopomofo คุณจึงลองใช้ให้พอใจก่อนตัดสินใจได้ ยังอยู่ ลงชื่อเข้าใช้ด้วยบัญชี Apple เดิม แล้วแตะ «กู้คืนการซื้อ» ในแอป สิทธิ์ที่ซื้อไว้จะกลับมาใช้งานได้โดยไม่ต้องจ่ายซ้ำ",
+        "sections": [
+          [
+            "ความเป็นส่วนตัว",
+            "ไม่ต้อง ตามที่ระบุไว้ในหน้า Lumi Bopomofo บน App Store ไม่มีบัญชีและไม่มีการลงชื่อเข้าใช้ ติดตั้งเสร็จก็เริ่มใช้ได้ทันที ไม่มี Lumi Bopomofo ไม่มีโฆษณาของบุคคลที่สาม และไม่มี SDK วิเคราะห์หรือติดตามข้ามแอป"
+          ],
+          [
+            "ใช้ฟรีได้แค่ไหน",
+            "ฟีเจอร์พื้นฐานใช้ได้ฟรี ส่วนเนื้อหาทั้งหมดปลดล็อกด้วยการซื้อในแอปครั้งเดียวของ Lumi Bopomofo คุณจึงลองใช้ให้พอใจก่อนตัดสินใจได้ ยังอยู่ ลงชื่อเข้าใช้ด้วยบัญชี Apple เดิม แล้วแตะ «กู้คืนการซื้อ» ในแอป สิทธิ์ที่ซื้อไว้จะกลับมาใช้งานได้โดยไม่ต้องจ่ายซ้ำ"
+          ],
+          [
+            "จะลบข้อมูลของฉันได้อย่างไร",
+            "ลบรายการทีละอย่างได้ในแอป ถ้าต้องการลบทั้งหมด ให้แตะค้างที่ไอคอน Lumi Bopomofo บนหน้าจอโฮมแล้วลบแอป ข้อมูลที่เก็บไว้ในเครื่องจะถูกลบไปพร้อมกัน (สำเนาอาจยังอยู่ในไฟล์สำรองข้อมูลที่คุณสร้างเอง)"
+          ]
+        ],
+        "title": "ความเป็นส่วนตัว — Lumi Bopomofo"
+      }
+    },
+    "tr": {
+      "privacy": {
+        "app_name": "Lumi Bopomofo",
+        "contact": "hourstag.app@gmail.com adresine cihaz modeli, iOS sürümü, uygulama sürümü, hatayı ortaya çıkaran adımlar ve bir ekran görüntüsü veya ekran kaydı gönderin. Ne kadar somut olursa o kadar hızlı düzeltiriz.",
+        "description": "Hayır. Lumi Bopomofo uygulamasının App Store sayfasında da belirtildiği gibi hesap ve oturum açma yok — kurulumdan hemen sonra başlayabilirsiniz. Yok. Lumi Bopomofo içinde üçüncü taraf reklamı ve uygulamalar arası izleme yapan analiz ya da izleme SDK'sı bulunmuyor. Temel özellikler ücretsizdir. Tüm içeriği Lumi Bopomofo içindeki tek seferlik uygulama içi satın alımla açabilirsiniz; karar vermeden önce uygulamayı rahatça deneyebilirsiniz. Evet. Aynı Apple hesabıyla oturum açıp uygulama içindeki «Satın alımları geri yükle» seçeneğine dokunun — satın alımınız yeniden ödeme yapmadan tekrar etkinleşir.",
+        "eyebrow": "Gizlilik",
+        "heading": "Lumi Bopomofo · Gizlilik",
+        "labels": {
+          "app_store": "Lumi Bopomofo · App Store",
+          "contact": "Destek merkezi",
+          "home": "Lumi Bopomofo",
+          "language": "Türkçe",
+          "privacy": "Gizlilik",
+          "support": "Destek merkezi"
+        },
+        "lead": "Hayır. Lumi Bopomofo uygulamasının App Store sayfasında da belirtildiği gibi hesap ve oturum açma yok — kurulumdan hemen sonra başlayabilirsiniz. Yok. Lumi Bopomofo içinde üçüncü taraf reklamı ve uygulamalar arası izleme yapan analiz ya da izleme SDK'sı bulunmuyor. Temel özellikler ücretsizdir. Tüm içeriği Lumi Bopomofo içindeki tek seferlik uygulama içi satın alımla açabilirsiniz; karar vermeden önce uygulamayı rahatça deneyebilirsiniz. Evet. Aynı Apple hesabıyla oturum açıp uygulama içindeki «Satın alımları geri yükle» seçeneğine dokunun — satın alımınız yeniden ödeme yapmadan tekrar etkinleşir.",
+        "sections": [
+          [
+            "Gizlilik",
+            "Hayır. Lumi Bopomofo uygulamasının App Store sayfasında da belirtildiği gibi hesap ve oturum açma yok — kurulumdan hemen sonra başlayabilirsiniz. Yok. Lumi Bopomofo içinde üçüncü taraf reklamı ve uygulamalar arası izleme yapan analiz ya da izleme SDK'sı bulunmuyor."
+          ],
+          [
+            "Ücretsiz olarak neleri kullanabilirim?",
+            "Temel özellikler ücretsizdir. Tüm içeriği Lumi Bopomofo içindeki tek seferlik uygulama içi satın alımla açabilirsiniz; karar vermeden önce uygulamayı rahatça deneyebilirsiniz. Evet. Aynı Apple hesabıyla oturum açıp uygulama içindeki «Satın alımları geri yükle» seçeneğine dokunun — satın alımınız yeniden ödeme yapmadan tekrar etkinleşir."
+          ],
+          [
+            "Verilerimi nasıl silerim?",
+            "Tek tek kayıtları uygulama içinden silin. Hepsini silmek isterseniz ana ekranda Lumi Bopomofo simgesini basılı tutup uygulamayı silin — cihazda saklanan veriler de onunla birlikte gider (kendi aldığınız bir yedekte kopya kalabilir)."
+          ]
+        ],
+        "title": "Gizlilik — Lumi Bopomofo"
+      }
+    },
+    "uk": {
+      "privacy": {
+        "app_name": "Lumi Bopomofo",
+        "contact": "Напишіть на hourstag.app@gmail.com модель пристрою, версію iOS, версію застосунку, кроки для відтворення та додайте знімок або запис екрана. Що конкретніше, то швидше ми це виправимо.",
+        "description": "Ні. Як зазначено на сторінці Lumi Bopomofo в App Store, облікових записів і входу немає — почати можна одразу після встановлення. Ні. У Lumi Bopomofo немає сторонньої реклами та немає SDK аналітики чи міжзастосункового відстеження. Базові функції безкоштовні. Увесь вміст відкривається разовою вбудованою покупкою в Lumi Bopomofo, тож ви можете спокійно спробувати застосунок перед рішенням. Так. Увійдіть із тим самим обліковим записом Apple і торкніться в застосунку «Відновити покупки» — покупка знову стане активною без повторної оплати.",
+        "eyebrow": "Конфіденційність",
+        "heading": "Lumi Bopomofo · Конфіденційність",
+        "labels": {
+          "app_store": "Lumi Bopomofo · App Store",
+          "contact": "Центр підтримки",
+          "home": "Lumi Bopomofo",
+          "language": "Українська",
+          "privacy": "Конфіденційність",
+          "support": "Центр підтримки"
+        },
+        "lead": "Ні. Як зазначено на сторінці Lumi Bopomofo в App Store, облікових записів і входу немає — почати можна одразу після встановлення. Ні. У Lumi Bopomofo немає сторонньої реклами та немає SDK аналітики чи міжзастосункового відстеження. Базові функції безкоштовні. Увесь вміст відкривається разовою вбудованою покупкою в Lumi Bopomofo, тож ви можете спокійно спробувати застосунок перед рішенням. Так. Увійдіть із тим самим обліковим записом Apple і торкніться в застосунку «Відновити покупки» — покупка знову стане активною без повторної оплати.",
+        "sections": [
+          [
+            "Конфіденційність",
+            "Ні. Як зазначено на сторінці Lumi Bopomofo в App Store, облікових записів і входу немає — почати можна одразу після встановлення. Ні. У Lumi Bopomofo немає сторонньої реклами та немає SDK аналітики чи міжзастосункового відстеження."
+          ],
+          [
+            "Що доступно безкоштовно?",
+            "Базові функції безкоштовні. Увесь вміст відкривається разовою вбудованою покупкою в Lumi Bopomofo, тож ви можете спокійно спробувати застосунок перед рішенням. Так. Увійдіть із тим самим обліковим записом Apple і торкніться в застосунку «Відновити покупки» — покупка знову стане активною без повторної оплати."
+          ],
+          [
+            "Як видалити мої дані?",
+            "Окремі записи видаляйте всередині застосунку. Щоб стерти все, утримуйте значок Lumi Bopomofo на екрані «Домівка» та видаліть застосунок — разом із ним зникнуть і дані, збережені на пристрої (копія може лишитися в резервній копії, яку ви зробили самі)."
+          ]
+        ],
+        "title": "Конфіденційність — Lumi Bopomofo"
+      }
+    },
+    "ur-PK": {
+      "privacy": {
+        "app_name": "Lumi Bopomofo",
+        "contact": "hourstag.app@gmail.com پر ڈیوائس ماڈل، iOS ورژن، ایپ ورژن، خرابی دہرانے کے مراحل اور اسکرین شاٹ یا اسکرین ریکارڈنگ بھیجیں۔ تفصیل جتنی واضح ہوگی، درستی اتنی ہی جلد ہوگی۔",
+        "description": "نہیں۔ جیسا کہ Lumi Bopomofo کے App Store صفحے پر درج ہے، یہاں اکاؤنٹ یا لاگ اِن نہیں ہے — انسٹال کرتے ہی آپ شروع کر سکتے ہیں۔ نہیں۔ Lumi Bopomofo میں کسی تیسرے فریق کے اشتہارات نہیں اور نہ ہی ایپس کے درمیان ٹریک کرنے والے اینالیٹکس یا ٹریکنگ SDK موجود ہیں۔ بنیادی خصوصیات مفت ہیں۔ پورا مواد Lumi Bopomofo میں ایک بار کی اِن ایپ خریداری سے کھل جاتا ہے، اس لیے فیصلہ کرنے سے پہلے آپ ایپ اطمینان سے آزما سکتے ہیں۔ جی ہاں۔ اُسی Apple اکاؤنٹ سے سائن اِن کریں اور ایپ میں «خریداریاں بحال کریں» پر ٹیپ کریں — آپ کی خریداری دوبارہ فعال ہو جائے گی، دوبارہ ادائیگی کی ضرورت نہیں۔",
+        "eyebrow": "رازداری",
+        "heading": "Lumi Bopomofo · رازداری",
+        "labels": {
+          "app_store": "Lumi Bopomofo · App Store",
+          "contact": "سپورٹ سینٹر",
+          "home": "Lumi Bopomofo",
+          "language": "اردو",
+          "privacy": "رازداری",
+          "support": "سپورٹ سینٹر"
+        },
+        "lead": "نہیں۔ جیسا کہ Lumi Bopomofo کے App Store صفحے پر درج ہے، یہاں اکاؤنٹ یا لاگ اِن نہیں ہے — انسٹال کرتے ہی آپ شروع کر سکتے ہیں۔ نہیں۔ Lumi Bopomofo میں کسی تیسرے فریق کے اشتہارات نہیں اور نہ ہی ایپس کے درمیان ٹریک کرنے والے اینالیٹکس یا ٹریکنگ SDK موجود ہیں۔ بنیادی خصوصیات مفت ہیں۔ پورا مواد Lumi Bopomofo میں ایک بار کی اِن ایپ خریداری سے کھل جاتا ہے، اس لیے فیصلہ کرنے سے پہلے آپ ایپ اطمینان سے آزما سکتے ہیں۔ جی ہاں۔ اُسی Apple اکاؤنٹ سے سائن اِن کریں اور ایپ میں «خریداریاں بحال کریں» پر ٹیپ کریں — آپ کی خریداری دوبارہ فعال ہو جائے گی، دوبارہ ادائیگی کی ضرورت نہیں۔",
+        "sections": [
+          [
+            "رازداری",
+            "نہیں۔ جیسا کہ Lumi Bopomofo کے App Store صفحے پر درج ہے، یہاں اکاؤنٹ یا لاگ اِن نہیں ہے — انسٹال کرتے ہی آپ شروع کر سکتے ہیں۔ نہیں۔ Lumi Bopomofo میں کسی تیسرے فریق کے اشتہارات نہیں اور نہ ہی ایپس کے درمیان ٹریک کرنے والے اینالیٹکس یا ٹریکنگ SDK موجود ہیں۔"
+          ],
+          [
+            "مفت میں کیا کچھ استعمال کر سکتا ہوں؟",
+            "بنیادی خصوصیات مفت ہیں۔ پورا مواد Lumi Bopomofo میں ایک بار کی اِن ایپ خریداری سے کھل جاتا ہے، اس لیے فیصلہ کرنے سے پہلے آپ ایپ اطمینان سے آزما سکتے ہیں۔ جی ہاں۔ اُسی Apple اکاؤنٹ سے سائن اِن کریں اور ایپ میں «خریداریاں بحال کریں» پر ٹیپ کریں — آپ کی خریداری دوبارہ فعال ہو جائے گی، دوبارہ ادائیگی کی ضرورت نہیں۔"
+          ],
+          [
+            "اپنا ڈیٹا کیسے حذف کروں؟",
+            "انفرادی اندراجات ایپ کے اندر ہی حذف کریں۔ سب کچھ مٹانے کے لیے ہوم اسکرین پر Lumi Bopomofo کے آئیکن کو دبائے رکھیں اور ایپ حذف کر دیں — ڈیوائس پر محفوظ ڈیٹا بھی اسی کے ساتھ چلا جاتا ہے (آپ کے اپنے بنائے ہوئے بیک اپ میں نقل باقی رہ سکتی ہے)۔"
+          ]
+        ],
+        "title": "رازداری — Lumi Bopomofo"
+      }
+    },
+    "vi": {
+      "privacy": {
+        "app_name": "Lumi Bopomofo",
+        "contact": "Gửi tới hourstag.app@gmail.com kiểu máy, phiên bản iOS, phiên bản ứng dụng, các bước tái hiện lỗi và ảnh chụp hoặc video màn hình. Càng cụ thể, chúng tôi càng sửa nhanh.",
+        "description": "Không. Như trang Lumi Bopomofo trên App Store đã ghi, ứng dụng không có tài khoản và không cần đăng nhập — cài xong là dùng được ngay. Không. Lumi Bopomofo không có quảng cáo của bên thứ ba, cũng không có SDK phân tích hay theo dõi giữa các ứng dụng. Các tính năng cơ bản là miễn phí. Toàn bộ nội dung được mở bằng một lần mua trong ứng dụng Lumi Bopomofo, nên bạn có thể dùng thử thong thả trước khi quyết định. Có. Đăng nhập bằng đúng tài khoản Apple đó rồi chạm «Khôi phục giao dịch mua» trong ứng dụng — khoản đã mua sẽ hoạt động lại mà không phải trả tiền lần nữa.",
+        "eyebrow": "Quyền riêng tư",
+        "heading": "Lumi Bopomofo · Quyền riêng tư",
+        "labels": {
+          "app_store": "Lumi Bopomofo · App Store",
+          "contact": "Trung tâm hỗ trợ",
+          "home": "Lumi Bopomofo",
+          "language": "Tiếng Việt",
+          "privacy": "Quyền riêng tư",
+          "support": "Trung tâm hỗ trợ"
+        },
+        "lead": "Không. Như trang Lumi Bopomofo trên App Store đã ghi, ứng dụng không có tài khoản và không cần đăng nhập — cài xong là dùng được ngay. Không. Lumi Bopomofo không có quảng cáo của bên thứ ba, cũng không có SDK phân tích hay theo dõi giữa các ứng dụng. Các tính năng cơ bản là miễn phí. Toàn bộ nội dung được mở bằng một lần mua trong ứng dụng Lumi Bopomofo, nên bạn có thể dùng thử thong thả trước khi quyết định. Có. Đăng nhập bằng đúng tài khoản Apple đó rồi chạm «Khôi phục giao dịch mua» trong ứng dụng — khoản đã mua sẽ hoạt động lại mà không phải trả tiền lần nữa.",
+        "sections": [
+          [
+            "Quyền riêng tư",
+            "Không. Như trang Lumi Bopomofo trên App Store đã ghi, ứng dụng không có tài khoản và không cần đăng nhập — cài xong là dùng được ngay. Không. Lumi Bopomofo không có quảng cáo của bên thứ ba, cũng không có SDK phân tích hay theo dõi giữa các ứng dụng."
+          ],
+          [
+            "Tôi được dùng miễn phí những gì?",
+            "Các tính năng cơ bản là miễn phí. Toàn bộ nội dung được mở bằng một lần mua trong ứng dụng Lumi Bopomofo, nên bạn có thể dùng thử thong thả trước khi quyết định. Có. Đăng nhập bằng đúng tài khoản Apple đó rồi chạm «Khôi phục giao dịch mua» trong ứng dụng — khoản đã mua sẽ hoạt động lại mà không phải trả tiền lần nữa."
+          ],
+          [
+            "Làm sao xóa dữ liệu của tôi?",
+            "Xóa từng mục ngay trong ứng dụng. Muốn xóa hết, hãy giữ biểu tượng Lumi Bopomofo trên Màn hình chính rồi xóa ứng dụng — dữ liệu lưu trên máy cũng mất theo (bản sao có thể còn trong bản sao lưu do bạn tự tạo)."
+          ]
+        ],
+        "title": "Quyền riêng tư — Lumi Bopomofo"
+      }
+    },
+    "zh-Hans": {
+      "privacy": {
+        "app_name": "Lumi 注音星球",
+        "contact": "请发邮件到 hourstag.app@gmail.com,附上设备型号、iOS 版本、App 版本、复现步骤,以及截图或屏幕录制。信息越完整,修复越快。",
+        "description": "不需要。Lumi 注音星球 的 App Store 产品页说明它不需要账号或登录,安装后即可直接使用。 没有。Lumi 注音星球 不含第三方广告,也不含第三方分析或跨 App 跟踪 SDK。 基础功能免费使用。若要解锁完整内容,Lumi 注音星球 提供一次性的 App 内购买,购买前你可以先把免费部分用清楚。 在。只要用同一个 Apple 账户登录,在 App 内点「恢复购买」即可重新启用先前的购买,不需要再付一次。",
+        "eyebrow": "隐私",
+        "heading": "Lumi 注音星球 · 隐私",
+        "labels": {
+          "app_store": "Lumi 注音星球 · App Store",
+          "contact": "支持中心",
+          "home": "Lumi 注音星球",
+          "language": "简体中文",
+          "privacy": "隐私",
+          "support": "支持中心"
+        },
+        "lead": "不需要。Lumi 注音星球 的 App Store 产品页说明它不需要账号或登录,安装后即可直接使用。 没有。Lumi 注音星球 不含第三方广告,也不含第三方分析或跨 App 跟踪 SDK。 基础功能免费使用。若要解锁完整内容,Lumi 注音星球 提供一次性的 App 内购买,购买前你可以先把免费部分用清楚。 在。只要用同一个 Apple 账户登录,在 App 内点「恢复购买」即可重新启用先前的购买,不需要再付一次。",
+        "sections": [
+          [
+            "隐私",
+            "不需要。Lumi 注音星球 的 App Store 产品页说明它不需要账号或登录,安装后即可直接使用。 没有。Lumi 注音星球 不含第三方广告,也不含第三方分析或跨 App 跟踪 SDK。"
+          ],
+          [
+            "免费可以用到什么程度?",
+            "基础功能免费使用。若要解锁完整内容,Lumi 注音星球 提供一次性的 App 内购买,购买前你可以先把免费部分用清楚。 在。只要用同一个 Apple 账户登录,在 App 内点「恢复购买」即可重新启用先前的购买,不需要再付一次。"
+          ],
+          [
+            "怎么删除我的数据?",
+            "在 App 内删除对应内容即可。若要一次清除,长按主屏幕上的 Lumi 注音星球 图标并选择删除 App,设备上保存的数据会一并移除(如果你有设备备份,备份中仍可能保留副本)。"
+          ]
+        ],
+        "title": "隐私 — Lumi 注音星球"
+      }
+    },
+    "zh-Hant": {
+      "privacy": {
+        "app_name": "Lumi注音星球",
+        "contact": "請寫信到 hourstag.app@gmail.com,附上裝置型號、iOS 版本、App 版本、重現步驟,以及截圖或螢幕錄影。資訊愈完整,修正愈快。",
+        "description": "不用。Lumi注音星球 的 App Store 產品頁說明它不需要帳號或登入,安裝後就能直接開始使用。 不需要帳號。App 不含第三方廣告、跨 App 追蹤或第三方分析。 基本功能免費使用。若要解鎖完整內容,Lumi注音星球 提供一次性的 App 內購買,購買前你可以先把免費的部分用清楚。 在。只要用同一個 Apple 帳號登入,在 App 內點「恢復購買」就能把先前的購買重新啟用,不需要再付一次。",
+        "eyebrow": "隱私權",
+        "heading": "Lumi注音星球 · 隱私權",
+        "labels": {
+          "app_store": "在 App Store 查看",
+          "contact": "聯絡我們",
+          "home": "首頁",
+          "language": "語言",
+          "privacy": "隱私權",
+          "support": "支援"
+        },
+        "lead": "不用。Lumi注音星球 的 App Store 產品頁說明它不需要帳號或登入,安裝後就能直接開始使用。 不需要帳號。App 不含第三方廣告、跨 App 追蹤或第三方分析。 基本功能免費使用。若要解鎖完整內容,Lumi注音星球 提供一次性的 App 內購買,購買前你可以先把免費的部分用清楚。 在。只要用同一個 Apple 帳號登入,在 App 內點「恢復購買」就能把先前的購買重新啟用,不需要再付一次。",
+        "sections": [
+          [
+            "隱私權",
+            "不用。Lumi注音星球 的 App Store 產品頁說明它不需要帳號或登入,安裝後就能直接開始使用。 不需要帳號。App 不含第三方廣告、跨 App 追蹤或第三方分析。"
+          ],
+          [
+            "免費可以用到什麼程度?",
+            "基本功能免費使用。若要解鎖完整內容,Lumi注音星球 提供一次性的 App 內購買,購買前你可以先把免費的部分用清楚。 在。只要用同一個 Apple 帳號登入,在 App 內點「恢復購買」就能把先前的購買重新啟用,不需要再付一次。"
+          ],
+          [
+            "怎麼刪掉我的資料?",
+            "在 App 內刪除該筆內容即可。若要一次清除,長按主畫面上的 Lumi注音星球 圖示並選擇刪除 App,裝置上儲存的資料就會一併移除(如果你有裝置備份,備份仍可能保有副本)。"
+          ]
+        ],
+        "title": "隱私權 — Lumi注音星球"
+      }
+    }
+  },
+  "generated_crosspromo_labels": {
+    "en-AU": {
+      "guides": "More app guides & how-tos",
+      "opens_store": "Links open the App Store.",
+      "purchase": "Free · one-time purchase to unlock, no subscription",
+      "store": "View on the App Store",
+      "title": "More apps from the same developer"
+    },
+    "en-CA": {
+      "guides": "More app guides & how-tos",
+      "opens_store": "Links open the App Store.",
+      "purchase": "Free · one-time purchase to unlock, no subscription",
+      "store": "View on the App Store",
+      "title": "More apps from the same developer"
+    },
+    "en-GB": {
+      "guides": "More app guides & how-tos",
+      "opens_store": "Links open the App Store.",
+      "purchase": "Free · one-time purchase to unlock, no subscription",
+      "store": "View on the App Store",
+      "title": "More apps from the same developer"
+    },
+    "en-US": {
+      "guides": "More app guides & how-tos",
+      "opens_store": "Links open the App Store.",
+      "purchase": "Free · one-time purchase to unlock, no subscription",
+      "store": "View on the App Store",
+      "title": "More apps from the same developer"
+    },
+    "or-IN": {
+      "guides": "ଅଧିକ ଆପ୍ ମାର୍ଗଦର୍ଶିକା ଓ ବ୍ୟବହାର ସହାୟତା",
+      "opens_store": "ଲିଙ୍କଗୁଡ଼ିକ App Store ଖୋଲେ।",
+      "purchase": "ମାଗଣା · ସମସ୍ତ ବୈଶିଷ୍ଟ୍ୟ ଖୋଲିବାକୁ ଏକଥର କ୍ରୟ, ସଦସ୍ୟତା ନାହିଁ",
+      "store": "App Storeରେ ଦେଖନ୍ତୁ",
+      "title": "ସେହି ଡିଭେଲପରଙ୍କ ଅନ୍ୟ ଆପ୍‌ଗୁଡ଼ିକ"
+    }
+  },
+  "generated_help_links": {
+    "en-AU": {
+      "href": "../help.en-AU.html",
+      "label": "Help & FAQ"
+    },
+    "en-CA": {
+      "href": "../help.en-CA.html",
+      "label": "Help & FAQ"
+    },
+    "en-GB": {
+      "href": "../help.en-GB.html",
+      "label": "Help & FAQ"
+    },
+    "en-US": {
+      "href": "../help.html",
+      "label": "Help & FAQ"
+    }
+  },
+  "generated_surfaces": [
+    "ar-SA/privacy.html",
+    "bn-BD/privacy.html",
+    "ca/privacy.html",
+    "cs/privacy.html",
+    "da/privacy.html",
+    "de-DE/privacy.html",
+    "el/privacy.html",
+    "en-AU/index.html",
+    "en-AU/privacy.html",
+    "en-AU/support.html",
+    "en-CA/index.html",
+    "en-CA/privacy.html",
+    "en-CA/support.html",
+    "en-GB/index.html",
+    "en-GB/privacy.html",
+    "en-GB/support.html",
+    "en-US/index.html",
+    "en-US/privacy.html",
+    "en-US/support.html",
+    "es-ES/privacy.html",
+    "es-MX/privacy.html",
+    "fi/privacy.html",
+    "fr-CA/privacy.html",
+    "fr-FR/privacy.html",
+    "gu-IN/privacy.html",
+    "he/privacy.html",
+    "hi/privacy.html",
+    "hr/privacy.html",
+    "hu/privacy.html",
+    "id/privacy.html",
+    "it/privacy.html",
+    "ja/privacy.html",
+    "kn-IN/privacy.html",
+    "ko/privacy.html",
+    "ml-IN/privacy.html",
+    "mr-IN/privacy.html",
+    "ms/privacy.html",
+    "nl-NL/privacy.html",
+    "no/privacy.html",
+    "or-IN/index.html",
+    "or-IN/privacy.html",
+    "or-IN/support.html",
+    "pa-IN/privacy.html",
+    "pl/privacy.html",
+    "pt-BR/privacy.html",
+    "pt-PT/privacy.html",
+    "ro/privacy.html",
+    "ru/privacy.html",
+    "sk/privacy.html",
+    "sl-SI/privacy.html",
+    "sv/privacy.html",
+    "ta-IN/privacy.html",
+    "te-IN/privacy.html",
+    "th/privacy.html",
+    "tr/privacy.html",
+    "uk/privacy.html",
+    "ur-PK/privacy.html",
+    "vi/privacy.html",
+    "zh-Hans/privacy.html",
+    "zh-Hant/privacy.html"
+  ],
+  "hourstag_paid": {},
+  "integration_base": "18cc02d95b048015424d75d42992bb0501bbf523",
+  "locale_names": {
+    "ar-SA": "العربية",
+    "bn-BD": "বাংলা",
+    "ca": "Català",
+    "cs": "Čeština",
+    "da": "Dansk",
+    "de-DE": "Deutsch",
+    "el": "Ελληνικά",
+    "en-AU": "English (Australia)",
+    "en-CA": "English (Canada)",
+    "en-GB": "English (United Kingdom)",
+    "en-US": "English (United States)",
+    "es-ES": "Español (España)",
+    "es-MX": "Español (México)",
+    "fi": "Suomi",
+    "fr-CA": "Français (Canada)",
+    "fr-FR": "Français (France)",
+    "gu-IN": "ગુજરાતી",
+    "he": "עברית",
+    "hi": "हिन्दी",
+    "hr": "Hrvatski",
+    "hu": "Magyar",
+    "id": "Bahasa Indonesia",
+    "it": "Italiano",
+    "ja": "日本語",
+    "kn-IN": "ಕನ್ನಡ",
+    "ko": "한국어",
+    "ml-IN": "മലയാളം",
+    "mr-IN": "मराठी",
+    "ms": "Bahasa Melayu",
+    "nl-NL": "Nederlands",
+    "no": "Norsk",
+    "or-IN": "ଓଡ଼ିଆ",
+    "pa-IN": "ਪੰਜਾਬੀ",
+    "pl": "Polski",
+    "pt-BR": "Português (Brasil)",
+    "pt-PT": "Português (Portugal)",
+    "ro": "Română",
+    "ru": "Русский",
+    "sk": "Slovenčina",
+    "sl-SI": "Slovenščina",
+    "sv": "Svenska",
+    "ta-IN": "தமிழ்",
+    "te-IN": "తెలుగు",
+    "th": "ไทย",
+    "tr": "Türkçe",
+    "uk": "Українська",
+    "ur-PK": "اردو",
+    "vi": "Tiếng Việt",
+    "zh-Hans": "简体中文",
+    "zh-Hant": "繁體中文"
+  },
+  "official_locales": [
+    "ar-SA",
+    "bn-BD",
+    "ca",
+    "zh-Hans",
+    "zh-Hant",
+    "hr",
+    "cs",
+    "da",
+    "nl-NL",
+    "en-AU",
+    "en-CA",
+    "en-GB",
+    "en-US",
+    "fi",
+    "fr-CA",
+    "fr-FR",
+    "de-DE",
+    "el",
+    "gu-IN",
+    "he",
+    "hi",
+    "hu",
+    "id",
+    "it",
+    "ja",
+    "kn-IN",
+    "ko",
+    "ms",
+    "ml-IN",
+    "mr-IN",
+    "no",
+    "or-IN",
+    "pl",
+    "pt-BR",
+    "pt-PT",
+    "pa-IN",
+    "ro",
+    "ru",
+    "sk",
+    "sl-SI",
+    "es-MX",
+    "es-ES",
+    "sv",
+    "ta-IN",
+    "te-IN",
+    "th",
+    "tr",
+    "uk",
+    "ur-PK",
+    "vi"
+  ],
+  "palette": {
+    "accent": "#8b5cf6",
+    "accent2": "#ec4899"
+  },
+  "parent_notice": {
+    "ar-SA": "هذه صفحة دعم مخصّصة للوالدين والأوصياء. يجب أن يفتح شخص بالغ روابط الشراء والروابط الخارجية.",
+    "bn-BD": "এই সহায়তা পৃষ্ঠাটি বাবা-মা ও অভিভাবকদের জন্য। কেনাকাটা ও বাইরের লিংক একজন প্রাপ্তবয়স্কই খুলবেন।",
+    "ca": "Aquesta pàgina d’assistència és per a mares, pares i tutors. Les compres i els enllaços externs els ha d’obrir una persona adulta.",
+    "cs": "Tato stránka podpory je určena rodičům a zákonným zástupcům. Nákupy a externí odkazy má otevírat dospělá osoba.",
+    "da": "Denne supportside er til forældre og værger. Køb og eksterne links skal åbnes af en voksen.",
+    "de-DE": "Diese Supportseite richtet sich an Eltern und Erziehungsberechtigte. Käufe und externe Links sollten von einer erwachsenen Person geöffnet werden.",
+    "el": "Αυτή η σελίδα υποστήριξης απευθύνεται σε γονείς και κηδεμόνες. Οι αγορές και οι εξωτερικοί σύνδεσμοι πρέπει να ανοίγονται από ενήλικα.",
+    "en-AU": "This support page is for parents and guardians. Purchases and external links should be opened by an adult.",
+    "en-CA": "This support page is for parents and guardians. Purchases and external links should be opened by an adult.",
+    "en-GB": "This support page is for parents and guardians. Purchases and external links should be opened by an adult.",
+    "en-US": "This support page is for parents and guardians. Purchases and external links should be opened by an adult.",
+    "es-ES": "Esta página de ayuda está dirigida a madres, padres y tutores. Las compras y los enlaces externos debe abrirlos una persona adulta.",
+    "es-MX": "Esta página de soporte es para madres, padres y tutores. Las compras y los enlaces externos debe abrirlos una persona adulta.",
+    "fi": "Tämä tukisivu on tarkoitettu vanhemmille ja huoltajille. Aikuisen tulee avata ostot ja ulkoiset linkit.",
+    "fr-CA": "Cette page d’assistance s’adresse aux parents et aux tuteurs. Les achats et les liens externes doivent être ouverts par un adulte.",
+    "fr-FR": "Cette page d’assistance s’adresse aux parents et aux responsables légaux. Les achats et les liens externes doivent être ouverts par un adulte.",
+    "gu-IN": "આ સહાય પેજ માતા-પિતા અને વાલીઓ માટે છે. ખરીદી અને બહારની લિંક્સ કોઈ પુખ્ત વ્યક્તિએ ખોલવી જોઈએ.",
+    "he": "דף התמיכה הזה מיועד להורים ולאפוטרופוסים. רכישות וקישורים חיצוניים צריכים להיפתח בידי מבוגר.",
+    "hi": "यह सहायता पृष्ठ माता-पिता और अभिभावकों के लिए है। खरीदारी और बाहरी लिंक किसी वयस्क को ही खोलने चाहिए।",
+    "hr": "Ova je stranica podrške namijenjena roditeljima i skrbnicima. Kupnju i vanjske poveznice treba otvoriti odrasla osoba.",
+    "hu": "Ez a támogatási oldal szülőknek és gondviselőknek szól. A vásárlásokat és a külső hivatkozásokat felnőtt nyissa meg.",
+    "id": "Halaman dukungan ini ditujukan untuk orang tua dan wali. Pembelian serta tautan eksternal harus dibuka oleh orang dewasa.",
+    "it": "Questa pagina di assistenza è destinata a genitori e tutori. Gli acquisti e i link esterni devono essere aperti da un adulto.",
+    "ja": "このサポートページは保護者の方向けです。購入や外部リンクは大人の方が開いてください。",
+    "kn-IN": "ಈ ಬೆಂಬಲ ಪುಟವು ಪೋಷಕರು ಮತ್ತು ಪಾಲಕರಿಗಾಗಿ. ಖರೀದಿಗಳು ಹಾಗೂ ಹೊರಗಿನ ಲಿಂಕ್‌ಗಳನ್ನು ವಯಸ್ಕರು ಮಾತ್ರ ತೆರೆಯಬೇಕು.",
+    "ko": "이 지원 페이지는 부모와 보호자를 위한 페이지입니다. 구매 및 외부 링크는 성인이 열어 주세요.",
+    "ml-IN": "ഈ സഹായ പേജ് മാതാപിതാക്കൾക്കും രക്ഷിതാക്കൾക്കും വേണ്ടിയുള്ളതാണ്. വാങ്ങലുകളും പുറത്തേക്കുള്ള ലിങ്കുകളും ഒരു മുതിർന്നയാൾ തുറക്കണം.",
+    "mr-IN": "हे सहाय्य पृष्ठ पालक आणि संरक्षकांसाठी आहे. खरेदी व बाह्य दुवे प्रौढ व्यक्तीनेच उघडावेत.",
+    "ms": "Halaman sokongan ini untuk ibu bapa dan penjaga. Pembelian serta pautan luar hendaklah dibuka oleh orang dewasa.",
+    "nl-NL": "Deze supportpagina is bedoeld voor ouders en voogden. Aankopen en externe links moeten door een volwassene worden geopend.",
+    "no": "Denne støttesiden er for foreldre og foresatte. Kjøp og eksterne lenker skal åpnes av en voksen.",
+    "or-IN": "ଏହି ସହାୟତା ପୃଷ୍ଠାଟି ମାତାପିତା ଓ ଅଭିଭାବକଙ୍କ ପାଇଁ। କ୍ରୟ ଏବଂ ବାହ୍ୟ ଲିଙ୍କ ଜଣେ ବୟସ୍କ ବ୍ୟକ୍ତି ଖୋଲିବା ଉଚିତ।",
+    "pa-IN": "ਇਹ ਸਹਾਇਤਾ ਸਫ਼ਾ ਮਾਪਿਆਂ ਅਤੇ ਸਰਪ੍ਰਸਤਾਂ ਲਈ ਹੈ। ਖਰੀਦਾਂ ਅਤੇ ਬਾਹਰੀ ਲਿੰਕ ਕਿਸੇ ਬਾਲਗ ਵੱਲੋਂ ਹੀ ਖੋਲ੍ਹੇ ਜਾਣੇ ਚਾਹੀਦੇ ਹਨ।",
+    "pl": "Ta strona pomocy jest przeznaczona dla rodziców i opiekunów. Zakupy oraz linki zewnętrzne powinna otwierać osoba dorosła.",
+    "pt-BR": "Esta página de suporte é destinada a pais e responsáveis. Compras e links externos devem ser abertos por um adulto.",
+    "pt-PT": "Esta página de apoio destina-se a pais e responsáveis. As compras e as ligações externas devem ser abertas por um adulto.",
+    "ro": "Această pagină de asistență este pentru părinți și tutori. Achizițiile și linkurile externe trebuie deschise de un adult.",
+    "ru": "Эта страница поддержки предназначена для родителей и опекунов. Покупки и внешние ссылки должен открывать взрослый.",
+    "sk": "Táto stránka podpory je určená rodičom a zákonným zástupcom. Nákupy a externé odkazy má otvárať dospelá osoba.",
+    "sl-SI": "Ta stran za podporo je namenjena staršem in skrbnikom. Nakupe in zunanje povezave naj odpira odrasla oseba.",
+    "sv": "Den här supportsidan är avsedd för föräldrar och vårdnadshavare. Köp och externa länkar ska öppnas av en vuxen.",
+    "ta-IN": "இந்த உதவிப் பக்கம் பெற்றோர் மற்றும் பாதுகாவலர்களுக்கானது. வாங்குதல்கள் மற்றும் வெளிப்புற இணைப்புகளை ஒரு பெரியவர் மட்டுமே திறக்க வேண்டும்.",
+    "te-IN": "ఈ సహాయ పేజీ తల్లిదండ్రులు మరియు సంరక్షకుల కోసం. కొనుగోళ్లు, బయటి లింకులు పెద్దవారే తెరవాలి.",
+    "th": "หน้าช่วยเหลือนี้จัดทำสำหรับพ่อแม่และผู้ปกครอง การซื้อและลิงก์ภายนอกควรเปิดโดยผู้ใหญ่",
+    "tr": "Bu destek sayfası ebeveynler ve veliler içindir. Satın alma işlemleri ile harici bağlantılar bir yetişkin tarafından açılmalıdır.",
+    "uk": "Ця сторінка підтримки призначена для батьків і опікунів. Покупки та зовнішні посилання має відкривати дорослий.",
+    "ur-PK": "یہ معاونتی صفحہ والدین اور سرپرستوں کے لیے ہے۔ خریداری اور بیرونی روابط کسی بالغ کو ہی کھولنے چاہییں۔",
+    "vi": "Trang hỗ trợ này dành cho cha mẹ và người giám hộ. Việc mua hàng và mở liên kết bên ngoài nên do người lớn thực hiện.",
+    "zh-Hans": "本支持页面供家长和监护人使用。购买及外部链接应由成年人打开。",
+    "zh-Hant": "本支援頁面供家長與監護人使用。購買及外部連結應由成人開啟。"
+  },
+  "preserved_surface_sha256": {
+    "ar-SA/index.html": "8c22709038ba21551c5c6864350c0eea557cf055326c775762577042bee05755",
+    "ar-SA/support.html": "cf8725d89ad61dcee215c89a1d1db31e9617e314e78468285560132c9ce08feb",
+    "bn-BD/index.html": "e20b69a4e16788ea9792fb941b36cc62740bc73f732a13497c0f7efc300dcf90",
+    "bn-BD/support.html": "88d2fbc1103273ef3dd337ddd76fd68993fea28f962c64f040619fa961f733f3",
+    "ca/index.html": "abed3f5ffd05ee7d5e3164356ebb8aa437406477df77349b453c697cdecdece6",
+    "ca/support.html": "4f8fd9ca471b4edbdd86419e2878077029168cdd42ae746cbc2ea0cb436e7cc1",
+    "cs/index.html": "36f7581f694f5a62b42186e4f666ba063ae64ba60428d959671e1461245b4366",
+    "cs/support.html": "71a8178fe2244b86f646c4c5ae0f26886673d9df2f429ea2045e913633d4d74f",
+    "da/index.html": "45fbbe18836884c466592164f335bddf7a0b21938ae10a4f4333bf371da885a9",
+    "da/support.html": "19009f7e3e63ce9cc2f00b7e1e0759f400c3911d33be40bf5dd6260519ecf1dc",
+    "de-DE/index.html": "8310bb5f7b7f586b3c85a03bd5b8935834701eff350c39a1c1e65dd740367293",
+    "de-DE/support.html": "043c4495887a1fad0ada351bf1b4d0fb696a1a3acb5ff388b683fefdc79f4eb8",
+    "el/index.html": "5cb86649d31abbfeaf1f8cf2d83eed54c6125f02821c1f46e04cf32c83499896",
+    "el/support.html": "7465e1ac793700caf2d26ee92a459b87d0e2da711744bfc21e23c13d347a405f",
+    "es-ES/index.html": "1e0826748c7783f15cf32e8c8e8907c4f92b77474f146aeef27c40670f569695",
+    "es-ES/support.html": "de68b4afbdd803596e26e3afd81f8989a06601ff4600ea4e6ca361e82398f641",
+    "es-MX/index.html": "a2adbf3caa9a69511a952d2af5f4fc16bb3e4e52d1e41a529cd0e37e0e187e8f",
+    "es-MX/support.html": "6a2c707a7247ca92b4bc936ed8f0d627f061de5c8fe84036bacdbf444fa6f7a6",
+    "fi/index.html": "b6b123bf868bfc810cd0861d53f8c56ab21c8b52c4e520104c0ad3c9136b11bc",
+    "fi/support.html": "5d829601e7a6d02cc23ff96b9b72102eed87f6586f32d396b8fc3d9bd83d1671",
+    "fr-CA/index.html": "2131f9ef8490638b984dbeea1ff408d99ae8824295b4d32b5966605ef5063d8f",
+    "fr-CA/support.html": "30eaffad329d4a5f5afd1556a9beddb519ca2ece3509f5c662cd37e7b4043f34",
+    "fr-FR/index.html": "094655229889bc7a6be09320e9cd7454998d039f9e8257c91a39e2f507a7751a",
+    "fr-FR/support.html": "e0e4bdacfa643ec77e743bf39115380b935476a961a3feab205e3bfaab58b9f3",
+    "gu-IN/index.html": "724ba40cb8d245b23593dd59bb5c0f884b1dac2a8912a3678051df884faf0a98",
+    "gu-IN/support.html": "71656c14f27b9655801d4441b842240398df79d8adce67e694804bd2209511c2",
+    "he/index.html": "1026049416d4df63fb64f1fc0da9b6127145331f1a52b271521b76cbe210a282",
+    "he/support.html": "d7129cd50e2309a2f3538c9fbf277f2680f255173772949e8a8dfcd3c6ede0d9",
+    "hi/index.html": "78c3c38f4bdc427d99127f44829ddd706d7d1d57333f9ffeef836d44e81a0854",
+    "hi/support.html": "fed24c6583686bace887f343753f3b9efdfb6656b38d12bf16ae1150f49c9dd5",
+    "hr/index.html": "cab2e5b295098ae9fd0c01ec6182332df4aba6cded433204a11174d0e9147a1b",
+    "hr/support.html": "5f45bc13af053746c8c59cb82051f68af8ecd2e3c89ff0eaca695cc1f4a454fe",
+    "hu/index.html": "ab3c5cf737469559015d2d8d189edab3daeeabea51ea1be3e2fc6499cb79d934",
+    "hu/support.html": "da8f7943ee6ac6bfa7eaeb18b9f9dde035b94a51af0fbea2bef424b150c1633e",
+    "id/index.html": "4a26624f80187900f5abe6d455e8f38d1738920b38a8cc724246f2099937f389",
+    "id/support.html": "4093dc98911ca0848d22ca4c4c0acd757863639f4bca3a69cd4f3526f0855275",
+    "it/index.html": "dbc2179fd031c0949771e643da961be6088c3fe419da90dd56030ccda12a6dd6",
+    "it/support.html": "6cb11a20a849ce1757fb7dd8b4780e4de0b4186303b0bc8d8df33112cb24ff35",
+    "ja/index.html": "4b0ff63460aea8f7bb38e7d85303867f3978d672e67632d4dfb7c1882904b95b",
+    "ja/support.html": "febe0b354b96b5795d9f52dbd8b3a91b6c7b097f549e913ffa4570ba7b5a1895",
+    "kn-IN/index.html": "7b70fb727ea916c7e32b11f70fed59c0a95788f609354a4dbfd7a8ba74ebbdc3",
+    "kn-IN/support.html": "b415bb2a1fa224a054643a1d624206a19702ae26183abed5edcbb728f38e5cae",
+    "ko/index.html": "d63865008731f288d7fbd2ca52c0bcd2e1e132db85ddc38c9cab7d5207c2feed",
+    "ko/support.html": "b06f55bc9bb5e00fa5486df9df9dbddbbab821b2d10d784344376eaec06792e5",
+    "ml-IN/index.html": "6e7f8f58908eef536c9e9dbecc9ac3ac5f549aa5c861c337e0104cf01275f506",
+    "ml-IN/support.html": "9dcac5cfc913e7f72530c8a92e9783d56d51f932ba8858ee7edf51376cd47bdd",
+    "mr-IN/index.html": "1d160c8451c492ead35d54a52ea7d3a225bf4fe4b70cddf13942090e53112ca4",
+    "mr-IN/support.html": "649dd5e4c05a24728c6ac427c78e80c639dab68a31c20b867b75be2c0697138e",
+    "ms/index.html": "71b583cb6c50aac0adb07fcf6464abbe91a5bf2c070f03cde9d5ca1144f2d511",
+    "ms/support.html": "91e7ae5cdadad1e9495be058b96589bd17d4655b3ac7d51509e63cf0591432e1",
+    "nl-NL/index.html": "51eb2f1ade5dd889cd1fac2c92e27d88efea9afba2e828e12d2dc67bd22e82e7",
+    "nl-NL/support.html": "5967875791cd9b7bc2822dd4eb522e4aa714c5f390684ddff98bd03d959d903a",
+    "no/index.html": "9d2a28b54b474596bd2623646b1a05827f56eb1be3b9866fefa08b6294b59f8c",
+    "no/support.html": "d2b7494cf6a8ad0c851e7d70ab2a83ab878bd723df615f092bc4c19bb982cb66",
+    "pa-IN/index.html": "562cbdc79da38f57bcfb97d36329580b425af82944df173615cd8e0e33b094a1",
+    "pa-IN/support.html": "afe09c9fe150d76d61f235913748d2d66441bbdc069751b6c863818aee96dc03",
+    "pl/index.html": "c6c56ae846a9f20c711ec26b601c0efb61ae2eb82ea92222a596cb6b95a52891",
+    "pl/support.html": "754b63a26b639e8487000e74f15b7715a742fed5c35ca3ec7353593a985c9aab",
+    "pt-BR/index.html": "14ca2edf7bbe9411c1eb090175a2678dd4bdda74facd9c9fe9287cd33e839966",
+    "pt-BR/support.html": "4e865fa536e8f8bcf8eded267a94815fae6c5279b350b4663fe30568252461d1",
+    "pt-PT/index.html": "634f84e5b76ed94e4e71a83f71cb02af15dd90800903f82787c97f84224b71d2",
+    "pt-PT/support.html": "2192d35bb51bd432b24ed305b61e21eae57ee511d3e885105b28ea7a9d6d1c39",
+    "ro/index.html": "8896b57122df54c1c27866c0b344ebd10c0b43b0835b426d1f3118ce07e09b23",
+    "ro/support.html": "ac7151df01894dad1183597dfdb2c00181d7edde6dbf6f96b9c4ed03e7f3aed7",
+    "ru/index.html": "1c9881a8c24153b014e5847a50a96e82a628a9e5f6f8f5066aef933c35731594",
+    "ru/support.html": "99583ef89b9ddc94f94dce53bc7d01e7349964b8a58842410ef0587efe199d0e",
+    "sk/index.html": "c41623c95b8fef63fdc308c5185fe21b25a5552b4925448dfdb55bd195b35d7f",
+    "sk/support.html": "12392a4eb1e8c70929cfd7dab8ace7bd6dcfd2024410600a2030a1268523156d",
+    "sl-SI/index.html": "e29b0eab9c5ef9528264f8452b6ff970c9daac6375cfbf512601e874160f5720",
+    "sl-SI/support.html": "5518b76f665c126ad1e5329ad0f2f86472930d693f4ca155fd3b1572f9910235",
+    "sv/index.html": "e26a8c18a904110dadd2fc2d58a0c5a4d5dba91c5ff86b7fc68850d9fd295600",
+    "sv/support.html": "ef2e83c68de213b9480817f21dec25ddd1b71b59a6e8e484dc3c05401ef0473f",
+    "ta-IN/index.html": "73153f555185c2f50587cec58b5bf3881ab2878baf927dc7a212086680beb47a",
+    "ta-IN/support.html": "36b3e90fb93a74dc8d13a72522fcd877811211836488a42f6a2dca607331d20d",
+    "te-IN/index.html": "75bd05f4d339fe7322a1c3601b41511555834d5fafc9c0c237bc1371d6b2f1a5",
+    "te-IN/support.html": "dbcc58368c9026b412ea217860408e026d850f83188278ccacc4df4dc3de227c",
+    "th/index.html": "d0b691c6e226901bf6752c2fcdd4b3faf27d7606129c3248a80851a87a897cbf",
+    "th/support.html": "f23cf82ed2ab99ed1954add4c7352e33b9e3f0c2967fe772d1673616c43dc0e1",
+    "tr/index.html": "7405e22d94bddd0a06961c30222b0d1079c7af470db9682e088b30e38c3eea90",
+    "tr/support.html": "b1c2281ca97fda87c1fe0b677ceb6a9b9717176d53bb79ce853731e5f4fc8c23",
+    "uk/index.html": "e984822749b513cd6c27648a8a90e6f9b4e17876846a027c6ad827315feeef88",
+    "uk/support.html": "cbd1a98a9d9347832b08b9b7d6b91774d5790324c4e0d0ebd22d666d5bb8ac75",
+    "ur-PK/index.html": "441c041267ec1a74c8462c6c6f40340927d74c891a0dbb5a20acc2103b8c224e",
+    "ur-PK/support.html": "0a919c7acb475cf0362bc02c7bde0a54684f9ed7507359be5c994377a4262a5e",
+    "vi/index.html": "bcdaa7a1064df9fa333cb14e1d5a82c432db5fe6faee02faf70a31989a2db170",
+    "vi/support.html": "03cba80bf2f41de6e81d18af04dfa58944233ef11932709a0578b614be895b80",
+    "zh-Hans/index.html": "c013070e1733671f03bb1094c0a6842167e710c7e867ed60a09a88d9f4810e71",
+    "zh-Hans/support.html": "5c3dda723b9e37978e4bffb2c73217f0559e0c6cca65fbc0fd6a62240d36b473",
+    "zh-Hant/index.html": "4c85e30f8c6727062f9f008144b8b21e1a58512640a07eacd8fb90212bc0e1fd",
+    "zh-Hant/support.html": "8e851bc4def4a73c4179f9772463ec286b2e1728ef641d089ce3f0ff9586c6ee"
+  },
+  "preserved_surfaces": [
+    "ar-SA/index.html",
+    "ar-SA/support.html",
+    "bn-BD/index.html",
+    "bn-BD/support.html",
+    "ca/index.html",
+    "ca/support.html",
+    "cs/index.html",
+    "cs/support.html",
+    "da/index.html",
+    "da/support.html",
+    "de-DE/index.html",
+    "de-DE/support.html",
+    "el/index.html",
+    "el/support.html",
+    "es-ES/index.html",
+    "es-ES/support.html",
+    "es-MX/index.html",
+    "es-MX/support.html",
+    "fi/index.html",
+    "fi/support.html",
+    "fr-CA/index.html",
+    "fr-CA/support.html",
+    "fr-FR/index.html",
+    "fr-FR/support.html",
+    "gu-IN/index.html",
+    "gu-IN/support.html",
+    "he/index.html",
+    "he/support.html",
+    "hi/index.html",
+    "hi/support.html",
+    "hr/index.html",
+    "hr/support.html",
+    "hu/index.html",
+    "hu/support.html",
+    "id/index.html",
+    "id/support.html",
+    "it/index.html",
+    "it/support.html",
+    "ja/index.html",
+    "ja/support.html",
+    "kn-IN/index.html",
+    "kn-IN/support.html",
+    "ko/index.html",
+    "ko/support.html",
+    "ml-IN/index.html",
+    "ml-IN/support.html",
+    "mr-IN/index.html",
+    "mr-IN/support.html",
+    "ms/index.html",
+    "ms/support.html",
+    "nl-NL/index.html",
+    "nl-NL/support.html",
+    "no/index.html",
+    "no/support.html",
+    "pa-IN/index.html",
+    "pa-IN/support.html",
+    "pl/index.html",
+    "pl/support.html",
+    "pt-BR/index.html",
+    "pt-BR/support.html",
+    "pt-PT/index.html",
+    "pt-PT/support.html",
+    "ro/index.html",
+    "ro/support.html",
+    "ru/index.html",
+    "ru/support.html",
+    "sk/index.html",
+    "sk/support.html",
+    "sl-SI/index.html",
+    "sl-SI/support.html",
+    "sv/index.html",
+    "sv/support.html",
+    "ta-IN/index.html",
+    "ta-IN/support.html",
+    "te-IN/index.html",
+    "te-IN/support.html",
+    "th/index.html",
+    "th/support.html",
+    "tr/index.html",
+    "tr/support.html",
+    "uk/index.html",
+    "uk/support.html",
+    "ur-PK/index.html",
+    "ur-PK/support.html",
+    "vi/index.html",
+    "vi/support.html",
+    "zh-Hans/index.html",
+    "zh-Hans/support.html",
+    "zh-Hant/index.html",
+    "zh-Hant/support.html"
+  ],
+  "rtl_locales": [
+    "ar-SA",
+    "he",
+    "ur-PK"
+  ],
+  "schema": "support-required-surfaces/v1",
+  "site_key": "lumi-support",
+  "surface_decisions": {
+    "ar-SA/index.html": "AUGMENT",
+    "ar-SA/privacy.html": "GENERATE",
+    "ar-SA/support.html": "AUGMENT",
+    "bn-BD/index.html": "AUGMENT",
+    "bn-BD/privacy.html": "GENERATE",
+    "bn-BD/support.html": "AUGMENT",
+    "ca/index.html": "AUGMENT",
+    "ca/privacy.html": "GENERATE",
+    "ca/support.html": "AUGMENT",
+    "cs/index.html": "AUGMENT",
+    "cs/privacy.html": "GENERATE",
+    "cs/support.html": "AUGMENT",
+    "da/index.html": "AUGMENT",
+    "da/privacy.html": "GENERATE",
+    "da/support.html": "AUGMENT",
+    "de-DE/index.html": "AUGMENT",
+    "de-DE/privacy.html": "GENERATE",
+    "de-DE/support.html": "AUGMENT",
+    "el/index.html": "AUGMENT",
+    "el/privacy.html": "GENERATE",
+    "el/support.html": "AUGMENT",
+    "en-AU/index.html": "GENERATE",
+    "en-AU/privacy.html": "GENERATE",
+    "en-AU/support.html": "GENERATE",
+    "en-CA/index.html": "GENERATE",
+    "en-CA/privacy.html": "GENERATE",
+    "en-CA/support.html": "GENERATE",
+    "en-GB/index.html": "GENERATE",
+    "en-GB/privacy.html": "GENERATE",
+    "en-GB/support.html": "GENERATE",
+    "en-US/index.html": "GENERATE",
+    "en-US/privacy.html": "GENERATE",
+    "en-US/support.html": "GENERATE",
+    "es-ES/index.html": "AUGMENT",
+    "es-ES/privacy.html": "GENERATE",
+    "es-ES/support.html": "AUGMENT",
+    "es-MX/index.html": "AUGMENT",
+    "es-MX/privacy.html": "GENERATE",
+    "es-MX/support.html": "AUGMENT",
+    "fi/index.html": "AUGMENT",
+    "fi/privacy.html": "GENERATE",
+    "fi/support.html": "AUGMENT",
+    "fr-CA/index.html": "AUGMENT",
+    "fr-CA/privacy.html": "GENERATE",
+    "fr-CA/support.html": "AUGMENT",
+    "fr-FR/index.html": "AUGMENT",
+    "fr-FR/privacy.html": "GENERATE",
+    "fr-FR/support.html": "AUGMENT",
+    "gu-IN/index.html": "AUGMENT",
+    "gu-IN/privacy.html": "GENERATE",
+    "gu-IN/support.html": "AUGMENT",
+    "he/index.html": "AUGMENT",
+    "he/privacy.html": "GENERATE",
+    "he/support.html": "AUGMENT",
+    "hi/index.html": "AUGMENT",
+    "hi/privacy.html": "GENERATE",
+    "hi/support.html": "AUGMENT",
+    "hr/index.html": "AUGMENT",
+    "hr/privacy.html": "GENERATE",
+    "hr/support.html": "AUGMENT",
+    "hu/index.html": "AUGMENT",
+    "hu/privacy.html": "GENERATE",
+    "hu/support.html": "AUGMENT",
+    "id/index.html": "AUGMENT",
+    "id/privacy.html": "GENERATE",
+    "id/support.html": "AUGMENT",
+    "it/index.html": "AUGMENT",
+    "it/privacy.html": "GENERATE",
+    "it/support.html": "AUGMENT",
+    "ja/index.html": "AUGMENT",
+    "ja/privacy.html": "GENERATE",
+    "ja/support.html": "AUGMENT",
+    "kn-IN/index.html": "AUGMENT",
+    "kn-IN/privacy.html": "GENERATE",
+    "kn-IN/support.html": "AUGMENT",
+    "ko/index.html": "AUGMENT",
+    "ko/privacy.html": "GENERATE",
+    "ko/support.html": "AUGMENT",
+    "ml-IN/index.html": "AUGMENT",
+    "ml-IN/privacy.html": "GENERATE",
+    "ml-IN/support.html": "AUGMENT",
+    "mr-IN/index.html": "AUGMENT",
+    "mr-IN/privacy.html": "GENERATE",
+    "mr-IN/support.html": "AUGMENT",
+    "ms/index.html": "AUGMENT",
+    "ms/privacy.html": "GENERATE",
+    "ms/support.html": "AUGMENT",
+    "nl-NL/index.html": "AUGMENT",
+    "nl-NL/privacy.html": "GENERATE",
+    "nl-NL/support.html": "AUGMENT",
+    "no/index.html": "AUGMENT",
+    "no/privacy.html": "GENERATE",
+    "no/support.html": "AUGMENT",
+    "or-IN/index.html": "GENERATE",
+    "or-IN/privacy.html": "GENERATE",
+    "or-IN/support.html": "GENERATE",
+    "pa-IN/index.html": "AUGMENT",
+    "pa-IN/privacy.html": "GENERATE",
+    "pa-IN/support.html": "AUGMENT",
+    "pl/index.html": "AUGMENT",
+    "pl/privacy.html": "GENERATE",
+    "pl/support.html": "AUGMENT",
+    "pt-BR/index.html": "AUGMENT",
+    "pt-BR/privacy.html": "GENERATE",
+    "pt-BR/support.html": "AUGMENT",
+    "pt-PT/index.html": "AUGMENT",
+    "pt-PT/privacy.html": "GENERATE",
+    "pt-PT/support.html": "AUGMENT",
+    "ro/index.html": "AUGMENT",
+    "ro/privacy.html": "GENERATE",
+    "ro/support.html": "AUGMENT",
+    "ru/index.html": "AUGMENT",
+    "ru/privacy.html": "GENERATE",
+    "ru/support.html": "AUGMENT",
+    "sk/index.html": "AUGMENT",
+    "sk/privacy.html": "GENERATE",
+    "sk/support.html": "AUGMENT",
+    "sl-SI/index.html": "AUGMENT",
+    "sl-SI/privacy.html": "GENERATE",
+    "sl-SI/support.html": "AUGMENT",
+    "sv/index.html": "AUGMENT",
+    "sv/privacy.html": "GENERATE",
+    "sv/support.html": "AUGMENT",
+    "ta-IN/index.html": "AUGMENT",
+    "ta-IN/privacy.html": "GENERATE",
+    "ta-IN/support.html": "AUGMENT",
+    "te-IN/index.html": "AUGMENT",
+    "te-IN/privacy.html": "GENERATE",
+    "te-IN/support.html": "AUGMENT",
+    "th/index.html": "AUGMENT",
+    "th/privacy.html": "GENERATE",
+    "th/support.html": "AUGMENT",
+    "tr/index.html": "AUGMENT",
+    "tr/privacy.html": "GENERATE",
+    "tr/support.html": "AUGMENT",
+    "uk/index.html": "AUGMENT",
+    "uk/privacy.html": "GENERATE",
+    "uk/support.html": "AUGMENT",
+    "ur-PK/index.html": "AUGMENT",
+    "ur-PK/privacy.html": "GENERATE",
+    "ur-PK/support.html": "AUGMENT",
+    "vi/index.html": "AUGMENT",
+    "vi/privacy.html": "GENERATE",
+    "vi/support.html": "AUGMENT",
+    "zh-Hans/index.html": "AUGMENT",
+    "zh-Hans/privacy.html": "GENERATE",
+    "zh-Hans/support.html": "AUGMENT",
+    "zh-Hant/index.html": "AUGMENT",
+    "zh-Hant/privacy.html": "GENERATE",
+    "zh-Hant/support.html": "AUGMENT"
+  },
+  "template_surface": "fr-FR/index.html",
+  "upstream_authored_surfaces": [
+    "ar-SA/index.html",
+    "ar-SA/support.html",
+    "bn-BD/index.html",
+    "bn-BD/support.html",
+    "ca/index.html",
+    "ca/support.html",
+    "cs/index.html",
+    "cs/support.html",
+    "da/index.html",
+    "da/support.html",
+    "de-DE/index.html",
+    "de-DE/support.html",
+    "el/index.html",
+    "el/support.html",
+    "es-ES/index.html",
+    "es-ES/support.html",
+    "es-MX/index.html",
+    "es-MX/support.html",
+    "fi/index.html",
+    "fi/support.html",
+    "fr-CA/index.html",
+    "fr-CA/support.html",
+    "fr-FR/index.html",
+    "fr-FR/support.html",
+    "gu-IN/index.html",
+    "gu-IN/support.html",
+    "he/index.html",
+    "he/support.html",
+    "hi/index.html",
+    "hi/support.html",
+    "hr/index.html",
+    "hr/support.html",
+    "hu/index.html",
+    "hu/support.html",
+    "id/index.html",
+    "id/support.html",
+    "it/index.html",
+    "it/support.html",
+    "ja/index.html",
+    "ja/support.html",
+    "kn-IN/index.html",
+    "kn-IN/support.html",
+    "ko/index.html",
+    "ko/support.html",
+    "ml-IN/index.html",
+    "ml-IN/support.html",
+    "mr-IN/index.html",
+    "mr-IN/support.html",
+    "ms/index.html",
+    "ms/support.html",
+    "nl-NL/index.html",
+    "nl-NL/support.html",
+    "no/index.html",
+    "no/support.html",
+    "pa-IN/index.html",
+    "pa-IN/support.html",
+    "pl/index.html",
+    "pl/support.html",
+    "pt-BR/index.html",
+    "pt-BR/support.html",
+    "pt-PT/index.html",
+    "pt-PT/support.html",
+    "ro/index.html",
+    "ro/support.html",
+    "ru/index.html",
+    "ru/support.html",
+    "sk/index.html",
+    "sk/support.html",
+    "sl-SI/index.html",
+    "sl-SI/support.html",
+    "sv/index.html",
+    "sv/support.html",
+    "ta-IN/index.html",
+    "ta-IN/support.html",
+    "te-IN/index.html",
+    "te-IN/support.html",
+    "th/index.html",
+    "th/support.html",
+    "tr/index.html",
+    "tr/support.html",
+    "uk/index.html",
+    "uk/support.html",
+    "ur-PK/index.html",
+    "ur-PK/support.html",
+    "vi/index.html",
+    "vi/support.html",
+    "zh-Hans/index.html",
+    "zh-Hans/support.html",
+    "zh-Hant/index.html",
+    "zh-Hant/support.html"
+  ],
+  "verified_app_store_urls": [
+    "https://apps.apple.com/app/id6773017109",
+    "https://apps.apple.com/app/id6773017109)**",
+    "https://apps.apple.com/app/id6775773117",
+    "https://apps.apple.com/app/id6775773117)**",
+    "https://apps.apple.com/app/id6778269699?pt=118326163&ct=sup_lumi&mt=8",
+    "https://apps.apple.com/app/id6778748533?pt=118326163&ct=sup_lumi&mt=8",
+    "https://apps.apple.com/app/id6779552704?pt=118326163&ct=sup_lumi&mt=8",
+    "https://apps.apple.com/app/id6779750237?pt=118326163&ct=sup_lumi&mt=8"
+  ],
+  "x_default_targets": {
+    "index": "",
+    "privacy": "",
+    "support": "help.html"
+  }
+}
