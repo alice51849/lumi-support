@@ -14,6 +14,13 @@
 - [Help, FAQ and troubleshooting](https://open.cait518.cc/lumi-support/help.html)
 - [Official support site](https://open.cait518.cc/lumi-support/)
 
+## Product fact cards
+
+- [Lumi Bopomofo — product fact card (en)](https://open.cait518.cc/lumi-support/about-lumi-app.html): what it is, who it is for, how pricing works, how it differs from the usual approach, plus FAQ
+- [Lumi ボポモフォ — product fact card (ja)](https://open.cait518.cc/lumi-support/about-lumi-app.ja.html): what it is, who it is for, how pricing works, how it differs from the usual approach, plus FAQ
+- [Lumi โปโปโมโฟ — product fact card (th)](https://open.cait518.cc/lumi-support/about-lumi-app.th.html): what it is, who it is for, how pricing works, how it differs from the usual approach, plus FAQ
+- [Lumi بوبوموفو — product fact card (ar-SA)](https://open.cait518.cc/lumi-support/about-lumi-app.ar-SA.html): what it is, who it is for, how pricing works, how it differs from the usual approach, plus FAQ
+
 ## Portfolio
 
 - [All public iOS apps](https://alice51849.github.io/ios-app-guide/apps/index.html)
