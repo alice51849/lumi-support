@@ -55,6 +55,9 @@ a{color:var(--accent)}
 <meta name="twitter:card" content="summary_large_image">
 <meta name="robots" content="max-image-preview:large">
 <!-- ls-sharecard:end -->
+<!-- ls-clickbeacon:start -->
+<script>(function(){var E='https://office.cait518.cc/api/click';function h(e){try{var t=e.target,l=t&&t.closest&&t.closest('a[href]');if(!l||!navigator.sendBeacon)return;var u=new URL(l.href,location.href),s,k,c,q=u.searchParams;if(u.hostname==='apps.apple.com'){s='apple';k=(u.pathname.match(/\/id(\d+)/)||[])[1]||'';c=q.get('ct')||''}else if(u.hostname==='play.google.com'){s='play';var r=new URLSearchParams(q.get('referrer')||'');k=r.get('utm_campaign')||q.get('id')||'';c=r.get('utm_source')||''}else return;navigator.sendBeacon(E,JSON.stringify({p:location.pathname.slice(0,200),a:k.slice(0,100),ct:c.slice(0,64),s:s}))}catch(_){}}document.addEventListener('click',h,true);document.addEventListener('auxclick',h,true)})();</script>
+<!-- ls-clickbeacon:end -->
 </head>
 <body>
 <p class="first-party-disclosure" data-first-party-disclosure="banner" role="note" style="margin:0;padding:8px 16px;background:#f3f4f6;color:#1f2937;border-bottom:1px solid #d1d5db;font-size:13px;line-height:1.5;text-align:center">This site is run by Lumi Studio, the developer of the featured apps. The apps recommended here are our own.</p>
@@ -111,7 +114,7 @@ a{color:var(--accent)}
 <p><a href="https://apps.apple.com/us/app/id6773017109?pt=118326163&amp;ct=bm_lumibopomofo_us_seo&amp;mt=8">Lumi Bopomofo on the App Store</a> · <a href="https://play.google.com/store/apps/details?id=com.alice51849.LumiZhuyin&amp;referrer=utm_source%3Dsqc1115w_lumibopomofo_us2%26utm_campaign%3Dlumibopomofo" rel="noopener" data-ls-play="section">Google Play</a></p>
 </div>
 <h2 id="related">Related guides</h2>
-<ul><li><a href="bopomofo-chart.html">Bopomofo (Zhuyin) chart — all 37 symbols</a></li><li><a href="teach-kids-zhuyin-30-days.html">A 30-day plan to teach your child Zhuyin at home</a></li><li><a href="printable-bopomofo-flashcards.html">Printable Bopomofo flashcards — how to print and 5 ways to play</a></li><li><a href="bopomofo-for-teachers.html">Teaching Bopomofo (Zhuyin) in a weekend Chinese school</a></li></ul>
+<ul><li><a href="bopomofo-chart.html">Bopomofo (Zhuyin) chart — all 37 symbols</a></li><li><a href="teach-kids-zhuyin-30-days.html">A 30-day plan to teach your child Zhuyin at home</a></li><li><a href="printable-bopomofo-flashcards.html">Printable Bopomofo flashcards — how to print and 5 ways to play</a></li><li><a href="bopomofo-for-teachers.html">Teaching Bopomofo (Zhuyin) in a weekend Chinese school</a></li><li><a href="zhuyin-for-kids.html">Zhuyin for kids: where to start at home, and how many minutes a day</a></li></ul>
 <p class="hd-note">Written by the developer of Lumi Bopomofo with AI assistance and checked against the app&#x27;s App Store listing. Last updated: 2026-10-15.</p>
 </main>
 </body>
